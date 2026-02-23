@@ -1,0 +1,1134 @@
+id,name_x,popularity,explicit,artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_min,release_date1,genres
+35iwgR4jXetI318WEWsa1Q,Carve,6,0,Uli,0.64,0.44,0,-13.34,1,0.45,0.67,0.74,0.15,0.13,104.85,3,2.12,2/22/1922,['unknown']
+021ht4sdgPcrDgSk7JTbKY,Capítulo 2.16 - Banquero Anarquista,0,0,Fernando Pessoa,0.7,0.26,0,-22.14,1,0.96,0.8,0,0.15,0.66,102.01,1,1.64,6/1/1922,['unknown']
+07A5yehtSnoedViJAZkNnc,Vivo Para Quererte - Remasterizado,0,0,Ignacio Corsini,0.43,0.18,1,-21.18,1,0.05,0.99,0.02,0.21,0.46,130.42,5,3.03,3/21/1922,"['tango', 'vintage tango']"
+08FmqUhxtyLTn6pAh6bk45,El Prisionero - Remasterizado,0,0,Ignacio Corsini,0.32,0.09,7,-27.96,1,0.05,1,0.92,0.1,0.4,169.98,3,2.95,3/21/1922,"['tango', 'vintage tango']"
+08y9GfoqCWfOGsKdwojr5e,Lady Of The Evening,0,0,Dick Haymes,0.4,0.16,3,-16.9,0,0.04,0.99,0.13,0.31,0.2,103.22,4,2.72,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+0BRXJHRNGQ3W4v9frnSfhu,Ave Maria,0,0,Dick Haymes,0.23,0.26,5,-12.34,1,0.04,0.99,0.25,0.1,0.05,118.89,4,2.98,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+0Dd9ImXtAtGwsmsAD69KZT,La Butte Rouge,0,0,Francis Marty,0.51,0.36,4,-12.83,1,0.12,0.96,0,0.16,0.73,85.75,5,2.24,1/1/1922,['unknown']
+0IA0Hju8CAgYfV1hwhidBH,La Java,0,0,Mistinguett,0.56,0.18,4,-13.76,1,0.05,0.99,0,0.32,0.65,133.09,3,2.69,1/1/1922,['vintage chanson']
+0IgI1UCz84pYeVetnl1lGP,Old Fashioned Girl,0,0,Greg Fieler,0.49,0.48,0,-16.22,0,0.04,0.62,0.01,0.11,0.54,139.95,4,5.17,1/1/1922,['unknown']
+0JV4iqw2lSKJaHBQZ0e5zK,Martín Fierro - Remasterizado,0,0,Ignacio Corsini,0.55,0.04,6,-23.23,1,0.15,1,0.93,0.15,0.61,75.6,3,3.02,3/29/1922,"['tango', 'vintage tango']"
+0OYGe21oScKJfanLyM7daU,Capítulo 2.8 - Banquero Anarquista,0,0,Fernando Pessoa,0.68,0.24,11,-22.45,0,0.96,0.79,0,0.21,0.72,96.78,3,1.65,6/1/1922,['unknown']
+0PE42H6tslQuyMMiGRiqtb,Capítulo 2.25 - Banquero Anarquista,0,0,Fernando Pessoa,0.75,0.23,2,-22.08,1,0.96,0.58,0,0.31,0.53,102.63,3,2.21,6/1/1922,['unknown']
+0PH9AACae1f957JAavhOl2,Lazy Boi,0,0,Uli,0.3,0.46,1,-18.64,1,0.45,0.52,0.86,0.44,0.4,87.92,4,2.62,2/22/1922,['unknown']
+0QiT0Oo5QdLXdFw6RDOj7h,Tu Verras Montmartre,1,0,Lucien Boyer,0.7,0.28,0,-15.39,1,0.17,1,0,0.16,0.9,127.53,4,3.11,1/1/1922,['unknown']
+0TWsNj5iSvbMTtbEDP7A4V,Elle Prend L'Boulevard Magenta,0,0,Félix Mayol,0.71,0.29,2,-14.98,1,0.18,0.97,0,0.12,0.84,107.52,4,2.87,1/1/1922,['vintage chanson']
+0cC9CYjLRIzwchQ42xVnq6,Capítulo 1.23 - Banquero Anarquista,0,0,Fernando Pessoa,0.69,0.2,4,-24.26,0,0.96,0.75,0,0.2,0.48,78.45,1,1.61,6/1/1922,['unknown']
+0eb1PfHxT6HnXvvdUOzmME,Capítulo 1.18 - Banquero Anarquista,0,0,Fernando Pessoa,0.8,0.17,8,-24.38,1,0.95,0.67,0,0.12,0.69,59.61,3,1.72,6/1/1922,['unknown']
+0grXU6GKVNCVMJbseA0Uhe,Capítulo 1.10 - Banquero Anarquista,0,0,Fernando Pessoa,0.7,0.21,2,-23.87,1,0.96,0.69,0,0.44,0.61,85.74,1,1.6,6/1/1922,['unknown']
+0kCB1bDVBC8gWCFcnJyIZc,Ca C'Est Une Chose,0,0,Victor Boucher,0.35,0.33,5,-13.04,1,0.06,1,0.01,0.36,0.41,76.4,4,3.13,1/1/1922,['unknown']
+0l3BQsVJ7F76wlN5QhJzaP,El Vendaval - Remasterizado,0,0,Ignacio Corsini,0.37,0.37,2,-17.14,1,0.09,0.98,0,0.93,0.75,159.67,4,2.56,3/21/1922,"['tango', 'vintage tango']"
+0pXUGQcBxfoQXg2e7G9Wwk,Ta Bouche,0,0,Jeanne Saint Bonnet,0.34,0.3,7,-14.06,1,0.05,1,0.08,0.1,0.22,76.58,3,3.02,1/1/1922,['unknown']
+0wA4YFw7ZNnpasfjVgJxpv,Capítulo 1.22 - Banquero Anarquista,0,0,Fernando Pessoa,0.7,0.24,0,-25.35,1,0.96,0.73,0,0.17,0.64,84.49,3,1.82,6/1/1922,['unknown']
+0xJCJ9XSNcdTIz0QKmhtEn,La Maleva - Remasterizado,0,0,Ignacio Corsini,0.34,0.1,8,-26.94,1,0.05,0.99,0.97,0.12,0.22,86.28,3,3.02,3/29/1922,"['tango', 'vintage tango']"
+0zyKYuXwmo8eR3BBxoxVEO,Capítulo 2.3 - Banquero Anarquista,0,0,Fernando Pessoa,0.66,0.21,0,-23.34,1,0.96,0.66,0,0.28,0.76,76.09,1,1.89,6/1/1922,['unknown']
+10XXG7gG75jIREUaModzOY,Capítulo 1.2 - Banquero Anarquista,0,0,Fernando Pessoa,0.67,0.24,5,-22.55,1,0.96,0.54,0,0.63,0.64,83.53,4,1.82,6/1/1922,['unknown']
+10u9ZWsOnhEyqFJCC2rQVy,J'Ai Vendu Mon Âme,0,0,Adolphe Bérard,0.58,0.15,10,-13.74,1,0.09,0.97,0,0.31,0.55,95.78,3,2.8,1/1/1922,['unknown']
+112adU33vo4C1eRZct2hWy,Nuits De Chine,4,0,Louis Lynel,0.42,0.29,7,-14,1,0.07,0.99,0,0.2,0.4,139.57,3,3.01,1/1/1922,['vintage chanson']
+15BEv0mKGqHHxyDAcLJ7ei,En La Huella Del Querer - Remasterizado,0,0,Ignacio Corsini,0.37,0.18,4,-22.04,0,0.07,0.99,0.87,0.16,0.38,106.6,1,2.5,3/29/1922,"['tango', 'vintage tango']"
+1CZkVPFUK7wO1sMOlBHxJr,C'Est La Mode Et Voila Tout,0,0,Perchicot,0.59,0.41,10,-11.58,0,0.27,0.99,0,0.41,0.77,81.13,4,3.01,1/1/1922,['vintage chanson']
+1EFtYew3kxq3gP55juunCR,Chapter 1.6 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.75,0.29,9,-19.05,1,0.95,0.65,0,0.13,0.33,90.28,3,2.5,1/6/1922,['unknown']
+1FnTOwM5cW5N9wzCWziLKC,La Ronde De Nuit,0,0,Perchicot,0.55,0.31,10,-15.42,0,0.17,0.99,0,0.2,0.57,125.83,4,2.96,1/1/1922,['vintage chanson']
+1HJRj2XztAhgO7dLBw6b7s,El Patotero Sentimental - Remasterizado,0,0,Ignacio Corsini,0.48,0.03,0,-23.41,0,0.07,1,0.77,0.1,0.33,77.64,4,2.43,3/29/1922,"['tango', 'vintage tango']"
+1HXdv1z9RlvrcUernyf0MY,The Dear Little Shamrock,0,0,Dick Haymes,0.35,0.2,10,-15.65,1,0.05,0.99,0,0.2,0.25,109.34,3,3.19,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+1KLKkACG16o5crQPiaF1Tz,Tus Suspiros - Remasterizado,0,0,Ignacio Corsini,0.27,0.32,6,-18.6,1,0.07,0.97,0.16,0.78,0.41,74.54,3,2.8,3/29/1922,"['tango', 'vintage tango']"
+1KgBLlvPR6BxDyBNDtCUP0,Ojos Funestos - Remasterizado,0,0,Ignacio Corsini,0.37,0.24,8,-22.71,1,0.05,0.99,0.05,0.21,0.62,115.51,4,3.24,3/21/1922,"['tango', 'vintage tango']"
+1KxCqUwjiAHw7W0IIrRUwP,Capítulo 2.20 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.2,5,-22.81,1,0.97,0.7,0,0.29,0.68,81.64,4,1.66,6/1/1922,['unknown']
+1MD0Obbza9l0t0Zpgcwagy,And Mimi,0,0,"Dick Haymes, Gordon Jenkins, His Orchestra",0.28,0.22,9,-15.73,0,0.05,0.98,0.08,0.34,0.23,77.23,3,3.1,1/1/1922,['unknown']
+1O9iZyzufN1fUdVO97mmm5,How High The Moon,0,0,"Dick Haymes, Harry James, His Orchestra",0.33,0.31,0,-11.57,1,0.05,0.99,0.28,0.21,0.26,117.22,4,2.92,1/1/1922,['unknown']
+1PGLk4jyXA8oWTBtMyYlwX,El Huerfano - Remasterizado,0,0,Ignacio Corsini,0.46,0.12,4,-20.94,0,0.08,1,0.88,0.08,0.41,122.9,4,2.85,3/21/1922,"['tango', 'vintage tango']"
+1QDTYyfndMN9SDtRKDv9XO,Pas Pour Moi,0,0,Maurice Chevalier,0.53,0.38,7,-13.32,1,0.3,1,0,0.28,0.51,80.38,4,3.41,1/1/1922,"['cabaret', 'vintage hollywood']"
+1V5PoYJVCYMHPWAZHxk6IA,Capítulo 1.16 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.24,0,-23.29,1,0.95,0.68,0,0.32,0.56,119.53,4,1.76,6/1/1922,['unknown']
+1VuFIir7DL0mc6bppGMa3r,La Canción Del Cabaret - Remasterizado,0,0,Ignacio Corsini,0.46,0.18,8,-18.75,1,0.06,0.99,0.82,0.41,0.29,69.13,5,2.36,3/29/1922,"['tango', 'vintage tango']"
+1ZYRk4U7EuJwdRZNHpEBIz,Éléonore,0,0,Dréan,0.52,0.26,11,-12.62,0,0.13,0.99,0,0.23,0.57,69.12,4,2.74,1/1/1922,['unknown']
+1b8HZQCqcqwbzlA1jRTp6E,En Douce,0,0,Mistinguett,0.43,0.18,10,-15.38,1,0.07,0.99,0,0.13,0.43,78.46,3,3.72,1/1/1922,['vintage chanson']
+1g7vO6aQ6NI5EcjzYs3RGf,Capítulo 1.13 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.13,0,-23.64,1,0.95,0.82,0,0.18,0.63,118.16,5,1.63,6/1/1922,['unknown']
+1kXWSsJkBVZ1jSoI8NnEDm,Marta,0,0,Dick Haymes,0.26,0.34,0,-9.37,1,0.03,0.99,0.02,0.33,0.31,101.1,4,2.96,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+1l1Wk0nOkuMCzioN6l2yfJ,Carol Of The Bells,0,0,Grandcubby Trio,0.38,0.75,10,-11.6,1,0.07,0.12,0.75,0.72,0.35,149.79,3,4.77,1/1/1922,['unknown']
+1lia44teZBfbv0PnPkc5dK,Machinalement,0,0,Victor Boucher,0.46,0.19,4,-16.82,1,0.07,1,0.35,0.08,0.67,177.1,4,2.42,1/1/1922,['unknown']
+1pGBOfY0PvpArBZT7GaUVK,Capítulo 2.19 - Banquero Anarquista,0,0,Fernando Pessoa,0.73,0.21,10,-22.14,1,0.96,0.77,0,0.56,0.73,110.86,5,1.77,6/1/1922,['unknown']
+1qQeEBayDNySHIiYmvQge0,Capítulo 2.12 - Banquero Anarquista,0,0,Fernando Pessoa,0.74,0.21,5,-22.05,1,0.96,0.62,0,0.53,0.72,93.52,1,1.69,6/1/1922,['unknown']
+1tKqAvRoP2RQfxftl4hVJT,Capítulo 2.21 - Banquero Anarquista,0,0,Fernando Pessoa,0.68,0.26,5,-19.93,1,0.96,0.56,0,0.11,0.64,98.14,4,2.38,6/1/1922,['unknown']
+1v0HtSUeQOu3ba28pvYE5y,Chicago (That Toddlin' Town),0,0,Jim Chapman,0.49,0.44,4,-11.36,0,0.1,0.63,0,0.32,0.79,180.65,4,1.85,1/1/1922,['unknown']
+213QIyv1KZIeGg7oXAMbah,Mi Guitarra - Remasterizado,0,0,Ignacio Corsini,0.24,0.12,1,-22.97,1,0.05,1,0.98,0.15,0.41,71.52,3,2.83,3/29/1922,"['tango', 'vintage tango']"
+21yni4TcBS35MlxLjzV51t,Practicante - Remasterizado,0,0,Ignacio Corsini,0.43,0.17,7,-19.56,1,0.06,1,0.93,0.25,0.44,58.86,4,2.31,3/29/1922,"['tango', 'vintage tango']"
+2AmBgj8nNVeN2diZh91jLh,Chapter 1.5 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.71,0.21,1,-18.88,1,0.96,0.63,0,0.12,0.31,46.97,4,2.6,1/6/1922,['unknown']
+2B9d7LBGJvQEKiLEAexCOP,Toda Alma - Remasterizado,0,0,Ignacio Corsini,0.55,0.27,1,-23.03,1,0.19,1,0.92,0.11,0.65,126.61,4,3,3/21/1922,"['tango', 'vintage tango']"
+2BVWvGSdgUZtC2La5P3Jtv,L'Amour Au Clair De Lune,0,0,Adolphe Bérard,0.47,0.33,7,-13.23,1,0.04,0.99,0,0.07,0.7,87.13,4,2.62,1/1/1922,['unknown']
+2Be2FRskn33cqPyeSdTqFd,No Me Olvides - Remasterizado,0,0,Ignacio Corsini,0.48,0.06,8,-25.33,0,0.06,1,0.28,0.2,0.64,99.56,4,2.58,3/21/1922,"['tango', 'vintage tango']"
+2EapOmGwqUQrmHCP4LrsZi,Capítulo 2.7 - Banquero Anarquista,0,0,Fernando Pessoa,0.67,0.24,5,-20.98,1,0.96,0.81,0,0.23,0.54,96.59,1,1.6,6/1/1922,['unknown']
+2IMcezGQzHgqH8gIvXJM3Q,Till The End Of Time,0,0,Dick Haymes,0.21,0.23,8,-15.43,1,0.04,0.99,0.66,0.23,0.21,85.29,3,3.04,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+2MHbLEapczIltPOYYEzQtE,Como Una Flor - Remasterizado,0,0,Ignacio Corsini,0.22,0.39,10,-19.49,0,0.04,0.98,0.3,0.5,0.75,82.29,4,2.52,3/21/1922,"['tango', 'vintage tango']"
+2PF5orWaMQK4N1DwZJ20J8,Capítulo 1.12 - Banquero Anarquista,0,0,Fernando Pessoa,0.75,0.17,5,-25.23,1,0.95,0.68,0,0.13,0.59,95.6,4,1.6,6/1/1922,['unknown']
+2SiNuAZ6jIU9xhClRKXcST,Sketch,0,0,Uli,0.63,0,5,-29.97,0,0.04,0.93,0.92,0.1,0.4,79.9,4,1.45,2/22/1922,['unknown']
+2UU5t5j325ofKGcg7oUQNh,Sin Amor - Remasterizado,0,0,Ignacio Corsini,0.54,0.42,5,-18.42,1,0.27,0.99,0.04,0.86,0.66,68.57,4,2.18,3/21/1922,"['tango', 'vintage tango']"
+2bKTO2M7es2IGg7qYqlvM7,Capítulo 1.8 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.2,1,-23.65,1,0.94,0.58,0,0.17,0.56,107.77,5,1.69,6/1/1922,['unknown']
+2cK20o1IdLmUIC4NoPWzOt,Flor Marchita - Remasterizado,0,0,Ignacio Corsini,0.36,0.1,0,-24.17,0,0.06,0.99,0.73,0.11,0.34,76.3,3,2.55,3/29/1922,"['tango', 'vintage tango']"
+2dr1Ywu6gEnLrO1JS4raFb,Chapter 1.7 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.64,0.21,5,-18.6,0,0.95,0.64,0,0.11,0.33,84.92,4,2.94,1/6/1922,['unknown']
+2lC5U846P7bQQPPHzOQpDh,Capítulo 2.13 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.22,0,-22.45,1,0.94,0.6,0,0.43,0.56,116.44,3,1.6,6/1/1922,['unknown']
+2mvSGvt6EjOO5HzUSz54mP,Chapter 1.1 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.66,0.21,0,-19.49,1,0.96,0.74,0,0.12,0.27,86.24,4,2.97,1/6/1922,['unknown']
+2u7t2vcrLxKp69Um0MDEs2,Capítulo 1.14 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.2,8,-23.7,1,0.94,0.64,0,0.23,0.59,118.9,3,1.94,6/1/1922,['unknown']
+2vOhKgXKFpej7mv3mOwoF4,Capítulo 1.21 - Banquero Anarquista,0,0,Fernando Pessoa,0.62,0.19,10,-24.69,1,0.96,0.83,0,0.42,0.58,76.54,3,1.7,6/1/1922,['unknown']
+2vSAIArCi0f9b9Ll612hFK,Capítulo 2.4 - Banquero Anarquista,0,0,Fernando Pessoa,0.73,0.18,0,-21.81,1,0.97,0.62,0,0.44,0.77,76.71,1,1.63,6/1/1922,['unknown']
+2wWS5DZYc50AzbiXC57vGt,Capítulo 2.14 - Banquero Anarquista,0,0,Fernando Pessoa,0.83,0.26,5,-21.9,1,0.96,0.66,0,0.32,0.73,41.69,3,1.59,6/1/1922,['unknown']
+38u3k7zUGTp48G1oA3ky3R,The Girl That I Marry,0,0,Dick Haymes,0.18,0.15,7,-17.82,1,0.04,0.98,0.8,0.15,0.14,88.94,3,3.05,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+3FBXaR512ufrrickKCasRN,Capítulo 1.7 - Banquero Anarquista,0,0,Fernando Pessoa,0.74,0.24,10,-22.25,1,0.96,0.67,0,0.25,0.62,85.08,4,1.77,6/1/1922,['unknown']
+3FfL0WRdyrEFPlPvmqj2lJ,Capítulo 1.9 - Banquero Anarquista,0,0,Fernando Pessoa,0.62,0.17,0,-23.13,1,0.97,0.73,0,0.14,0.65,181.48,4,1.78,6/1/1922,['unknown']
+3QkuxlHi5RXa2YBr6S52n3,Capítulo 2.9 - Banquero Anarquista,0,0,Fernando Pessoa,0.77,0.23,7,-21.68,0,0.96,0.59,0,0.3,0.59,64.43,4,1.66,6/1/1922,['unknown']
+3ROtnqCtqrMbaDkivZyV5n,Entrerriana - Remasterizado,0,0,Ignacio Corsini,0.43,0.2,5,-23.56,0,0.03,1,0.82,0.14,0.54,108.65,3,3.06,3/21/1922,"['tango', 'vintage tango']"
+3XxlglpLYkpZIfU1c1C5e4,Pobre Cotorro - Remasterizado,0,0,Ignacio Corsini,0.56,0.05,6,-25.04,0,0.13,1,0.93,0.12,0.41,140.22,4,2.66,3/21/1922,"['tango', 'vintage tango']"
+3aynsWyvRwa1r5ekqaWxD3,Mirage,0,0,Adolphe Bérard,0.5,0.22,4,-13.55,1,0.03,0.99,0,0.31,0.56,88.41,4,2.93,1/1/1922,['unknown']
+3c8AbdpLH4SSbTHsN71XDN,Un Placer - Remasterizado,0,0,Ignacio Corsini,0.53,0.14,8,-20.7,0,0.06,1,0.91,0.11,0.9,126.7,4,2.96,3/21/1922,"['tango', 'vintage tango']"
+3d8zXYhG3sFx4uL9vv8IRu,Le Tango Neurasthénique,0,0,Georgius,0.56,0.43,2,-14.62,0,0.36,0.98,0,0.23,0.6,72,4,3.12,1/1/1922,['vintage chanson']
+3f9p4JTCiipdjDtKGZHqP4,Capítulo 2.17 - Banquero Anarquista,0,0,Fernando Pessoa,0.7,0.19,7,-21.82,1,0.96,0.75,0,0.29,0.6,138.49,3,1.65,6/1/1922,['unknown']
+3fKqEoaJZODF7Xhh7qH4Wv,Capítulo 2.10 - Banquero Anarquista,0,0,Fernando Pessoa,0.7,0.2,7,-23,1,0.96,0.64,0,0.36,0.77,81.15,4,1.78,6/1/1922,['unknown']
+3h8ioTTWfrC25hrHwQQpLc,All Or Nothing At All,0,0,"Dick Haymes, Harry James, His Orchestra",0.24,0.56,2,-6.61,0,0.04,0.81,0,0.37,0.29,92.21,3,2.74,1/1/1922,['unknown']
+3hkX4bDXEzd4w6aTiDkvrR,Keepsakes,0,0,Dick Haymes,0.18,0.36,0,-9.71,0,0.05,0.99,0.34,0.1,0.11,83.03,4,3.01,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+3rcerSJNOkfgB9CELqcRHL,Capítulo 1.5 - Banquero Anarquista,0,0,Fernando Pessoa,0.77,0.16,9,-24.52,0,0.96,0.59,0,0.13,0.49,52.03,4,1.8,6/1/1922,['unknown']
+41UwGhrmaTNXguHZjRkZbC,Capítulo 2.2 - Banquero Anarquista,0,0,Fernando Pessoa,0.65,0.26,9,-23.14,0,0.96,0.76,0,0.23,0.66,162.7,3,1.61,6/1/1922,['unknown']
+41sGC22d62AApd4dbiwhfr,Capítulo 2.11 - Banquero Anarquista,0,0,Fernando Pessoa,0.78,0.18,1,-23.25,0,0.96,0.68,0,0.63,0.79,58.55,4,1.82,6/1/1922,['unknown']
+42lF2Ke3RUCoptNImf3SBj,I Ought To Know More About You,0,0,Dick Haymes,0.61,0.25,9,-9.94,0,0.04,0.99,0,0.22,0.56,132.16,4,3.09,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+450NWyAOOQ4cOPrp7ZRp13,Pobre Madrecita - Remasterizado,0,0,Ignacio Corsini,0.53,0.15,9,-22.26,1,0.07,1,0.89,0.11,0.55,69.45,4,3.05,3/29/1922,"['tango', 'vintage tango']"
+45QQGQZMPaVxlg0edajDgk,Primera Ilusión - Remasterizado,0,0,Ignacio Corsini,0.39,0.2,8,-26.17,1,0.05,0.99,0.92,0.11,0.83,181.1,3,2.67,3/21/1922,"['tango', 'vintage tango']"
+45u40aoKGpIanpGW3ZTqMU,Capítulo 1.1 - Banquero Anarquista,0,0,Fernando Pessoa,0.63,0.24,9,-21.09,0,0.96,0.48,0,0.15,0.63,169.96,4,1.9,6/1/1922,['unknown']
+46NvxfK2FwCMpMsRTBFkjR,Soft Lights And Sweet Music,0,0,Dick Haymes,0.33,0.32,7,-12.78,1,0.03,0.98,0.04,0.36,0.15,125.65,3,2.85,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+4BKzNMRJdoDE6nsC4DbOEh,Chapter 1.4 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.7,0.22,5,-19.76,0,0.96,0.6,0,0.34,0.39,103.31,3,2.68,1/6/1922,['unknown']
+4CjnVzvSu86vqI5gY8SjPx,Elle Vendait Des P'Tits Gateaux,0,0,Félix Mayol,0.72,0.3,5,-14.07,1,0.1,0.99,0,0.28,0.97,129.15,4,2.53,1/1/1922,['vintage chanson']
+4DE7VBCgyTjqV0Plc9Ra0U,Hush-A-Bye (Wee Rose Of Kilarney),0,0,"Dick Haymes, Victor Young, His Orchestra",0.28,0.13,0,-19.79,1,0.04,0.99,0.61,0.12,0.14,79.12,5,2.61,1/1/1922,['unknown']
+4FCWuuqM851ACz8p1b41fi,Capítulo 2.23 - Banquero Anarquista,0,0,Fernando Pessoa,0.71,0.22,9,-21.18,0,0.95,0.52,0,0.22,0.54,110.82,3,1.62,6/1/1922,['unknown']
+4RR5RKLA2vTQxkWrMIeHem,Cap Polonio - Remasterizado,0,0,Ignacio Corsini,0.54,0.16,3,-21.25,1,0.09,1,0.91,0.13,0.71,143.1,4,2.68,3/21/1922,"['tango', 'vintage tango']"
+4UnGZFw9ot80NLBBBFImny,Chapter 1.3 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.62,0.21,1,-19.02,1,0.96,0.76,0,0.15,0.38,74.43,3,5.18,1/6/1922,['unknown']
+4Vw0vSS31VCTYZXML5mMNX,Serenade Of The Bells,0,0,Dick Haymes,0.27,0.26,0,-9.04,1,0.05,0.98,0,0.18,0.15,79.19,4,3.02,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+4iy1fsAHBgR2STJjPDhjY2,Mes Parents Sont Venus Me Chercher,0,0,Fortugé,0.55,0.2,7,-14.76,1,0.06,1,0,0.15,0.62,97.34,4,3.06,1/1/1922,['vintage chanson']
+4jhUNBqlFI21O7L0sKl507,As If I Didn'T Have Enough On My Mind,0,0,Dick Haymes,0.32,0.25,0,-15.79,1,0.05,0.99,0.85,0.42,0.31,84.28,4,2.47,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+4m7uJS9VZlVnUG8oI1o0wx,Capítulo 2.22 - Banquero Anarquista,0,0,Fernando Pessoa,0.68,0.31,0,-20.42,1,0.96,0.33,0,0.6,0.49,74.91,5,1.68,6/1/1922,['unknown']
+4sAPfFxCxKIF571z6JwL4r,De Mil Amores - Remasterizado,0,0,Ignacio Corsini,0.44,0.18,9,-19.63,1,0.06,0.99,0,0.49,0.56,128.4,4,2.91,3/29/1922,"['tango', 'vintage tango']"
+4vRhdBugLI9JQGsx3UfrAt,Cachonguita - Remasterizado,0,0,Ignacio Corsini,0.45,0.05,1,-29.36,0,0.06,1,0.93,0.16,0.41,72.4,5,3.18,3/21/1922,"['tango', 'vintage tango']"
+4vV7uBcF2AnjNTOejBS5oL,L'Enfer,0,0,Uli,0.66,0.32,10,-14.32,0,0.25,0.2,0.86,0.09,0.1,81.94,5,0.67,2/22/1922,['unknown']
+4xDAzKsPZg7kMOhsnXHOO7,Metejón - Remasterizado,0,0,Ignacio Corsini,0.49,0.08,4,-25.84,1,0.06,1,0.91,0.17,0.68,75.31,5,2.59,3/29/1922,"['tango', 'vintage tango']"
+4yTwNqT53nEaIMMxDsnNr3,When A Gypsy Makes A Violin Cry,0,0,Dick Haymes,0.31,0.34,0,-10.75,0,0.04,0.96,0,0.37,0.11,82.51,5,3.01,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+4yfqwU24XlVWLJTaBD3qQW,Capítulo 1.17 - Banquero Anarquista,0,0,Fernando Pessoa,0.74,0.22,2,-26.03,0,0.96,0.65,0,0.46,0.49,80.64,3,1.58,6/1/1922,['unknown']
+553V3FZf6yTv89rweIPLHs,Capítulo 1.3 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.22,1,-23.01,1,0.93,0.53,0,0.14,0.6,119.52,3,1.64,6/1/1922,['unknown']
+56GdrUlLtRUtcF4afPH40o,Remembranza - Remasterizado,0,0,Ignacio Corsini,0.53,0.05,3,-24.86,0,0.09,1,0.94,0.1,0.42,129.6,4,2.74,3/29/1922,"['tango', 'vintage tango']"
+598LlBn6jpEpVbLjmZPsYV,Graphite,0,0,Uli,0.64,0.68,7,-8.25,1,0.2,0.14,0.8,0.08,0.14,100.03,4,1.74,2/22/1922,['unknown']
+5CHSAhLggPpOYK5mpw8upO,Capítulo 2.24 - Banquero Anarquista,0,0,Fernando Pessoa,0.63,0.22,0,-22.67,1,0.96,0.52,0,0.15,0.6,167.27,3,1.64,6/1/1922,['unknown']
+5IlNHZg8dNQTT6hCZ0Ax28,Capítulo 1.24 - Banquero Anarquista,0,0,Fernando Pessoa,0.62,0.19,5,-24.17,1,0.96,0.84,0,0.14,0.73,176.48,3,1.65,6/1/1922,['unknown']
+5P35CyOEQiMqf8Hd6Pty5p,Méfiez Vous D'Anatole,0,0,Georgius,0.62,0.35,10,-15.92,1,0.31,0.98,0,0.1,0.81,81.57,4,3.22,1/1/1922,['vintage chanson']
+5PJCXNLtJSB3XerASHg7eA,Ensueño De Oro - Remasterizado,0,0,Ignacio Corsini,0.43,0.16,1,-26.68,0,0.12,1,0.95,0.2,0.56,96.58,4,2.52,3/29/1922,"['tango', 'vintage tango']"
+5SB8vVP2D73dMsDreQaY73,Hush Little Darlin',0,0,Dick Haymes,0.33,0.2,10,-16.49,1,0.04,0.98,0.52,0.11,0.31,79.88,5,3.26,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+5WQcloalnv2qA55iMcsxve,Capítulo 2.5 - Banquero Anarquista,0,0,Fernando Pessoa,0.71,0.2,5,-22.02,1,0.96,0.5,0,0.25,0.59,88.31,4,1.81,6/1/1922,['unknown']
+5ZQdHBQwtS0iKSyRmFg7hB,Capítulo 1.26 & Capítulo 2.1 - Banquero Anarquista,0,0,Fernando Pessoa,0.66,0.22,2,-23.33,0,0.97,0.86,0,0.24,0.69,86.89,3,1.96,6/1/1922,['unknown']
+5cIke4L8FPFzxkFlFYrMMD,Capítulo 1.11 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.22,0,-24.79,1,0.95,0.73,0,0.15,0.54,121.22,3,1.68,6/1/1922,['unknown']
+5cUFFY2Atw4QeFitueQCt2,El Huerfano - Remasterizado,0,0,Ignacio Corsini,0.37,0.07,7,-26.34,1,0.08,1,0.92,0.12,0.52,90.97,3,2.66,3/29/1922,"['tango', 'vintage tango']"
+5d5gQxHwYovxR5pqETOIAa,J'En Ai Marre,0,0,Mistinguett,0.51,0.21,0,-15.51,1,0.06,1,0,0.42,0.48,70.44,4,3.47,1/1/1922,['vintage chanson']
+5kAxzo7Dog9Buovp3xXVO7,Nostalgia - Remasterizado,0,0,Ignacio Corsini,0.5,0.16,8,-18.49,1,0.04,1,0.64,0.21,0.35,79.87,4,2.33,3/29/1922,"['tango', 'vintage tango']"
+5mELfHhlldkCNPZUK9oxTi,Chapter 1.2 - Szkolne Przygody Pimpusia Sadełko,0,0,Maria Konopnicka,0.69,0.21,3,-19.56,0,0.96,0.73,0,0.12,0.42,99.68,1,3.62,1/6/1922,['unknown']
+5wfVO3v2ZiWmQvJuRgJANe,Monigote - Remasterizado,0,0,Ignacio Corsini,0.42,0.56,5,-18.57,0,0.46,0.98,0,0.97,0.53,121.54,4,3,3/21/1922,"['tango', 'vintage tango']"
+5wg1nnx7c2kri8kx5xlCFH,El Beso De La Muerte - Remasterizado,0,0,Ignacio Corsini,0.49,0.1,5,-23.45,1,0.06,1,0.48,0.19,0.59,127.02,4,2.64,3/21/1922,"['tango', 'vintage tango']"
+63IcPgVIW0PWeJTaIY7GCu,Le Petit Amant,0,0,Jeanne Saint Bonnet,0.66,0.28,4,-14.11,1,0.19,1,0.01,0.16,0.67,126.08,4,2.01,1/1/1922,['unknown']
+69mWzKmxFFwIAJS8nzcCgO,Recuerdo Criollo - Remasterizado,0,0,Ignacio Corsini,0.31,0.1,10,-30.03,0,0.04,0.98,0.97,0.1,0.31,67.58,3,3.1,3/29/1922,"['tango', 'vintage tango']"
+6E4t6Sor5rWOLQDCAdI0vN,Despedida - Remasterizado,0,0,Ignacio Corsini,0.42,0.31,1,-21.08,0,0.05,0.98,0,0.63,0.51,64.74,4,2.97,3/29/1922,"['tango', 'vintage tango']"
+6GhbZRE9N2TPf86zI1dIxQ,You'Ll Never Know,0,0,"Dick Haymes, The Pied Pipers",0.39,0.13,2,-15.22,1,0.04,0.99,0.15,0.1,0.23,126.73,3,2.75,1/1/1922,['unknown']
+6MD9XSLD4VmVI5SFRPm6By,Car Loans,0,0,Uli,0.65,0.57,10,-12,0,0.1,0.47,0.71,0.06,0.41,99.88,4,2.88,2/22/1922,['unknown']
+6UrbwimNzaLdtD86mpIKRa,Capítulo 1.4 - Banquero Anarquista,0,0,Fernando Pessoa,0.66,0.18,7,-24.19,0,0.96,0.73,0,0.46,0.54,93.34,3,1.58,6/1/1922,['unknown']
+6eew1OP57TeUDUMcjYE6A0,La Muchacha - Remasterizado,0,0,Ignacio Corsini,0.32,0.11,8,-25.14,1,0.05,0.99,0.92,0.18,0.26,71.43,3,2.74,3/29/1922,"['tango', 'vintage tango']"
+6hH0kKnTWoGq5wppHKj5ie,Stardust,0,0,Dick Haymes,0.21,0.23,8,-14.52,1,0.03,0.98,0.81,0.22,0.22,74.03,3,2.88,1/1/1922,"['adult standards', 'big band', 'easy listening', 'lounge', 'swing']"
+6qXSeW8iUiHpbgRiqQO3aJ,Pobre Gaucho - Remasterizado,0,0,Ignacio Corsini,0.48,0.13,2,-29.58,0,0.05,1,0.93,0.1,0.64,69.41,4,2.59,3/29/1922,"['tango', 'vintage tango']"
+6tl1bsB5SXbsLjOndGiM7Q,El Poder De Tus Ojos - Remasterizado,0,0,Ignacio Corsini,0.36,0.24,1,-21.2,1,0.05,0.99,0.05,0.27,0.56,72.51,5,2.88,3/21/1922,"['tango', 'vintage tango']"
+71uB09gmVxuvPAC58e3Sub,Capítulo 1.25 - Banquero Anarquista,0,0,Fernando Pessoa,0.73,0.16,5,-23.96,0,0.96,0.87,0,0.18,0.73,83.11,4,2.13,6/1/1922,['unknown']
+71yYnLlqCTFGWt5ngD9ran,Capítulo 2.6 - Banquero Anarquista,0,0,Fernando Pessoa,0.77,0.2,5,-22.66,0,0.96,0.72,0,0.36,0.61,58.19,5,1.59,6/1/1922,['unknown']
+7C1flDj1663TYWAZEc5koB,Capítulo 1.15 - Banquero Anarquista,0,0,Fernando Pessoa,0.65,0.19,2,-24.74,0,0.96,0.65,0,0.28,0.5,77.56,1,1.68,6/1/1922,['unknown']
+7Iw8kyznP3k7593uAZ9mWi,Capítulo 1.20 - Banquero Anarquista,0,0,Fernando Pessoa,0.76,0.22,0,-24.84,1,0.96,0.69,0,0.21,0.5,84.53,4,1.75,6/1/1922,['unknown']
+7LzNrzedyuLV7qh3Q2m1QQ,Capítulo 1.6 - Banquero Anarquista,0,0,Fernando Pessoa,0.76,0.15,0,-24.27,1,0.96,0.65,0,0.13,0.49,78.26,3,1.76,6/1/1922,['unknown']
+7kFLV07SflDhEmpH2onfVr,Capítulo 2.18 - Banquero Anarquista,0,0,Fernando Pessoa,0.69,0.18,5,-22.53,1,0.96,0.67,0,0.27,0.68,141.59,1,1.71,6/1/1922,['unknown']
+7mFmbNkbJjrvDMukkza3OF,Pobre China - Remasterizado,0,0,Ignacio Corsini,0.56,0.18,9,-26.44,1,0.04,1,0.92,0.11,0.71,60.42,4,2.64,3/21/1922,"['tango', 'vintage tango']"
+7p94hrYktZStgIu6TCj3cZ,Antoine,0,0,Fortugé,0.54,0.15,8,-15.22,1,0.09,0.99,0,0.42,0.56,129.13,4,2.75,1/1/1922,['vintage chanson']
+7qZgukGp84vuPKrxzM3J4T,Capítulo 1.19 - Banquero Anarquista,0,0,Fernando Pessoa,0.74,0.19,5,-24,1,0.96,0.8,0,0.15,0.64,74.86,4,1.75,6/1/1922,['unknown']
+7qiy1Sp4KTJKzQifOhY0IP,Everytime I Meet You,0,0,"Dick Haymes, Gordon Jenkins, His Orchestra",0.3,0.28,7,-10.85,1,0.03,0.99,0.12,0.19,0.17,81.05,4,2.98,1/1/1922,['unknown']
+7svwanLaFaRLh3EwgYy2jl,Capítulo 2.15 - Banquero Anarquista,0,0,Fernando Pessoa,0.72,0.22,9,-21.74,0,0.96,0.71,0,0.22,0.69,108.42,5,1.61,6/1/1922,['unknown']
+7yWdEDmuqweoRkhZeftRtR,Sur La Pointe Des Pieds,0,0,Georgius,0.53,0.34,0,-14.96,0,0.32,1,0,0.38,0.63,83.2,4,3.13,1/1/1922,['vintage chanson']
+2wAfHM7Whz67VFbdanhZlk,Nobody Knows You When You'Re Down And Out,41,0,Bessie Smith,0.61,0.04,4,-12.03,1,0.05,1,0,0.18,0.21,89.82,4,2.95,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+3eMrYc092k7SIJfWJ7oasR,Weather Bird,38,0,"Louis Armstrong, Earl Hines",0.83,0.26,8,-12.39,1,0.09,0.98,0.91,0.2,0.9,104.61,4,2.7,1/1/1923,['unknown']
+2AZgaYZSwUosJD71J2N2Zo,'Tain'T Nobody'S Bizness If I Do,30,0,Bessie Smith,0.54,0.04,3,-16.47,0,0.03,1,0,0.15,0.14,80.47,4,3.44,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+7lRFR5GJCxK87ZbVMtQSeS,Ain'T Misbehavin',28,0,Louis Armstrong,0.66,0.25,8,-9.88,1,0.11,0.98,0,0.64,0.5,125.73,4,3.21,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+6XTvSCqGLLH0vzQQRn55hz,"Empty Bed Blues, Pt. 1",27,0,Bessie Smith,0.71,0.06,5,-12.21,1,0.05,1,0,0.12,0.55,85.85,4,3.02,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+6qRvnXftofjYJm1Mg98UWL,Need A Little Sugar In My Bowl,27,0,Bessie Smith,0.69,0.03,0,-13.51,0,0.06,0.99,0,0.13,0.4,75.75,4,2.79,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+0V1iYWPXCBTaB6dhbiprGF,Send Me To The 'Lectric Chair,26,0,Bessie Smith,0.77,0.09,3,-7.79,1,0.06,0.99,0,0.15,0.6,87.57,4,3.36,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+6sOKopKyVWwEJKh8zztYp5,Young Woman'S Blues,25,0,Bessie Smith,0.52,0.23,8,-7.65,1,0.03,1,0.02,0.46,0.41,76.14,4,3.13,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+0rUf1j43orpfi6f4LbVo8D,Careless Love,25,0,Bessie Smith,0.59,0.18,2,-9.94,1,0.04,0.99,0,0.07,0.48,98.52,4,3.42,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+1yjck0Owf0HfhY5kWHiXIQ,Me And My Gin,23,0,Bessie Smith,0.71,0.07,5,-12.53,1,0.05,0.99,0,0.09,0.49,90.92,4,2.83,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+2ivh0kwd7QIViw6YqDPdBA,Blue Yodel No. 9,23,0,Jimmie Rodgers,0.76,0.25,3,-11.49,1,0.06,0.97,0,0.06,0.74,108.46,4,2.62,1/1/1923,"['appalachian folk', 'bluegrass', 'folk', 'old-time', 'traditional country', 'traditional folk', 'yodeling']"
+50zXyjVdFb3xAr3hnyYYn1,St. Louis Blues,23,0,"Bessie Smith, Louis Armstrong",0.36,0.11,10,-15.97,1,0.06,0.99,0.01,0.11,0.26,69.9,4,3.16,1/1/1923,['unknown']
+4ejUoPIMggFTVrAyvodqJQ,St. Louis Blues (With Louis Armstrong),23,0,"Bessie Smith, Louis Armstrong",0.41,0.14,10,-10.99,1,0.05,0.99,0,0.14,0.29,68.8,4,3.17,1/1/1923,['unknown']
+2gyqc4p3WoxKsc6zaXF4hM,Backwater Blues,22,0,Bessie Smith,0.52,0.15,2,-8.98,1,0.05,0.99,0.02,0.17,0.41,71.14,3,3.3,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+5lpBC66XQzpVDJuknDUuZd,Baby Won'T You Please Come Home,22,0,Bessie Smith,0.68,0.05,0,-16.7,1,0.04,1,0,0.14,0.44,79.49,4,2.93,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+1xEEYhWxT4WhDQdxfPCT8D,Snake Rag,20,0,"""King Olivers Creole Jazz Band""",0.71,0.36,0,-11.76,0,0.04,0.99,0.88,0.1,0.9,105.7,4,3.24,1/1/1923,['unknown']
+4ep3h4btBtuxsNeLFVzq5A,West End Blues,18,0,Louis Armstrong & His Hot Five,0.62,0.27,3,-12.09,1,0.05,0.99,0.63,0.11,0.52,84.79,4,3.26,1/1/1923,['new orleans jazz']
+6ktCV1ZtqlnXQeRFQvcXON,Down Hearted Blues,17,0,Bessie Smith,0.49,0.06,0,-17.78,1,0.04,1,0.38,0.14,0.56,166.27,4,3.42,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+6N1wS1e5bMOubmVtkDLNrt,Gimme A Pigfoot And A Bottle Of Beer,16,0,Bessie Smith,0.69,0.2,7,-11.16,0,0.08,0.97,0.01,0.15,0.56,103.9,4,3.48,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+7GRsQLXMzDHYb8zZAnMCDK,Sobbin' Hearted Blues,15,0,"Bessie Smith, Louis Armstrong",0.42,0.08,0,-19.17,1,0.09,1,0,0.43,0.44,74.68,4,3.01,1/1/1923,['unknown']
+08XPnovoMlLsFB3LDGq0rX,Muggles,14,0,Louis Armstrong & His Hot Five,0.59,0.11,10,-12.21,1,0.06,0.99,0.28,0.18,0.48,85.24,4,2.81,1/1/1923,['new orleans jazz']
+3rauXVLOOM5BlxWqUcDpkg,Chimes Blues,14,0,"""King Olivers Creole Jazz Band""",0.55,0.19,0,-15.98,1,0.06,1,0.91,0.34,0.55,80.32,4,2.85,1/1/1923,['unknown']
+5WlMyDvyQedom0kQ3MCTow,Lazy River,14,0,Louis Armstrong,0.57,0.27,4,-11.73,0,0.07,0.96,0.01,0.12,0.49,101.84,4,3.05,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+1UdqHVRFYMZKU2Q7xkLtYc,Pickin' On Your Baby,11,0,"""Clarence Williams Blue Five""",0.52,0.15,0,-14.04,1,0.04,1,0.13,0.35,0.32,102.94,4,3.29,1/1/1923,['unknown']
+0F5F4GWA0Tz1ebZlLar2wG,Work House Blues,11,0,Bessie Smith,0.42,0.05,5,-13.52,1,0.03,1,0.12,0.17,0.41,78.66,4,3.35,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+0Vl2DO5U6FjgBpzCtBN3OA,Everybody Loves My Baby,10,0,"""Clarence Williams Blue Five""",0.51,0.19,2,-13.92,0,0.24,1,0.2,0.25,0.66,180.67,4,2.54,1/1/1923,['unknown']
+1h0wyCVd12PDSd6CLoGaVL,Preachin' The Blues,11,0,Bessie Smith,0.7,0.18,8,-8.32,1,0.04,0.99,0,0.22,0.49,104.92,4,2.85,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+2CStrJiuFeHNS84A3kaT8s,Black Mountain Blues,10,0,Bessie Smith,0.64,0.06,0,-12.19,1,0.07,1,0,0.15,0.61,65.67,3,3.13,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+3U6L5KW48YOsksN9Qvlydl,I'Ve Got The World On A String,11,0,Louis Armstrong,0.54,0.18,5,-11.73,1,0.04,0.98,0.03,0.4,0.41,129.8,4,3.25,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+3tkC9PMf19ffJlh65EdANg,You'Ve Been A Good Old Wagon,10,0,Bessie Smith,0.6,0.13,0,-11.32,1,0.05,1,0.02,0.16,0.35,77.09,4,3.47,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+527J3xtyY4MdrpKtWcJNtL,Long Old Road,11,0,Bessie Smith,0.56,0.08,0,-13.09,1,0.05,0.99,0,0.19,0.49,79.77,4,3.44,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+5SvyP1ZeJX1jA7AOZD08NA,Tears,10,0,"""King Olivers Creole Jazz Band""",0.36,0.36,3,-11.81,1,0.05,0.99,0.82,0.29,0.75,205.05,4,3.12,1/1/1923,['unknown']
+7qxfKQ5qlcunexI4f0qifa,There'Ll Be A Hot Time In The Old Town Tonight,10,0,Bessie Smith,0.72,0.21,7,-6.57,0,0.07,0.99,0,0.15,0.58,82.92,4,3.32,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+1L0puqUCoINHyHjzzWXrHC,A Monday Date,8,0,Louis Armstrong & His Hot Seven,0.74,0.4,0,-10.57,1,0.48,0.97,0,0.24,0.75,117.75,4,3.2,1/1/1923,['unknown']
+1mngGai1eXbHcBXuA6Z4jZ,I'M A Ding Dong Daddy,8,0,Louis Armstrong & His Sebastian New Cotton Club Orchestra,0.76,0.45,5,-11.24,1,0.08,0.98,0.81,0.18,0.89,109.79,4,3.13,1/1/1923,['unknown']
+1v6v5llnekLbreJYIRfkKc,Chicago Breakdown,8,0,Louis Armstrong,0.6,0.32,10,-10.48,1,0.21,0.98,0.84,0.2,0.63,168.51,4,3.39,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+20VPM7ePvpxTQyZFjOiP1g,Beau Koo Jack,9,0,Louis Armstrong & His Hot Five,0.73,0.42,3,-12.29,1,0.08,0.95,0.79,0.23,0.96,121.29,4,2.95,1/1/1923,['new orleans jazz']
+2AYdjRjSm49s6MFZiSlcSX,"Empty Bed Blues, Pt. 2",10,0,Bessie Smith,0.8,0.05,5,-12.14,1,0.06,0.99,0,0.11,0.49,84.54,4,3.33,1/1/1923,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+300WVfsVnOUJM2KXAm9IGS,Stardust,8,0,Louis Armstrong,0.72,0.21,1,-13.22,1,0.06,0.98,0.44,0.06,0.89,127.4,4,3.43,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+3IL7X89mdAJ4ISGrGXi3sB,Texas Moaner Blues - 78Rpm Version,8,0,"""Clarence Williams Blue Five""",0.52,0.27,11,-15.57,1,0.06,1,0.78,0.35,0.47,80.52,4,3.11,1/1/1923,['unknown']
+4FINjzgcPjqR2PPpnWrCKF,Heebie Jeebies,8,0,Louis Armstrong & His Hot Five,0.63,0.23,8,-13.63,1,0.06,1,0.01,0.12,0.59,164.03,4,2.87,1/1/1923,['new orleans jazz']
+4GOd9yNQrpl6omACRgvCX2,Song Of The Islands,8,0,Louis Armstrong,0.6,0.13,8,-13.74,1,0.04,0.98,0.76,0.09,0.38,143.5,4,3.47,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+5bfjNeQIU43IJPNY6c56fB,Hotter Than That,8,0,Louis Armstrong & His Hot Seven,0.79,0.32,8,-15.63,1,0.13,0.97,0.8,0.13,0.85,108.61,4,2.99,1/1/1923,['unknown']
+02smo7WfO95Ww8MZw06h1p,Gut Bucket Blues,6,0,Louis Armstrong & His Hot Five,0.6,0.22,0,-12.26,1,0.07,1,0.52,0.1,0.72,146.18,3,2.7,1/1/1923,['new orleans jazz']
+06Q9isDLNDaHJNPa5lM4Cg,Struttin'With Some Barbecue,5,0,Louis Armstrong,0.73,0.21,8,-14.74,1,0.13,0.96,0.69,0.08,0.82,97.21,4,3,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+0HUCWtOLhJhXwSRn6pvzQC,Skid-Dat-De-Dat,6,0,Louis Armstrong & His Hot Five,0.66,0.08,5,-14.76,1,0.05,0.99,0.77,0.09,0.5,121.49,4,3.02,1/1/1923,['new orleans jazz']
+180gKK9WXgetU7EAxhCn7t,You Can'T Shush Katie,7,0,"""Clarence Williams Blue Five""",0.71,0.23,7,-13.38,1,0.07,1,0,0.44,0.68,108.48,4,3.05,1/1/1923,['unknown']
+18NiVMY4Fz6MjnhrX8xFiM,That Rhythm Man,5,0,Louis Armstrong,0.72,0.39,1,-11.34,1,0.15,0.97,0.53,0.13,0.81,118.27,4,3.01,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+1h0lfbm5uARsmDAkBikqfz,Memories Of You,5,0,Louis Armstrong & His Sebastian New Cotton Club Orchestra,0.62,0.13,3,-15.37,1,0.05,0.99,0.08,0.15,0.26,108.87,4,3.2,1/1/1923,['unknown']
+1t2zq9TXj7mlSX8fcKwCbm,Blue Again,5,0,Louis Armstrong,0.6,0.31,5,-10.79,1,0.07,0.98,0.03,0.08,0.54,110.35,4,3.13,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+2DAK09fP0bobALaArOEeCI,(What Did I Do To Be So) Black And Blue,5,0,Louis Armstrong,0.68,0.19,0,-12.13,1,0.05,0.99,0.01,0.34,0.39,103.1,4,3.01,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+2GnYkuVM8jQh4sFGGmDfcV,Weary Blues,5,0,Louis Armstrong & His Hot Seven,0.57,0.25,5,-13.55,1,0.22,0.91,0.87,0.08,0.96,205.42,4,2.96,1/1/1923,['unknown']
+2SRy24tTjBERSmb3FHqzdb,On The Sunny Side Of The Street - Part 1,5,0,Louis Armstrong,0.58,0.23,0,-11.65,1,0.05,0.99,0,0.55,0.58,98.68,1,2.91,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+2cmUadaXBixJGY2x87EMOa,Anybody Here Want To Try My Cabbage?,7,0,Maggie Jones,0.58,0.2,9,-13.27,0,0.06,0.98,0,0.69,0.58,82.55,4,3.32,1/1/1923,['pre-war blues']
+2n13QpmPEINmoTLUAlLCd7,King Of The Zulas,5,0,Louis Armstrong & His Hot Five,0.54,0.17,2,-15.7,1,0.11,0.99,0.12,0.29,0.55,169.06,4,3.05,1/1/1923,['new orleans jazz']
+2nwxT2BLHn5NjQj0wuEXAu,Between The Devil And The Deep Blue Sea,5,0,Louis Armstrong,0.62,0.2,5,-12.26,1,0.08,0.94,0.02,0.09,0.74,133.91,4,2.94,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+31N4so4BNr6e0Hz2NtmU33,"Stomp Off, Let'S Go",6,0,"""Erskine Tates Vendome Orchestra""",0.69,0.48,8,-13.34,1,0.36,0.99,0.93,0.37,0.96,118.6,4,2.91,1/1/1923,['unknown']
+377bagPbNQx6K6RKjuUFQ3,Skip The Gutter,5,0,Louis Armstrong & His Hot Five,0.65,0.13,8,-19.16,1,0.06,0.98,0.73,0.6,0.59,124.1,4,3.07,1/1/1923,['new orleans jazz']
+3DzcB6weYL3L7oRNmsJCaV,No One Else But You,6,0,Louis Armstrong & His Savoy Ballroom Five,0.5,0.31,5,-11.2,1,0.12,0.92,0.01,0.25,0.72,191.04,4,3.35,1/1/1923,['unknown']
+3GuVFPnSVW036wmwUrXQ9Q,Changeable Daddy Of Mine,6,0,Margaret Johnson,0.58,0.21,10,-13.69,1,0.04,0.99,0,0.45,0.65,101.92,4,2.69,1/1/1923,['harlem renaissance']
+3MUeRkKpLxxyRFzqMTj1HY,"Chinatown, My Chinatown",5,0,Louis Armstrong,0.56,0.52,3,-8.99,1,0.14,0.94,0.09,0.13,0.79,158.37,4,3.23,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+3pcaFPeiPvuLD46XTuVNiF,Symphonic Raps,5,0,"""Carroll Dickersons Savoyagers""",0.78,0.37,5,-13.86,1,0.1,0.98,0.91,0.08,0.96,115.4,4,3.19,1/1/1923,['unknown']
+3tlygdsn8Jl6D0XA7RRslx,Sweethearts On Parade,6,0,Louis Armstrong & His Sebastian New Cotton Club Orchestra,0.61,0.26,10,-14,1,0.07,0.97,0.12,0.12,0.66,128.02,4,3.28,1/1/1923,['unknown']
+3yJC2QZqAm1i2wSob2Cpyv,Alone At Last,5,0,The Southern Serenaders,0.66,0.18,10,-13.99,1,0.03,1,0.94,0.3,0.43,107.33,4,3.19,1/1/1923,['unknown']
+43WZyNbzOJOnKQStu8if8E,St. Louis Blues - Alternate Take B,5,0,Louis Armstrong,0.68,0.47,11,-8.64,0,0.11,0.91,0.91,0.08,0.95,181.04,4,2.94,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+46ddI0x8tLiOjDFqb2TQ5R,Papa De Da Da,7,0,"""Clarence Williams Blue Five""",0.67,0.13,10,-15.68,1,0.08,1,0.11,0.26,0.59,105.5,4,2.98,1/1/1923,['unknown']
+4Bk8r390pyafdSPtWoUKwz,I Must Have That Man,5,0,Lillie Delk Christian,0.85,0.22,8,-12.89,0,0.09,0.95,0,0.07,0.65,116.44,4,3.19,1/1/1923,['unknown']
+4E0HHRQlEdBFhsQHrKWXRR,When You'Re Smiling - Non Vocal Take,6,0,Louis Armstrong,0.5,0.19,10,-10.37,1,0.03,0.98,0.74,0.23,0.62,147.29,4,2.83,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+4Ewzp7BFfvcXofZnvrYwFx,I Can'T Give You Anything But Love,5,0,Louis Armstrong & His Savoy Ballroom Five,0.66,0.12,7,-13.17,1,0.06,0.95,0.45,0.08,0.58,108.3,4,3.55,1/1/1923,['unknown']
+4PD69KQwh9GccLW2647tTL,Gully Low Blues,6,0,Louis Armstrong & His Hot Seven,0.68,0.14,3,-14.08,1,0.1,0.93,0.17,0.09,0.82,108.83,4,3.24,1/1/1923,['unknown']
+4m1Th0JSQkevDsHiOpoxlQ,Basin Street Blues - Rec. 1928,6,0,Louis Armstrong & His Hot Five,0.56,0.35,10,-9.62,1,0.05,0.97,0.13,0.92,0.51,107.71,4,3.28,1/1/1923,['new orleans jazz']
+4qTkOBmwGFamB3V9QEFwDS,When Your Lover Has Gone,5,0,Louis Armstrong,0.45,0.23,7,-11.39,0,0.04,0.97,0.03,0.22,0.5,119.96,4,3.08,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+4t1G1nGmPOms95TB9wz8FF,Naughty Man,7,0,Fletcher Henderson & His Orchestra,0.59,0.27,3,-14.31,1,0.07,1,0.25,0.65,0.85,189.27,4,2.99,1/1/1923,"['big band', 'stride', 'swing', 'vintage jazz']"
+4ubnmGMXNLgQpj5YKoldMm,Sugar Foot Stomp,7,0,Fletcher Henderson & His Orchestra,0.78,0.21,10,-14.13,1,0.08,0.98,0.03,0.1,0.88,100.38,4,2.82,1/1/1923,"['big band', 'stride', 'swing', 'vintage jazz']"
+4yZ7B7yoMjDMH4oInYA36l,Mahogany Hall Stomp,7,0,Louis Armstrong,0.64,0.27,3,-9.87,1,0.1,0.83,0.9,0.04,0.77,184.92,4,3.24,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+5CwOaZmAAsFfbQ5qCKS6sn,I'M Confessin' (That I Love You),7,0,Louis Armstrong & His Sebastian New Cotton Club Orchestra,0.48,0.14,3,-14.75,1,0.07,0.99,0.65,0.15,0.42,81.67,4,3.35,1/1/1923,['unknown']
+5EFXgEnibXPumWosZtJqkx,I Can'T Believe That You'Re In Love With Me,6,0,Louis Armstrong,0.58,0.2,0,-12.63,1,0.08,0.93,0,0.09,0.75,154.33,4,3.06,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+5EMxMmB4iSzA8jMNgLcTtO,Song Of The Vipers,5,0,Louis Armstrong,0.55,0.26,10,-8.57,1,0.09,0.98,0.8,0.53,0.64,181.77,4,2.86,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+5SM5voPROPhpgLuqRpGnNp,Good Time Flat Blues,6,0,Maggie Jones,0.55,0.2,0,-14.69,1,0.06,1,0,0.38,0.53,76.6,4,3.2,1/1/1923,['pre-war blues']
+5WfYFtwzOo8Ne7DA1qhtWl,Cake Walking Babies (From Home),6,0,"""Clarence Williams Blue Five""",0.63,0.44,7,-12.42,0,0.05,1,0.88,0.2,0.84,121.52,4,2.93,1/1/1923,['unknown']
+5c6hPSOnuiLnTve5b9s7ZS,Potato Head Blues,7,0,Louis Armstrong & His Hot Seven,0.59,0.29,5,-10.46,1,0.18,0.94,0.25,0.12,0.93,183.35,4,2.92,1/1/1923,['unknown']
+5eXOIVUkW17FqnEoLR2wTX,Stardust,5,0,Louis Armstrong,0.61,0.3,3,-11,0,0.05,0.97,0.65,0.05,0.77,122.32,4,3.56,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+5pIiw01BoIPnkQQI1AZHQL,T.N.T.,7,0,Fletcher Henderson & His Orchestra,0.81,0.41,1,-12.04,1,0.08,0.94,0.04,0.31,0.89,113.49,4,2.86,1/1/1923,"['big band', 'stride', 'swing', 'vintage jazz']"
+5rgmvqVTH38BKIhzEHanMq,Low Land Blues,5,0,"Bertha ""Chippie"" Hill",0.49,0.12,9,-15.79,1,0.09,0.98,0,0.04,0.46,172.97,4,2.88,1/1/1923,['vintage swing']
+6JLKiy1LMbmYY8JOM38UR9,Cornet Chop Suey,5,0,Louis Armstrong & His Hot Five,0.56,0.19,3,-14.62,1,0.09,1,0.57,0.11,0.69,170.07,4,3.24,1/1/1923,['new orleans jazz']
+6TBNeFMHsIarzHz8cz74KA,Too Busy,5,0,Lillie Delk Christian,0.6,0.29,7,-13.73,1,0.08,0.99,0,0.07,0.88,176.57,4,2.89,1/1/1923,['unknown']
+6azxqS9u7eO5DslqJCWMNd,Knockin' A Jug - 78 Rpm Version,6,0,Louis Armstrong,0.79,0.4,10,-14.03,1,0.3,0.88,0.84,0.12,0.68,113.34,4,3.23,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+7H5X09Fl9MN0FhICH4TSF6,Listen To Ma,5,0,"Hociel Thomas, Louis Armstrong",0.54,0.13,2,-13.09,1,0.04,0.99,0,0.31,0.56,91.94,4,3.31,1/1/1923,['unknown']
+00osj4z3S7XekDAuQVChIu,Chapter 1.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.29,1,-19.41,0,0.95,0.82,0,0.33,0.8,72.89,4,2.15,12/27/1923,['unknown']
+01BTcfGn8BF6ezah92vKyz,Chapter 10.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.21,1,-19.99,1,0.96,0.77,0,0.16,0.77,187.39,3,2.11,12/27/1923,['unknown']
+01lXmkENsxJJzkco2mcVTi,Chapter 5.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.16,1,-22.15,1,0.94,0.66,0,0.12,0.66,94.66,4,2.15,12/27/1923,['unknown']
+02J9nBVAnBTQkBObYuMoVH,Chapter 5.21 & Chapter 6.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.24,8,-18.4,1,0.93,0.67,0,0.14,0.62,118.62,4,2.46,12/27/1923,['unknown']
+03g4RX0WDEnJ9KDs5aa73z,Chapter 7.20 & Chapter 8.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.24,6,-20.4,1,0.96,0.84,0,0.36,0.78,64.97,4,2.35,12/27/1923,['unknown']
+04jqhYBmxWLKlZ9ggYxOah,Chapter 9.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.23,1,-19.38,1,0.94,0.72,0,0.15,0.68,126.1,1,2.53,12/27/1923,['unknown']
+07rwzJ4beSPUpljKx9jpn6,Chapter 2.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.29,5,-17.57,1,0.95,0.9,0,0.26,0.74,146.67,3,2.47,12/27/1923,['unknown']
+08ie5iqXXqWU0x1FVb2bAy,Chapter 1.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.24,1,-20.12,1,0.95,0.7,0,0.15,0.72,90.4,4,2.23,12/27/1923,['unknown']
+0Ai126YgdNANSa8etSr2r1,Chapter 2.21 & Chapter 3.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.18,1,-20.99,1,0.95,0.65,0,0.17,0.67,49.69,4,2.2,12/27/1923,['unknown']
+0CvmUvqBk83K7aD1FitfXn,Sol Mio - Remasterizado,0,0,Francisco Canaro,0.5,0.39,2,-14.48,1,0.05,1,0.96,0.17,0.81,83.16,4,2.87,7/9/1923,"['tango', 'vintage tango']"
+0DwsyNFrOKmKZobZ2q5gHv,Chapter 1.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.75,0.26,5,-18.82,0,0.93,0.74,0,0.38,0.8,109.53,5,2.36,12/27/1923,['unknown']
+0FKXiIKpbpwYC25lZPCidt,Chapter 5.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.24,1,-18.42,1,0.96,0.83,0,0.41,0.64,86.51,3,2.27,12/27/1923,['unknown']
+0FYPNQ4pPdPxyurQiYOp7W,Chapter 3.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.21,1,-20.26,1,0.92,0.69,0,0.24,0.68,112.03,4,2.18,12/27/1923,['unknown']
+0FYbI0Aet1rIc2Wyzu5Kfb,Chapter 2.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.28,1,-18.18,1,0.95,0.74,0,0.2,0.63,78.64,4,2.2,12/27/1923,['unknown']
+0GBMsGrBHw8rifEpXZabKx,Le Moment De M'En Aller,0,0,Dranem,0.65,0.32,7,-13.71,1,0.05,0.99,0,0.27,0.69,102.22,4,2.33,1/1/1923,['vintage chanson']
+0GkpS6KjxFsNt61hOpB2j9,La Payasa - Remasterizado,0,0,Ignacio Corsini,0.47,0.28,11,-19.32,1,0.13,0.99,0.93,0.11,0.6,130.44,4,2.55,3/29/1923,"['tango', 'vintage tango']"
+0IZWellIz78J9J2ef3djZ7,Chapter 5.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.26,10,-18.65,0,0.95,0.79,0,0.13,0.77,121.38,3,2.12,12/27/1923,['unknown']
+0JTkhdnSpIupvyzRctzhPZ,Chapter 5.19 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.24,5,-18.57,1,0.95,0.45,0,0.14,0.53,79.28,4,2.35,12/27/1923,['unknown']
+0Jz6ef3RtrtJVsDF0gx3Xl,Chapter 5.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.27,2,-19.63,1,0.94,0.73,0,0.14,0.83,81.72,4,2.17,12/27/1923,['unknown']
+0KXO1gJQlaOamDZABOqk1t,Chapter 8.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.17,1,-21.54,1,0.94,0.81,0,0.21,0.66,136.43,3,2.5,12/27/1923,['unknown']
+0LT4at4Sxly6ehB7tRkLtT,Chapter 10.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.19,1,-22.01,1,0.93,0.74,0,0.21,0.73,124.12,5,2.16,12/27/1923,['unknown']
+0LX5xrQbNs2yCFKKwKHXUQ,Chapter 4.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.22,1,-19.19,1,0.95,0.73,0,0.21,0.54,84.88,4,2.32,12/27/1923,['unknown']
+0Ms9iZZBTjHXVB8IqbKkds,Chapter 5.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.28,1,-18.84,1,0.94,0.83,0,0.16,0.68,110.19,4,2.29,12/27/1923,['unknown']
+0NPmKi0NIGvQg1GC0oLf4P,Chapter 3.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.21,5,-21.04,0,0.94,0.85,0,0.15,0.72,107.86,3,2.4,12/27/1923,['unknown']
+0ODKriM44PpgWBpojhUzrM,Chapter 9.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.25,1,-19.73,1,0.94,0.83,0,0.16,0.83,96.81,3,2.2,12/27/1923,['unknown']
+0QfWOoNZibrxHpzdKWEHBZ,When It'S Sleepy Time Down South,4,0,Louis Armstrong,0.53,0.18,3,-14.81,1,0.08,0.99,0,0.1,0.37,105.09,4,3.34,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+0Rk3mOSqpu2pr2abc4wfRw,Chapter 6.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.25,1,-19.85,0,0.96,0.79,0,0.22,0.68,171.15,4,2.81,12/27/1923,['unknown']
+0SAlJrwVKPXHFA0BASq88o,Chapter 4.20 & Chapter 5.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.18,1,-21.57,1,0.94,0.74,0,0.21,0.68,128.51,3,2.32,12/27/1923,['unknown']
+0SSvpErgx97kJ17MEHiPpp,Chapter 1.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.26,1,-19.38,1,0.95,0.78,0,0.21,0.82,85.36,4,2.16,12/27/1923,['unknown']
+0UBt1BLhBKHJKBxomaTBmD,Chapter 7.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.27,1,-19.51,1,0.94,0.82,0,0.19,0.76,127.44,3,2.17,12/27/1923,['unknown']
+0UnNaqhXoMihdyKyFHCcPh,Chapter 3.20 & Chapter 4.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.24,1,-19.71,1,0.95,0.73,0,0.27,0.64,102.03,3,2.24,12/27/1923,['unknown']
+0WBUzUenwyBGqeenzqhEG0,Chapter 1.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.76,0.27,1,-19.44,1,0.94,0.8,0,0.13,0.82,103.76,4,2.28,12/27/1923,['unknown']
+0Wi1XhlXoxuZHVhulDK4La,Chapter 6.20 & Chapter 7.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.25,5,-21.04,0,0.95,0.77,0,0.36,0.6,81.7,1,2.24,12/27/1923,['unknown']
+0Y9Sd7SkWFrmMvxJXagqo8,Chapter 2.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.27,5,-16.87,0,0.96,0.77,0,0.13,0.79,91.95,4,2.22,12/27/1923,['unknown']
+0YIo0uq3o867nFkE9I9hf2,Pleadin' For The Blues,4,0,"Bertha ""Chippie"" Hill, Louis Armstrong",0.66,0.13,2,-12.61,1,0.08,1,0,0.12,0.57,71.5,4,2.98,1/1/1923,['unknown']
+0YSsZU8Ho1rfH6mhj1plVb,Chapter 2.19 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.26,5,-18.67,0,0.96,0.92,0,0.15,0.69,54.43,4,2.22,12/27/1923,['unknown']
+0ZLFySfiageV9HiIi5gta0,Chapter 5.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,1,-18.94,1,0.96,0.79,0,0.24,0.79,167.85,5,2.37,12/27/1923,['unknown']
+0ZRoSs5icoW5QJvZq0Y73w,Demasiado Tarde - En Vivo,0,0,Yiyo Y Los Chicos 10,0.58,0.72,11,-2.41,0,0.03,0.84,0,0.36,0.77,104.35,4,3.08,1/1/1923,['unknown']
+0bKuq3fIaF2ut82ip9DQLP,Chapter 7.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.2,10,-19.48,0,0.94,0.75,0,0.39,0.7,110.77,5,2.19,12/27/1923,['unknown']
+0bu5dGUeiK4QwwcC50yWQU,Chapter 7.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.17,5,-21.16,0,0.96,0.72,0,0.32,0.7,83.1,3,2.32,12/27/1923,['unknown']
+0epiP90h88hjRHGk9RIins,Chapter 4.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.28,1,-19.78,1,0.96,0.74,0,0.16,0.6,163.14,3,2.4,12/27/1923,['unknown']
+0exN2h6nGOlAGbuMKszNnn,Chapter 3.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.28,1,-18.5,1,0.95,0.86,0,0.18,0.7,137.4,4,2.56,12/27/1923,['unknown']
+0fdCpczLwvzvAyzCGGOZtX,Entre Criollos - Remasterizado,0,0,Ignacio Corsini,0.41,0.25,6,-21.68,1,0.09,0.99,0.88,0.17,0.53,74.09,5,2.91,3/29/1923,"['tango', 'vintage tango']"
+0fuLzjcUhMW9s6NBsDb22L,Tight Like This,4,0,Louis Armstrong & His Hot Five,0.73,0.25,1,-10.3,0,0.12,0.98,0.33,0.04,0.46,110.86,4,3.29,1/1/1923,['new orleans jazz']
+0glAn7LZn0Kt6dpsXs57YL,Chapter 3.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.24,1,-19.65,1,0.96,0.72,0,0.28,0.67,73.75,3,2.44,12/27/1923,['unknown']
+0kT5g4vipDRoyTiYCm7xFE,Chapter 2.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.2,5,-19.22,0,0.91,0.77,0,0.15,0.8,121.39,5,2.26,12/27/1923,['unknown']
+0m0RpNz2xfcMSf9dqs7K12,Chapter 2.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.24,1,-18.51,1,0.96,0.74,0,0.3,0.68,78.38,3,2.23,12/27/1923,['unknown']
+0o570uhbq2qmtk89zmdApx,Chapter 9.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.28,1,-18.1,1,0.96,0.77,0,0.14,0.52,90.99,3,2.11,12/27/1923,['unknown']
+0oOQqvKFDd1lSCCgncRreZ,Chapter 5.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.23,4,-20.11,1,0.96,0.78,0,0.21,0.7,76.95,4,2.33,12/27/1923,['unknown']
+0oqDrehB6TLZNZk7J4sTKA,To Be In Love,4,0,Seger Ellis,0.56,0.2,4,-11.5,1,0.07,0.99,0,0.46,0.81,160.77,4,3.11,1/1/1923,['unknown']
+0pfb51HxNzI3bNVjKasaKK,Vencida - Remasterizado,0,0,Ignacio Corsini,0.57,0.09,11,-24.54,1,0.14,1,0.91,0.25,0.57,131.55,4,2,3/29/1923,"['tango', 'vintage tango']"
+0rdxKD0OyIW341nH9tiS1s,Chapter 9.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.25,5,-18.74,0,0.94,0.88,0,0.2,0.75,127.07,1,2.36,12/27/1923,['unknown']
+0s7iHksDgHUDzLhkGoqgmb,Chapter 6.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.24,1,-20.32,1,0.95,0.8,0,0.23,0.8,75.27,4,2.47,12/27/1923,['unknown']
+0t2ZuxdvuQeAjpyV0NVkHg,Chapter 11.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.24,5,-18.42,0,0.96,0.89,0,0.18,0.71,85.43,5,2.21,12/27/1923,['unknown']
+0tfBbHVCxusHAr7AZE5BiN,Chapter 5.20 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.22,1,-21.06,1,0.95,0.81,0,0.15,0.81,47.19,3,2.15,12/27/1923,['unknown']
+0tlIxalMu5riycAygdPi67,Chapter 1.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.25,1,-18.9,1,0.94,0.71,0,0.22,0.66,130.28,1,2.1,12/27/1923,['unknown']
+0tnNdIjSw8yTZqEOWOPygl,Chapter 8.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.25,1,-18.55,1,0.96,0.71,0,0.18,0.63,81.54,4,2.12,12/27/1923,['unknown']
+0v8GUuI5YaFIg7U2Nxkgv0,What'Ll I Do,0,0,Marie Earth Heart,0.27,0.25,7,-14.86,0,0.07,0.97,0,0.27,0.14,61.83,4,2.4,1/1/1923,['unknown']
+0vOQzUEthlMh7lVgpYqDX8,Chapter 1.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.29,8,-19.05,1,0.93,0.84,0,0.18,0.8,106.02,3,2.14,12/27/1923,['unknown']
+0wNiz7sRtFdsNyH0JDLzpZ,Chapter 7.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.23,1,-17.9,1,0.96,0.89,0,0.14,0.59,70.24,4,2.26,12/27/1923,['unknown']
+0y8AIqjVXEgFYE6cwcGJZA,Chapter 4.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.21,1,-19.71,1,0.94,0.63,0,0.24,0.56,103.6,5,2.21,12/27/1923,['unknown']
+0zxEXQGoj894oUI5eNU5Iz,Chapter 7.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.24,1,-19.39,1,0.94,0.89,0,0.17,0.83,125.72,3,2.21,12/27/1923,['unknown']
+10GwhMjT2Id4tYFlWvy0We,Chapter 6.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.23,1,-19.3,1,0.95,0.78,0,0.16,0.64,100.48,4,2.52,12/27/1923,['unknown']
+10qdz1AgvZt7ZKWi58Wutx,"Quiereme,Que Ganas Me Dieron - En Vivo",2,0,Yiyo Y Los Chicos 10,0.58,0.67,11,-8.37,1,0.05,0.48,0,0.45,0.82,105.5,4,6.95,1/1/1923,['unknown']
+15cSROWO3jSMwaJeOZTJVM,Chapter 7.17 & Chapter 8.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.16,1,-19.17,1,0.94,0.76,0,0.37,0.66,106.82,4,2.39,12/27/1923,['unknown']
+16yeYoHRv1lO9khNgqg7O8,Chapter 6.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.21,5,-20.89,1,0.95,0.77,0,0.16,0.65,104.78,3,2.26,12/27/1923,['unknown']
+18Mz0fPKHzyrxjQVCA0X2i,Chapter 1.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.26,1,-19.75,1,0.94,0.74,0,0.22,0.77,121.72,4,2.51,12/27/1923,['unknown']
+1AoueZtJ0wwjSDU4npTDnA,Chapter 3.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.22,6,-17.16,1,0.94,0.86,0,0.21,0.72,84.9,4,2.76,12/27/1923,['unknown']
+1B9DQSfiDWhYZmkqbYyonp,C'Est Au Bal Musette,0,0,Gaby Montbreuse,0.44,0.35,2,-14.91,1,0.1,0.99,0,0.3,0.77,77.7,3,2.68,1/1/1923,['unknown']
+1BcOVMn3ZHrqEQle8TULdM,Chapter 9.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.78,0.27,1,-19.1,1,0.95,0.78,0,0.34,0.78,59.46,3,2.15,12/27/1923,['unknown']
+1C24gb2rQwSd262BP09DNB,Chanson De Route De Ciboulette,0,0,Edmée Favart,0.78,0.34,2,-14.9,1,0.87,0.99,0,0.59,0.8,121.29,4,2.35,1/1/1923,['unknown']
+1CGbuEQ7kBcYxtNy4h1u5f,Chapter 2.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.29,1,-18.07,1,0.96,0.75,0,0.25,0.75,180.56,3,2.25,12/27/1923,['unknown']
+1D7D3FLwQ4rCvDWbBtVQho,Chapter 2.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.29,5,-19.08,0,0.96,0.74,0,0.18,0.63,83.19,4,2.38,12/27/1923,['unknown']
+1De0ODc2bv1ARYoa5E6c51,Chapter 1.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.76,0.19,1,-21.11,1,0.94,0.65,0,0.11,0.76,91.37,5,2.12,12/27/1923,['unknown']
+1GUAkBHHxTxnwMo4Or0TfG,Chapter 4.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.25,1,-19.26,1,0.95,0.78,0,0.19,0.74,78.86,4,2.32,12/27/1923,['unknown']
+1HfsGFkj5HdvEUyiWAr5Bv,Ma Gosse,0,0,Georgius,0.64,0.28,1,-16.48,1,0.22,0.98,0,0.45,0.76,123.85,4,3.41,1/1/1923,['vintage chanson']
+1IM5GNo7ctGQ6cfHS8C6XE,Pala Oyunu,0,0,Hafız Ahmet Celâl Tokses,0.23,0.4,4,-15.22,0,0.04,0.99,0.99,0.39,0.82,77.4,4,2.93,12/18/1923,['unknown']
+1IdZJF3Cs0eZiXsWU4Mkdf,Chapter 8.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.65,0.27,1,-19.18,1,0.95,0.56,0,0.12,0.59,79.41,4,2.1,12/27/1923,['unknown']
+1JcF6uVs9KWxNNYF2WHlMl,Chapter 8.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.22,4,-20.45,0,0.96,0.9,0,0.16,0.78,84.5,3,2.2,12/27/1923,['unknown']
+1NfUr9ZwIeClKfacPPvmDT,Chapter 3.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.23,1,-19.09,1,0.94,0.76,0,0.13,0.71,102.73,3,2.1,12/27/1923,['unknown']
+1Q4bwR6QlKFunLxFL70dS2,Chapter 8.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.26,9,-19.41,1,0.94,0.57,0,0.28,0.6,90.98,4,2.56,12/27/1923,['unknown']
+1RPKtGdObPEGK6LJ7QPzqE,Chapter 2.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.25,1,-18.3,1,0.95,0.76,0,0.2,0.68,100.98,5,2.21,12/27/1923,['unknown']
+1SRuQGGUL4RIx6ab7Jre5N,Chapter 2.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.24,1,-18.96,1,0.95,0.64,0,0.22,0.67,98.51,3,2.29,12/27/1923,['unknown']
+1Sz6kY4GhWjuNVHQvyGIh4,Chapter 5.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.22,1,-21.09,1,0.96,0.62,0,0.21,0.66,172.68,1,2.13,12/27/1923,['unknown']
+1TArKGbFOizRZwAU4zlZmY,Chapter 8.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.32,1,-17.14,1,0.96,0.7,0,0.12,0.67,72.23,1,2.13,12/27/1923,['unknown']
+1TNFBmTKmGk2FD5GOv3aLw,Chapter 6.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.28,5,-18.7,0,0.94,0.82,0,0.17,0.9,128.53,4,2.29,12/27/1923,['unknown']
+1VtCBfQf6KdQfmBgpRUUdY,Fakir - Remasterizado,0,0,Francisco Canaro,0.42,0.28,6,-15.55,1,0.05,0.99,0.97,0.29,0.44,138.19,3,2.78,7/9/1923,"['tango', 'vintage tango']"
+1W4guYCGp29HDPNCHPySRf,Chapter 4.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.18,1,-20.74,1,0.96,0.84,0,0.23,0.59,75.23,3,2.33,12/27/1923,['unknown']
+1WtaKy5GdBW179YRAL87hD,Chapter 7.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.16,1,-21.39,1,0.94,0.71,0,0.24,0.57,98.63,4,2.42,12/27/1923,['unknown']
+1Y80dR6Q3SLCfw15u7Ch7e,Chapter 2.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.8,0.23,1,-19.32,1,0.94,0.73,0,0.13,0.74,51.45,4,2.15,12/27/1923,['unknown']
+1YjHwSX3Y7X8586eaXM1Kk,Tu Voudrais Me Voir Pleurer,0,0,Robert Jysor,0.5,0.32,0,-12.26,1,0.08,1,0,0.27,0.62,108.51,4,3.07,1/1/1923,['unknown']
+1Ylr4v9oMsxRoLRkQJKRhM,Chapter 8.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.24,1,-18.87,1,0.96,0.89,0,0.18,0.76,78.77,4,2.18,12/27/1923,['unknown']
+1ZTX01NOGwP5IZ59A2Lmfi,Chapter 8.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.26,1,-19.14,1,0.96,0.9,0,0.29,0.77,82.61,3,2.11,12/27/1923,['unknown']
+1aN3D9FqE9P7slzb60Eqwj,Hicran,1,0,Safiye Ayla,0.23,0.42,6,-8.11,1,0.1,0.99,0.79,0.44,0.18,81.24,3,3.4,1/4/1923,"['turkish classical', 'turkish jazz']"
+1cx37MwPibFAOavpfNnlce,En La Cruz,0,0,Pablo Pastor,0.57,0.31,4,-11.25,1,0.03,0.87,0,0.1,0.48,129.9,4,2.36,3/1/1923,['unknown']
+1djdTuM7cMfBjMHvoev1cx,Chapter 6.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.24,5,-18.1,1,0.94,0.81,0,0.26,0.58,109.84,5,2.21,12/27/1923,['unknown']
+1dzaUcTS5k6sVTmhdQKjij,Chapter 10.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.26,1,-17.45,1,0.95,0.77,0,0.17,0.77,88.27,4,2.78,12/27/1923,['unknown']
+1e7zxvah6cU9yk7heqNMA7,Chapter 8.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.2,1,-21.34,1,0.95,0.87,0,0.22,0.6,98.49,4,2.22,12/27/1923,['unknown']
+1eLbwzyHyUne68R2yXPidS,Le Tapis Vert,0,0,Adolphe Bérard,0.38,0.24,4,-15.97,1,0.05,0.99,0,0.46,0.56,82.78,3,3.05,1/1/1923,['unknown']
+1edbuMXvCWHgW78HUugrK8,Chapter 4.21 & Chapter 5.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.18,1,-20.06,1,0.96,0.75,0,0.19,0.61,101.97,3,2.23,12/27/1923,['unknown']
+1hviILXEn7vTSzU10nsWRM,Chapter 1.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.21,8,-20.19,1,0.96,0.66,0,0.15,0.8,67.44,5,2.28,12/27/1923,['unknown']
+1iaThalbw5LINCP5AJXBTK,Chapter 4.19 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.65,0.19,11,-21.33,0,0.96,0.73,0,0.12,0.61,82.9,3,2.4,12/27/1923,['unknown']
+1kbPo2tqulbrU6yZfsDSac,Chapter 11.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.24,5,-18.48,0,0.94,0.89,0,0.25,0.64,98.14,3,2.31,12/27/1923,['unknown']
+1lJSfCp3rMSiSwE0OnWIQz,Chapter 7.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.23,1,-18.66,1,0.96,0.78,0,0.15,0.81,64.31,3,2.24,12/27/1923,['unknown']
+1lxRFRONmnUxRz5YhQAAwX,Pek Muztaribim,0,0,Hafız Ahmet Celâl Tokses,0.26,0.33,4,-17.08,1,0.09,1,0.92,0.51,0.19,78.08,1,2.79,12/18/1923,['unknown']
+1mLlyiUYSsOiRp0m766T0F,Chapter 6.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.22,6,-20.63,1,0.96,0.8,0,0.36,0.67,83.4,4,2.35,12/27/1923,['unknown']
+1nHsef13ntQzemvGfyRkIP,Chapter 2.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.22,0,-19.18,1,0.94,0.81,0,0.3,0.65,132.92,3,2.19,12/27/1923,['unknown']
+1nsqiWT2tkBgrM9r3yxCHE,Chapter 1.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.61,0.26,1,-18.76,1,0.96,0.84,0,0.24,0.75,69.04,4,2.71,12/27/1923,['unknown']
+1pfN0mDem9bZBYeIwVN7cD,Chapter 3.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.29,1,-19.04,1,0.95,0.83,0,0.16,0.56,73.73,4,2.98,12/27/1923,['unknown']
+1skk8BfvNGrVM8HBPypg3V,Chapter 5.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.27,1,-19.64,1,0.95,0.69,0,0.23,0.72,97.46,5,2.41,12/27/1923,['unknown']
+1u9zTLc3iWTud0cZM83CDr,Cuando Buda Sonríe - Remasterizado,0,0,Francisco Canaro,0.38,0.34,1,-16.3,1,0.04,0.99,0.96,0.17,0.62,79.42,4,2.85,7/9/1923,"['tango', 'vintage tango']"
+1uEXx4sLcQB04RNzvKKh5G,Chapter 5.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.18,1,-20.7,0,0.94,0.74,0,0.4,0.71,111.65,5,2.09,12/27/1923,['unknown']
+1uelg93BiJKU4SerLhXPU9,Chapter 10.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.24,2,-19.93,1,0.96,0.8,0,0.12,0.57,90.39,4,2.38,12/27/1923,['unknown']
+1unpFthiuixJx6sSW3OHAC,Chapter 3.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.2,1,-20.32,1,0.95,0.84,0,0.13,0.73,80.34,1,2.33,12/27/1923,['unknown']
+1wfVslnOJQdNR7jtleZVGn,Chapter 2.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.26,9,-18,1,0.94,0.9,0,0.35,0.76,117.18,3,3.23,12/27/1923,['unknown']
+1xXapXBSUSxWBkqWtvviHt,Chapter 2.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.78,0.18,5,-19.41,0,0.95,0.76,0,0.23,0.62,38.93,4,2.25,12/27/1923,['unknown']
+1xYkJjXx83VuTcaVILz3ho,Chapter 1.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.78,0.26,9,-19.04,1,0.94,0.73,0,0.26,0.74,103.2,3,2.41,12/27/1923,['unknown']
+1xci8Zmd0JnJD5g2WwXpNx,Electric Girl - Remasterizado,0,0,Francisco Canaro,0.56,0.43,11,-13.83,0,0.15,0.99,0.96,0.21,0.73,80.2,4,2.91,7/9/1923,"['tango', 'vintage tango']"
+1yMDC3pVzxKlcKwwwiFSmt,Sacate La Caretita - Remasterizado,0,0,Ignacio Corsini,0.57,0.01,5,-28.43,0,0.1,1,0.94,0.1,0.66,125.42,4,2.97,3/29/1923,"['tango', 'vintage tango']"
+203MYDy2P9nrTO3515B96D,Chapter 3.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.3,1,-19.36,1,0.96,0.65,0,0.43,0.6,134.45,4,2.42,12/27/1923,['unknown']
+214S1bDYDp34WOhqOGGnum,Chapter 8.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.2,1,-21.26,1,0.95,0.87,0,0.16,0.74,109.22,3,2.1,12/27/1923,['unknown']
+21QQ5ZuQUjPQQRi1JzR8GY,Veranito De San Juan - Remasterizado,0,0,Francisco Canaro,0.52,0.27,4,-15.87,0,0.11,0.99,0.97,0.15,0.89,130.06,4,3.01,7/9/1923,"['tango', 'vintage tango']"
+232KmyoWlX8B01eVPGw47e,Chapter 6.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.17,1,-20.52,0,0.95,0.9,0,0.19,0.79,83.6,3,2.11,12/27/1923,['unknown']
+238xfFBXsH2IV0dsHttZpy,Chapter 8.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.16,1,-21.67,0,0.93,0.87,0,0.17,0.69,116.5,3,2.15,12/27/1923,['unknown']
+23OK5hKz4EvcxSyPvAaLAp,Chapter 2.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.26,6,-20.8,0,0.95,0.82,0,0.19,0.76,83.3,4,2.13,12/27/1923,['unknown']
+240CtrmmZTh22BoDphHXV9,Chapter 1.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.24,1,-20.01,1,0.96,0.73,0,0.15,0.72,81.29,4,2.24,12/27/1923,['unknown']
+257hVxQ0y8XXJtGJtiDBPu,Chapter 3.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.24,1,-19.64,1,0.96,0.76,0,0.22,0.67,170.24,3,2.36,12/27/1923,['unknown']
+25SMQZnHTtKcUxFIpG7Mhp,The Loveliest Night Of The Year,0,0,Harry Curtis,0.43,0.42,10,-12.46,1,0.04,0.82,0,0.11,0.45,160.02,4,2.7,1/1/1923,['unknown']
+2626aAS6eQgc6CvdLVnoOw,La Danza De Las Libélulas - Remasterizado,0,0,Francisco Canaro,0.4,0.23,6,-15.28,0,0.04,1,0.84,0.38,0.42,80.09,4,2.61,7/9/1923,"['tango', 'vintage tango']"
+26ca2K4703vB1CoCtjzSLW,Chapter 7.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,1,-20.53,1,0.96,0.82,0,0.32,0.78,166.25,1,2.28,12/27/1923,['unknown']
+282GBb96Uc1l3nvDZU14Wr,La Garconniere - Remasterizado,0,0,Ignacio Corsini,0.49,0.11,2,-23.48,0,0.42,1,0.82,0.4,0.6,120.34,4,2.51,3/29/1923,"['tango', 'vintage tango']"
+28jWC2LAY4vqsUDxGctDs9,Chapter 8.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.15,8,-20.38,1,0.94,0.88,0,0.2,0.68,176.58,3,2.15,12/27/1923,['unknown']
+2BzP6Lj4EA6V3AmSPDlCmD,Chapter 5.20 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.25,1,-17.78,1,0.94,0.66,0,0.12,0.68,107.87,3,2.24,12/27/1923,['unknown']
+2CALgoRXs5TedfP7UxCVxC,Chapter 6.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.27,5,-19.57,0,0.96,0.82,0,0.22,0.68,60.37,4,2.27,12/27/1923,['unknown']
+2DMT63ps2b8F2PmbVG1Jtu,D'La Vraie Amour,0,0,Gaby Montbreuse,0.64,0.28,8,-16.47,1,0.32,0.99,0,0.15,0.84,65.86,3,3.43,1/1/1923,['unknown']
+2DlAiPP9DJ2z0bQfi8TMSk,Chapter 6.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.23,5,-20.31,1,0.95,0.79,0,0.19,0.6,96.2,3,2.17,12/27/1923,['unknown']
+2ETTpBNBoGotgsc8btbUhC,Chapter 10.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.2,0,-18.31,1,0.93,0.78,0,0.17,0.71,124.8,4,2.61,12/27/1923,['unknown']
+2EVvoTom0Oji191I1I4qCF,Chapter 2.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.2,5,-20.21,0,0.94,0.76,0,0.19,0.84,83.48,3,2.42,12/27/1923,['unknown']
+2FM5j4344sAAkUXTX5cTiX,Chapter 4.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.24,1,-19.05,1,0.96,0.69,0,0.23,0.51,172.72,3,2.11,12/27/1923,['unknown']
+2HfDoQcyX1ZEqbzsOMWPU8,Chapter 8.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.22,1,-19.84,1,0.95,0.64,0,0.28,0.55,128.2,3,2.19,12/27/1923,['unknown']
+2IwdIlqg3vpmDhJZPujABF,Chapter 8.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.22,1,-19.62,1,0.95,0.91,0,0.15,0.67,85.27,5,2.22,12/27/1923,['unknown']
+2JcQmJ2RIennzfIZSLzq0A,Chapter 5.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.24,1,-20.97,1,0.96,0.71,0,0.19,0.59,174.16,5,2.35,12/27/1923,['unknown']
+2KqBYBToiNNfhDIkSH91aq,Chapter 7.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.22,1,-19.04,1,0.96,0.88,0,0.36,0.71,78.55,4,2.25,12/27/1923,['unknown']
+2MskcGzzUdJdJy3Q7Y96qH,Chapter 6.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.2,6,-20.35,0,0.96,0.87,0,0.12,0.73,54.78,4,2.11,12/27/1923,['unknown']
+2N05z73nncXFj3XF2mYDDX,Chapter 8.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.25,9,-18.62,1,0.95,0.57,0,0.66,0.67,96.75,4,2.24,12/27/1923,['unknown']
+2OgHwBpullLkwd7O59O7AS,Chapter 3.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.24,1,-19.88,0,0.96,0.74,0,0.32,0.74,170.73,3,2.24,12/27/1923,['unknown']
+2OomQSfbQ4b8joF9N5rkIe,Chapter 7.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.14,1,-20.22,1,0.92,0.68,0,0.17,0.59,99.08,4,2.1,12/27/1923,['unknown']
+2P4P5kMqUriSRT7wyQPEGk,Chapter 3.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.18,5,-19.67,0,0.94,0.72,0,0.23,0.72,100.75,5,2.27,12/27/1923,['unknown']
+2PIlX13UoFyWhqepPJJVoJ,Chapter 8.21 & Chapter 9.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.26,1,-17.63,1,0.96,0.88,0,0.21,0.62,84.86,4,2.6,12/27/1923,['unknown']
+2PvwVyqAeYHKwAwnQNhHoX,Chapter 11.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.16,1,-19.46,1,0.93,0.72,0,0.18,0.56,111.17,1,2.13,12/27/1923,['unknown']
+2SVXq5WxQA2fuGVm6GWbIa,Chapter 10.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.18,1,-20.06,1,0.93,0.81,0,0.17,0.69,116.3,3,2.84,12/27/1923,['unknown']
+2TH4cBod9KMYpJ6Y2XxF2X,Chapter 2.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.24,5,-19.01,0,0.94,0.77,0,0.32,0.65,96.06,4,2.22,12/27/1923,['unknown']
+2TdBHm411Q9eU09zF24HHW,Padre Nuestro - Remasterizado,0,0,Francisco Canaro,0.6,0.24,4,-15.92,0,0.06,0.99,0.99,0.15,0.61,125.77,4,2.52,7/9/1923,"['tango', 'vintage tango']"
+2Us1pbKCuRgnpYK1Mm786O,Chapter 2.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.22,1,-19.13,1,0.94,0.7,0,0.3,0.7,92.33,3,2.54,12/27/1923,['unknown']
+2XPuwjQubVd5zfWmBZJKab,Chapter 9.20 & Chapter 10.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.22,1,-19.9,1,0.94,0.79,0,0.13,0.79,159.85,3,3.12,12/27/1923,['unknown']
+2aSHEubeGWVpJwQfJZl7JV,Chapter 2.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.26,2,-17.85,1,0.95,0.72,0,0.19,0.64,164.23,4,2.45,12/27/1923,['unknown']
+2bv2HjNm1zAjWWT1J9BfiE,Chapter 6.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.21,1,-21.25,1,0.95,0.78,0,0.3,0.77,82,3,2.13,12/27/1923,['unknown']
+2chC6F9xg7pl5slxzQizyo,Chapter 9.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.26,1,-18.99,1,0.93,0.88,0,0.2,0.84,115.32,5,2.98,12/27/1923,['unknown']
+2d3OQvoLSn9NA4sMGIYxNT,La Valse Du Faubourg,0,0,Félix Mayol,0.62,0.29,4,-11.5,1,0.06,0.98,0,0.34,0.93,61.28,3,2.89,1/1/1923,['vintage chanson']
+2dnaGKlRop5kaBJjEKW7j0,Juventud - Remasterizado,0,0,Ignacio Corsini,0.42,0.04,1,-29.19,0,0.06,1,0.91,0.1,0.25,70.35,4,2.55,3/29/1923,"['tango', 'vintage tango']"
+2e6jVBimYdHUgveLPAREap,Chapter 1.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.3,1,-17.65,1,0.94,0.86,0,0.19,0.79,62.4,3,2.35,12/27/1923,['unknown']
+2gFUqcLFUDVXcWmeKAOnGd,Pobre Cotorro - Remasterizado,0,0,Ignacio Corsini,0.5,0.3,5,-15.32,0,0.08,1,0.92,0.28,0.51,135.24,4,2.85,3/29/1923,"['tango', 'vintage tango']"
+2gwppa6p7HymxbyxEooUNI,Two Deuces,4,0,Louis Armstrong & His Hot Five,0.71,0.29,5,-10.67,1,0.07,0.96,0.35,0.39,0.56,85.3,4,2.88,1/1/1923,['new orleans jazz']
+2gy7I5dzqH5SMPefKbXqqg,Chapter 3.19 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.23,1,-17.5,0,0.95,0.88,0,0.16,0.7,85.56,3,2.8,12/27/1923,['unknown']
+2hLwDuj5IWkGnaADLfKhO3,Chapter 4.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.19,1,-20.56,1,0.95,0.67,0,0.15,0.65,90.22,3,2.31,12/27/1923,['unknown']
+2hg4UzqISMeCbjd8iSZhPT,Chapter 8.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.21,1,-20.03,1,0.94,0.69,0,0.17,0.79,78.03,3,2.1,12/27/1923,['unknown']
+2l56fKIIrgfHWndcbkBAta,The C00L Song,0,1,Dampfwalzi,0.5,0.82,9,-12.87,0,0.06,0,0.64,0.47,0.4,97.02,4,2.01,2/26/1923,['unknown']
+2l78PWopglhBVZGmpeTNRh,Chapter 2.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.19,1,-20.44,1,0.94,0.85,0,0.24,0.59,127.02,3,2.26,12/27/1923,['unknown']
+2lfBwShUHcbTlQltFG6LZe,Chapter 7.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.75,0.21,1,-20.12,1,0.95,0.82,0,0.19,0.78,60.04,4,2.16,12/27/1923,['unknown']
+2llQn4es5UBbZF2aTZuf5V,Chapter 3.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.27,9,-17.41,1,0.95,0.94,0,0.25,0.61,130.2,5,2.17,12/27/1923,['unknown']
+2mT2jYaXYm8t7pUewp55pj,Chapter 6.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.25,10,-19.7,0,0.96,0.79,0,0.13,0.77,148.32,4,2.28,12/27/1923,['unknown']
+2ohtXE5y4GhN0Zxvalubes,On The Sunny Side Of The Street - Part 2,4,0,Louis Armstrong,0.56,0.27,0,-9.8,1,0.05,0.99,0.85,0.45,0.58,101.28,4,3.1,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+2ot1SikkJGXtHo4OfOEuEe,Chapter 9.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.22,5,-18.14,0,0.96,0.79,0,0.18,0.72,75.16,4,2.3,12/27/1923,['unknown']
+2p6Iprr9YSwoPEr9Z24uVj,Beso De Sol - Remasterizado,0,0,Ignacio Corsini,0.39,0.14,7,-23.36,1,0.04,0.99,0.32,0.15,0.55,78.54,1,2.45,3/29/1923,"['tango', 'vintage tango']"
+2qkMBPNx82zd6ynbrL6HOb,Chapter 3.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.2,1,-19.56,1,0.93,0.69,0,0.13,0.7,107.78,4,2.11,12/27/1923,['unknown']
+2sVqBPHl4PWSeURzg9EKrp,Chapter 9.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.23,1,-18.54,1,0.95,0.82,0,0.16,0.66,96.26,3,2.16,12/27/1923,['unknown']
+2spqNW4Rg9EOcbRHqgqsud,Chapter 1.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.24,1,-19.07,1,0.94,0.75,0,0.16,0.78,130.56,3,2.21,12/27/1923,['unknown']
+2u9uUB3WJMcE5jty4rjDOq,Chapter 2.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.2,1,-22.26,1,0.95,0.68,0,0.13,0.78,79.11,4,2.29,12/27/1923,['unknown']
+2yfrHTCBu6ED8Abxey81Qk,Chapter 5.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.28,1,-19.15,1,0.93,0.75,0,0.16,0.55,112.48,1,2.19,12/27/1923,['unknown']
+2yqz75MA7AtLje5drtf8Gq,Mi Alazan Tostado - Remasterizado,0,0,Ignacio Corsini,0.34,0.3,11,-19.58,0,0.04,0.99,0.89,0.41,0.56,100.94,3,3.1,3/29/1923,"['tango', 'vintage tango']"
+2zFWLv60Tyz6D7SUQUNZtH,Elle N'Est Pas Si Mal Que Ca,0,0,Mlle Davia,0.52,0.29,0,-15.18,1,0.09,1,0.05,0.47,0.54,83.33,4,2.87,1/1/1923,['unknown']
+30zaNxb2hI6M678pWrGK0h,Chapter 3.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.23,11,-18.37,0,0.93,0.87,0,0.14,0.69,127.52,3,2.29,12/27/1923,['unknown']
+31BnKhHR84Tv59WcvudHCq,Chapter 2.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.28,5,-18.56,1,0.95,0.82,0,0.15,0.71,86.48,3,2.09,12/27/1923,['unknown']
+31xehks2I3KrRVZRdZlREk,Chapter 5.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.3,1,-18.43,1,0.94,0.85,0,0.14,0.81,103.31,3,2.17,12/27/1923,['unknown']
+32lDouU0o6hjbxZL2P2ovX,Chapter 2.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.24,1,-19.89,1,0.94,0.86,0,0.13,0.78,87.4,3,2.57,12/27/1923,['unknown']
+34D575uvl3MYVJx7PceZCl,Chapter 7.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.22,1,-19.47,1,0.94,0.86,0,0.12,0.83,151.23,4,2.37,12/27/1923,['unknown']
+34mNRdIyIPh54mNDWN8lkK,Chapter 6.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.22,1,-21.77,0,0.94,0.82,0,0.24,0.72,131.44,4,2.13,12/27/1923,['unknown']
+34rdVyVGI2u6I0tNWc8v0Y,Nous Avons Fait Un Beau Voyage,0,0,André Baugé,0.61,0.28,5,-13.41,1,0.17,0.98,0,0.22,0.85,73.67,4,2.13,1/1/1923,['vintage chanson']
+35gyMzxIMFL4e2YL5hkpH6,I Ain'T No Body'S Darling - Remasterizado,0,0,Francisco Canaro,0.47,0.43,5,-13.01,1,0.05,1,0.98,0.18,0.94,166.48,4,2.85,7/9/1923,"['tango', 'vintage tango']"
+36TmAU1B91sO9Gwn6cMdv1,Chapter 6.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.27,8,-19.13,1,0.95,0.64,0,0.17,0.64,97.06,4,2.22,12/27/1923,['unknown']
+37cZYq36byeOYpb0KAl6lF,Chapter 10.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.18,1,-20.92,1,0.92,0.74,0,0.18,0.71,114.66,4,2.12,12/27/1923,['unknown']
+38p6VEUf5fz0WA3TM2GNIz,Chapter 3.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.19,1,-21.01,1,0.96,0.74,0,0.09,0.76,81.97,4,2.44,12/27/1923,['unknown']
+39zX6LsaEcaluNfwwraKAs,Chapter 5.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.23,5,-20,0,0.96,0.74,0,0.2,0.68,176.05,1,2.11,12/27/1923,['unknown']
+3AL6oljZrHIu9wxGXvkKCb,Chapter 6.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.26,6,-18.79,1,0.95,0.88,0,0.12,0.83,82.11,3,2.13,12/27/1923,['unknown']
+3AVbE1jEbBroxADdYSwpUX,Chapter 6.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.22,1,-19.97,1,0.94,0.8,0,0.27,0.73,126.52,3,2.18,12/27/1923,['unknown']
+3BHmu5onoduKIseK4p4VTQ,Chapter 1.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.27,1,-19.6,1,0.95,0.74,0,0.17,0.77,71.44,3,2.11,12/27/1923,['unknown']
+3DWEcGDSXu42LYHbSVYguU,There'S No Tomorrow,0,0,Harry Curtis,0.72,0.38,11,-12.96,1,0.03,0.76,0,0.12,0.81,109.98,4,2.17,1/1/1923,['unknown']
+3FyDaPO3ak0R5zQrO14sL7,Chapter 2.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.2,1,-18.18,0,0.94,0.56,0,0.15,0.57,108.1,3,2.3,12/27/1923,['unknown']
+3GPFBKLtvTe3V63nzh4oUF,Chapter 6.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.18,0,-20.43,1,0.95,0.81,0,0.17,0.61,92.7,4,2.24,12/27/1923,['unknown']
+3Glvyay182hRpDhPscmZWx,Chapter 11.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.21,1,-18.84,1,0.95,0.9,0,0.17,0.74,85.93,4,2.17,12/27/1923,['unknown']
+3HkSl0PJj4xBPkeZsK1yXI,Chapter 8.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.18,1,-20.5,1,0.96,0.38,0,0.07,0.52,168.86,5,3.47,12/27/1923,['unknown']
+3IOmj6NIiknYGtIuFGBSBG,Muchachita Loca - Remasterizado,0,0,Ignacio Corsini,0.44,0.21,6,-21.56,0,0.05,1,0.02,0.25,0.7,122.93,4,2.55,3/29/1923,"['tango', 'vintage tango']"
+3J8H6B2f2uNkSiHYwwPB6Q,Chapter 4.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.65,0.16,5,-21.96,0,0.95,0.74,0,0.14,0.69,91.39,3,2.29,12/27/1923,['unknown']
+3JQIKXzPa0RIodcMBr6DNF,Chapter 4.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.23,1,-19.34,1,0.96,0.76,0,0.27,0.8,81.39,4,2.09,12/27/1923,['unknown']
+3JSyqV0xIb9k6Xfor577ML,Chapter 2.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.17,9,-19.42,1,0.95,0.77,0,0.13,0.7,89.16,5,2.3,12/27/1923,['unknown']
+3KtlyM6mYwRXTova2jfFPF,Chapter 8.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.23,1,-18.2,1,0.94,0.81,0,0.17,0.58,105.26,3,2.26,12/27/1923,['unknown']
+3LEXI58rgVBIn8Mr0FQXrp,Chapter 7.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.2,5,-20.12,1,0.94,0.79,0,0.17,0.72,122.97,1,2.1,12/27/1923,['unknown']
+3LTK7FvKsUKOLp9TZRVQIZ,Chapter 7.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.18,1,-20.02,1,0.94,0.68,0,0.16,0.69,83.87,4,2.16,12/27/1923,['unknown']
+3M1AV4KKRquagoq35YNxse,Chapter 1.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.29,5,-18.81,0,0.93,0.76,0,0.14,0.71,97.98,5,2.38,12/27/1923,['unknown']
+3MDt3vN8pgvIAfDIxtyN3a,Chapter 8.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.16,1,-22.03,1,0.95,0.84,0,0.2,0.75,80.2,3,2.24,12/27/1923,['unknown']
+3O2pzKGBzwCsTywRWovx2U,Chapter 4.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.24,9,-18.05,1,0.95,0.74,0,0.35,0.62,100.58,3,2.33,12/27/1923,['unknown']
+3Q0Z752d6h26C5Ivd0q2VZ,Chapter 6.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.22,1,-19.99,1,0.96,0.85,0,0.15,0.65,76.92,4,2.36,12/27/1923,['unknown']
+3Q5D2uUAUIiACyCgVwaDFU,Chapter 1.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.3,1,-17.94,1,0.95,0.83,0,0.16,0.78,146.46,4,2.23,12/27/1923,['unknown']
+3V2R1hDixOyRYEIWdYm0OC,Nubes De Humo - Remasterizado,0,0,Francisco Canaro,0.62,0.31,8,-13.93,0,0.05,1,0.97,0.12,0.73,122.62,4,2.94,7/9/1923,"['tango', 'vintage tango']"
+3VDVHZiEBJvKM9WGEJVR9a,Chapter 4.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.23,0,-19.19,1,0.96,0.85,0,0.14,0.63,86.99,4,2.15,12/27/1923,['unknown']
+3XHUxnjmA15lbMDcGYiWwZ,Eleonore - Remasterizado,0,0,Francisco Canaro,0.34,0.42,0,-15.09,1,0.17,1,0.98,0.26,0.76,167.96,4,2.63,7/9/1923,"['tango', 'vintage tango']"
+3YK80CqyG4hLA3YbDxavBO,Chapter 8.20 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.18,1,-19.36,1,0.96,0.83,0,0.1,0.74,93.32,1,2.1,12/27/1923,['unknown']
+3Ymcu570Ylr9LUnCX6tnhC,Chapter 1.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.27,1,-19.56,1,0.94,0.79,0,0.15,0.78,107.63,1,2.13,12/27/1923,['unknown']
+3ZKOtk1YGKwrQkDhi73zJr,Dans Les Jardins De L'Alhambra,0,0,Robert Jysor,0.67,0.37,1,-12.87,0,0.07,0.99,0,0.34,0.8,108.16,4,3.15,1/1/1923,['unknown']
+3ZcK37cOs1Q16F6CQeVFgA,Chapter 1.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.26,1,-20.43,1,0.96,0.77,0,0.28,0.8,79.73,4,2.4,12/27/1923,['unknown']
+3clAJr93BNtxjwKWgPzibE,Chapter 4.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.2,1,-20.62,1,0.96,0.82,0,0.31,0.52,170.94,3,2.15,12/27/1923,['unknown']
+3dtLRp92v8d6ZBDzwidmgk,Chapter 1.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.24,1,-20.64,1,0.95,0.67,0,0.17,0.76,83.12,3,2.19,12/27/1923,['unknown']
+3eSMs0YEt1qRUtsIjjoR5u,Chapter 4.20 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.18,1,-20.77,1,0.95,0.74,0,0.16,0.76,113.85,4,2.11,12/27/1923,['unknown']
+3erNdiLPou8N2daJMvaaWv,Dinah,0,0,Harry Curtis,0.72,0.51,7,-10.52,1,0.04,0.76,0,0.06,0.88,130.06,4,2.38,1/1/1923,['unknown']
+3f4HAZPUTSrQbK6jCwQhnx,You Broke The Only Heart That Ever Loved You,0,0,Harry Curtis,0.63,0.42,0,-11.67,1,0.05,0.71,0,0.16,0.73,133.9,4,2.45,1/1/1923,['unknown']
+3gApxJyhWWfo68HGgyVcAS,Chapter 2.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.75,0.23,1,-20.52,1,0.95,0.8,0,0.13,0.64,107.66,3,2.13,12/27/1923,['unknown']
+3i4RahjAMmwcNCLekuLYEY,Chapter 2.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.22,1,-19.87,1,0.95,0.7,0,0.19,0.75,103.88,3,2.19,12/27/1923,['unknown']
+3iEvTQafOiOJyPov4Qpvh5,Chapter 8.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.2,5,-20.51,0,0.94,0.87,0,0.25,0.77,93.23,3,2.43,12/27/1923,['unknown']
+3iRLeF7fyaOBgeySp2ZzWD,Chapter 4.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.18,0,-20.21,1,0.95,0.81,0,0.25,0.6,83.87,4,2.1,12/27/1923,['unknown']
+3iTYh4qdFdJyYlmGs0Ch1Z,Chapter 2.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.2,9,-21,1,0.96,0.75,0,0.16,0.76,62.19,4,2.29,12/27/1923,['unknown']
+3iobM1JNjGIabwPNrJ5zfW,Chapter 9.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.17,1,-20.18,1,0.95,0.76,0,0.35,0.66,87.16,4,2.23,12/27/1923,['unknown']
+3jK2m3L8elPvXWnCSPgsiB,Chapter 5.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.19,5,-19.52,0,0.96,0.74,0,0.17,0.69,91.67,3,2.35,12/27/1923,['unknown']
+3jic1HtQwJwaKnBL4ykuwZ,My Sweet,4,0,Louis Armstrong,0.74,0.28,3,-10.41,1,0.05,0.93,0.08,0.06,0.82,105.84,4,3.27,1/1/1923,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+3k4aOGCuv5NjjHTJ3tBBqw,Chapter 1.20 & Chapter 2.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.14,1,-23.29,1,0.94,0.54,0,0.33,0.72,136.32,1,2.1,12/27/1923,['unknown']
+3k8zGG9LmgT9I68R0u5cDE,Chapter 9.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.24,1,-19.59,1,0.96,0.74,0,0.16,0.75,73.51,3,2.28,12/27/1923,['unknown']
+3lWtpc2gKflv5xG7qGVA9l,I Can'T Give You Anything But Love,0,0,Harry Curtis,0.73,0.52,2,-11.97,1,0.05,0.86,0,0.09,0.78,139.96,4,3.07,1/1/1923,['unknown']
+3mILRZYDhBz4ZqmVlt7su7,Chapter 5.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.25,1,-20.49,1,0.95,0.78,0,0.24,0.78,85.73,3,2.24,12/27/1923,['unknown']
+3npTSodOUXSWhonT7TJTIN,Chapter 7.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.25,9,-17.74,1,0.96,0.86,0,0.26,0.7,99.26,4,2.09,12/27/1923,['unknown']
+3pNvEugUdsFGZSolcLGb3V,Chapter 4.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.25,1,-17.98,1,0.95,0.79,0,0.22,0.8,107.78,5,2.27,12/27/1923,['unknown']
+3pjehtgPoqwg771OxtIth4,Chapter 8.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.28,1,-18.76,1,0.95,0.71,0,0.22,0.58,88.56,3,2.09,12/27/1923,['unknown']
+3pjoWqkg0KD2BYLhWNjv7T,Chapter 5.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.16,6,-20.68,0,0.96,0.78,0,0.29,0.85,78.97,1,2.12,12/27/1923,['unknown']
+3q29zpii6tFh9IdrXL0HLX,Chapter 4.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.2,1,-20.65,1,0.96,0.65,0,0.36,0.61,139.47,3,2.35,12/27/1923,['unknown']
+3qByw3YrQnpjMttThvwclS,The Bridwell Blues,4,0,Nolan Welsh,0.66,0.14,11,-14.72,1,0.34,1,0,0.12,0.64,72.49,4,3.53,1/1/1923,['unknown']
+3qpqaoO3IPawhS4PzUeJL7,Chapter 3.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.22,1,-20.72,1,0.95,0.74,0,0.16,0.75,74.05,3,2.22,12/27/1923,['unknown']
+3siZBSfqfWGdfO22wScU0U,Chapter 4.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.2,1,-19.24,1,0.93,0.83,0,0.24,0.82,111.12,4,2.18,12/27/1923,['unknown']
+3tyhTk1UX8h6NSRuSQd2Gz,Chapter 4.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.24,9,-19,1,0.95,0.79,0,0.25,0.81,85.46,4,2.31,12/27/1923,['unknown']
+3vNg4FT0yzOVYVrCydxIPZ,Chapter 7.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.17,1,-20.34,1,0.95,0.83,0,0.26,0.6,86.36,4,2.12,12/27/1923,['unknown']
+3vWbf3W1QkZjnfJhHXQxCp,Chapter 4.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,1,-18.43,1,0.96,0.74,0,0.61,0.62,170.07,5,2.15,12/27/1923,['unknown']
+3vfTqBW9DLaendwbV4sMeM,Chapter 6.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.2,1,-19.44,0,0.95,0.84,0,0.2,0.78,85.9,3,2.71,12/27/1923,['unknown']
+3y44rjnrh8GMfjqbONAaTO,Chapter 11.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.24,2,-19.36,1,0.94,0.85,0,0.24,0.71,99.51,3,2.3,12/27/1923,['unknown']
+3y9FJZk0c8LXgvaFU5KFXK,Chapter 6.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.22,9,-19.09,1,0.94,0.71,0,0.22,0.57,137.86,3,2.27,12/27/1923,['unknown']
+3zSJdNa5YQwNSAnkZm9gAw,Chapter 10.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,1,-17.48,1,0.96,0.78,0,0.26,0.74,167.8,1,2.2,12/27/1923,['unknown']
+3zsFs71s4rmanTNdQUatzS,You Never Miss The Water Till The Well Runs Dry,0,0,Harry Curtis,0.74,0.42,5,-10.23,1,0.03,0.91,0,0.1,0.56,119.96,3,2.51,1/1/1923,['unknown']
+41EbVURlQ4vMzr4T40Cokw,Chapter 5.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.28,10,-18.48,0,0.95,0.77,0,0.2,0.72,77.25,4,2.61,12/27/1923,['unknown']
+41RLkvyELWv5ydLwQ6FsLu,You Always Hurt The One You Love,0,0,Harry Curtis,0.48,0.29,10,-12.17,1,0.04,0.88,0,0.11,0.24,126.3,3,3.48,1/1/1923,['unknown']
+41gIFUJuvcpDWaljitJ2ZW,Chapter 2.20 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.24,1,-20.6,1,0.94,0.73,0,0.39,0.76,134.11,3,2.32,12/27/1923,['unknown']
+43YL7lZHfzOVq6uqS4HJ61,Chapter 4.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.26,1,-18.13,1,0.95,0.8,0,0.32,0.66,109.76,4,2.62,12/27/1923,['unknown']
+43eCxF1gclHqMZXiqdPfX1,Chapter 2.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,1,-17.66,1,0.96,0.83,0,0.14,0.75,168.73,1,2.98,12/27/1923,['unknown']
+45MNeHFtmUexSRJPQoOzah,Chapter 3.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.22,8,-19.18,1,0.95,0.82,0,0.25,0.68,80.75,4,2.13,12/27/1923,['unknown']
+49R7xgYyebbRaivhnEDqNa,Chapter 9.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.22,1,-19.82,1,0.95,0.84,0,0.31,0.65,137.94,3,2.1,12/27/1923,['unknown']
+4B1wlmzIBmItd9sYUng5QR,Chapter 6.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.62,0.26,1,-18.82,1,0.94,0.83,0,0.16,0.83,75.42,3,3.13,12/27/1923,['unknown']
+4B7YDknKCv5ZwrWMpBDz9O,Chapter 8.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.22,1,-19.17,1,0.94,0.85,0,0.17,0.84,92.86,3,2.2,12/27/1923,['unknown']
+4Bdt3R7sAZipPugh2gYzuG,Chapter 7.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.2,1,-19.22,1,0.96,0.72,0,0.15,0.59,85.8,4,2.15,12/27/1923,['unknown']
+4DR1ApXu41RRJsixQcl9pB,Chapter 4.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.76,0.19,5,-20.7,0,0.94,0.7,0,0.14,0.72,89.06,4,2.26,12/27/1923,['unknown']
+4EysTioGylafNse9OdvnD2,Chapter 1.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.19,9,-19.8,0,0.95,0.76,0,0.26,0.72,87.36,3,2.39,12/27/1923,['unknown']
+4FIWTETB0N3snepDVfSk7l,Chapter 10.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.19,1,-19.48,1,0.9,0.79,0,0.22,0.73,130.15,5,2.45,12/27/1923,['unknown']
+4IZb9POk9nkymYNibJkUxh,Negro Veio - Remasterizado,0,0,Francisco Canaro,0.41,0.41,0,-16.13,0,0.12,1,0.98,0.3,0.71,134.87,3,2.68,7/9/1923,"['tango', 'vintage tango']"
+4K4YVhAtAWSocjzNtPmqgR,Chapter 1.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.28,9,-19.5,1,0.96,0.75,0,0.41,0.7,84.62,1,2.37,12/27/1923,['unknown']
+4KEKCaNCoBTsRV9DZ2SBeI,Chapter 2.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.21,11,-20.71,0,0.95,0.8,0,0.16,0.67,61.51,4,2.12,12/27/1923,['unknown']
+4KffbYKEtRSDQWVDESAEfD,Chapter 8.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.78,0.24,1,-20.41,1,0.95,0.6,0,0.17,0.56,86.89,4,2.33,12/27/1923,['unknown']
+4Kk5VcClSSrmqQOv8yUyJU,Chapter 3.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.19,1,-17.58,1,0.94,0.82,0,0.52,0.69,105.84,4,2.1,12/27/1923,['unknown']
+4N4elWLcjI9JTbVGBLQKiy,Chapter 8.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.2,1,-20.05,1,0.96,0.71,0,0.36,0.66,167.49,5,2.23,12/27/1923,['unknown']
+4NRryZLamMJHcWFgQmryYV,Chapter 3.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.28,1,-19.3,1,0.96,0.78,0,0.14,0.73,85.62,3,2.26,12/27/1923,['unknown']
+4Oy82y4C7BmmbRKwqtnHP9,Fin De Fiesta - Remasterizado,0,0,Ignacio Corsini,0.54,0.27,9,-21.05,1,0.11,0.99,0.87,0.16,0.59,126.42,4,2.17,3/29/1923,"['tango', 'vintage tango']"
+4Q5I6riVFNV4mJaqSCmB0C,Basin Street Blues - Rec. 1928,4,0,Louis Armstrong & His Hot Five,0.6,0.28,10,-11.59,1,0.04,0.99,0.24,0.28,0.59,123.27,4,3.45,1/1/1923,['new orleans jazz']
+4RjQhyJDUrP5jPPLNqeUde,Chapter 3.20 & Chapter 4.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.23,1,-19.55,1,0.93,0.59,0,0.17,0.59,120.48,3,2.09,12/27/1923,['unknown']
+4S1deTG4Vv6XYGvfKddHce,Chapter 2.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.21,1,-21.71,1,0.94,0.59,0,0.2,0.71,97.67,1,2.55,12/27/1923,['unknown']
+4ST4PUbwdsf6u9WiaEPrZh,Chapter 4.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.19,1,-20.27,0,0.95,0.74,0,0.2,0.62,89.38,3,2.12,12/27/1923,['unknown']
+4T2aGCxq1CbCjWsMDbRAfI,Chapter 5.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.25,2,-19.75,1,0.95,0.8,0,0.23,0.77,87.43,4,2.3,12/27/1923,['unknown']
+4U0gazcK1w4jZ4GI2VN0HS,Chapter 7.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.22,1,-20.08,1,0.95,0.82,0,0.15,0.82,76.1,3,3.03,12/27/1923,['unknown']
+4UhoxOr9WlfXYzeis6qUb4,Chapter 5.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.2,5,-20.27,0,0.95,0.84,0,0.15,0.66,91.46,3,2.32,12/27/1923,['unknown']
+4WXe3dCt6rOGZi8LN0OhAf,Chapter 7.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.24,1,-19.59,1,0.94,0.78,0,0.22,0.64,107.82,3,2.36,12/27/1923,['unknown']
+4YGxi7mdKVrpu1ReFq3D6j,Chapter 1.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.24,2,-21.08,1,0.96,0.72,0,0.4,0.81,82.91,4,2.19,12/27/1923,['unknown']
+4ZitqHZFSVYCTBNYc8HKFF,Chapter 11.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.17,1,-21.15,1,0.96,0.72,0,0.18,0.56,84.18,4,2.26,12/27/1923,['unknown']
+4aBACPRAZ0c9aE4hANFqQC,El Ranchito - Remasterizado,0,0,Ignacio Corsini,0.52,0.17,6,-25.09,0,0.06,1,0.92,0.11,0.88,133.93,4,2.31,3/29/1923,"['tango', 'vintage tango']"
+4aDCi0pzkOTCAR8jCtGFMI,Chapter 7.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.25,1,-17.74,1,0.95,0.78,0,0.13,0.67,89.82,4,2.22,12/27/1923,['unknown']
+4aiBhO8OFKDjMEQPJBRbOD,Chapter 10.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.22,1,-18.96,0,0.95,0.85,0,0.23,0.68,110.69,4,2.61,12/27/1923,['unknown']
+4b1WHoIViQlwXRzbyfoDWt,Chapter 4.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.61,0.24,9,-20.6,1,0.96,0.73,0,0.13,0.59,182.39,5,2.32,12/27/1923,['unknown']
+4crH7nJtRlIWw0s7q4uFso,Chapter 2.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.66,0.28,1,-18.77,1,0.95,0.79,0,0.35,0.78,84.13,3,2.42,12/27/1923,['unknown']
+4e0Z62eclfkLbJIS3ociMr,Chapter 6.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.28,1,-18.9,1,0.93,0.8,0,0.17,0.81,105.56,3,2.34,12/27/1923,['unknown']
+4eM1VXQJL2BUF8oS5z0aMg,Sleepy Time Gal,0,0,Harry Curtis,0.82,0.48,1,-10.49,1,0.03,0.82,0,0.09,0.78,119.98,4,2.68,1/1/1923,['unknown']
+4fDOEIB0bCQnvWuMBvmt0d,Chapter 1.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.27,1,-18.19,1,0.95,0.74,0,0.22,0.78,104.19,4,2.21,12/27/1923,['unknown']
+4gl4alhMjSTxmzbEEfM0as,Chapter 6.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.3,1,-18.43,1,0.94,0.82,0,0.25,0.88,88.74,1,2.14,12/27/1923,['unknown']
+4hh7wB9petnh9H07LChbHx,Chapter 8.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.76,0.26,1,-18.71,1,0.95,0.71,0,0.21,0.74,59.12,5,2.1,12/27/1923,['unknown']
+4j1w8LCA1MLSnTYxMVXQ63,Savoy Blues,4,0,Louis Armstrong & His Hot Five,0.81,0.15,7,-14.3,1,0.08,0.99,0.87,0.1,0.54,127.94,4,3.47,1/1/1923,['new orleans jazz']
+4jxZVsrLDYIyDIACUm4z3x,Chapter 3.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.65,0.26,1,-18.83,1,0.95,0.84,0,0.15,0.72,156.28,5,2.17,12/27/1923,['unknown']
+4k5a1oCScvCZQitzrWsND1,La Vuelta De Mi Amor - Remasterizado,0,0,Ignacio Corsini,0.38,0.34,4,-20.11,0,0.34,0.99,0.9,0.27,0.68,74.24,4,2.76,3/29/1923,"['tango', 'vintage tango']"
+4kUtJH6JOdA2FDS6kCt9vK,Chapter 5.4 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.25,1,-18.64,1,0.95,0.7,0,0.24,0.71,132.2,1,2.26,12/27/1923,['unknown']
+4mLzPsmJV5JO6dtkoU7lU5,Chapter 2.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.21,1,-20,1,0.95,0.78,0,0.18,0.61,166.35,5,2.25,12/27/1923,['unknown']
+4nElETgSQcZgXwypg0cjB6,Chapter 5.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.27,1,-19.68,1,0.94,0.81,0,0.36,0.8,133.44,4,2.28,12/27/1923,['unknown']
+4qCTrMjyVYDIGVKSGbuBNF,Il N'Osait Pas Se Decider,0,0,Georgius,0.61,0.46,7,-15.5,1,0.51,0.98,0,0.19,0.71,76.68,4,3.04,1/1/1923,['vintage chanson']
+4rLFLBXNFO0S8oqp8jbh94,Chapter 8.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.28,0,-19.99,1,0.96,0.77,0,0.37,0.68,134.81,3,2.18,12/27/1923,['unknown']
+4rU4TQ59s6Z91flH6bqPKM,Le Roudoudou,0,0,Gaby Montbreuse,0.6,0.23,10,-14.87,0,0.06,1,0,0.13,0.58,78.26,4,3.08,1/1/1923,['unknown']
+4rtmncfRvpBGWCzuH4aReG,Chapter 5.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.76,0.18,2,-19.64,1,0.95,0.83,0,0.19,0.85,62.37,4,2.48,12/27/1923,['unknown']
+4sTmu3dWwFJKfy9H8Hes8D,Chapter 11.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.18,2,-20.33,1,0.96,0.79,0,0.21,0.62,82.47,4,3.71,12/27/1923,['unknown']
+4t3ELbbYMwp3oUlg3eBOON,Chapter 11.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.22,1,-19.13,1,0.95,0.78,0,0.17,0.71,168.94,4,2.98,12/27/1923,['unknown']
+4vF3FnNAR8cQFVJNU56EiH,Chapter 5.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.26,1,-18.37,1,0.94,0.73,0,0.39,0.78,130.27,1,2.37,12/27/1923,['unknown']
+4wA8Lc7bDNdLfLcfXSrORN,Chapter 5.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.23,1,-21.14,1,0.93,0.74,0,0.24,0.6,115.07,3,2.34,12/27/1923,['unknown']
+4xHyPfnrvKvatqt2oj3b4V,I Don'T Know Enough About You,0,0,Harry Curtis,0.7,0.37,0,-10.67,1,0.09,0.84,0,0.13,0.66,156.09,4,2.07,1/1/1923,['unknown']
+4xoxTpgNnolA6lk5yIVtmB,Nerón - Remasterizado,0,0,Francisco Canaro,0.33,0.29,1,-16.27,1,0.06,1,0.86,0.4,0.59,186.57,4,3,7/9/1923,"['tango', 'vintage tango']"
+4yjw9WOa1YJEcJhY1zaFUY,Chapter 7.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.25,1,-19.86,1,0.96,0.78,0,0.19,0.67,175.44,5,2.12,12/27/1923,['unknown']
+4zx7EhLMb4sFXLaiUsycTM,Chapter 7.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.21,1,-18.61,1,0.95,0.82,0,0.28,0.71,86.9,4,2.14,12/27/1923,['unknown']
+50x81sb0gBee8tf30mm8C9,Pelele - Remasterizado,0,0,Ignacio Corsini,0.39,0.33,1,-20.11,1,0.12,0.99,0.76,0.14,0.78,63.23,4,2.75,3/29/1923,"['tango', 'vintage tango']"
+51aC0HxEnEvhiuCRRXwipW,Si Vous N'Aimez Pas Ca,0,0,Maurice Chevalier,0.56,0.25,7,-16.23,1,0.29,0.99,0,0.2,0.81,76.22,1,2.43,1/1/1923,"['cabaret', 'vintage hollywood']"
+52LOYFwwceYeK0A0XCA8CG,C'Est Paris,0,0,Maurice Chevalier,0.5,0.3,2,-16.77,1,0.08,0.97,0,0.16,0.8,84.28,3,3.36,1/1/1923,"['cabaret', 'vintage hollywood']"
+52rqxBsKzlyuWPkZDTryPJ,Ekipa Je Na Nogama,0,0,Fanchants: Navijači Radnički 1923,0.41,0.95,11,-4.78,1,0.28,0.9,0,0.82,0.27,129.66,4,1.97,1/1/1923,['unknown']
+53RV0sULomDyKTBNttT8rP,Dejeme Que La Acompañe - Remasterizado,0,0,Francisco Canaro,0.43,0.38,3,-8.13,0,0.04,0.99,0,0.24,0.32,129.19,4,2.94,7/9/1923,"['tango', 'vintage tango']"
+545izoN6zrJPVbxnuWWv6e,Pelele - Remasterizado,0,0,Francisco Canaro,0.57,0.31,11,-16.08,0,0.09,1,0.95,0.25,0.76,129.16,4,2.84,7/9/1923,"['tango', 'vintage tango']"
+55ihYpQJAmCxrStWCqbyLz,Y'A Des Loups,0,0,René De Buxeuil,0.51,0.27,0,-17.49,1,0.09,1,0,0.16,0.82,133.22,4,2.42,1/1/1923,['unknown']
+56IGw8Ueo99uF8EL68tbS3,Chapter 8.4 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.2,1,-21.06,1,0.94,0.86,0,0.36,0.72,121.79,3,2.14,12/27/1923,['unknown']
+56nYVNAo1pyeR5lNyQDkaw,Linda,0,0,Harry Curtis,0.72,0.39,2,-10.62,1,0.07,0.77,0,0.37,0.68,107.88,4,1.92,1/1/1923,['unknown']
+57XHoje92Ipyz4Df0GOUOL,Chapter 1.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.23,1,-19.88,1,0.93,0.76,0,0.17,0.78,106.01,3,2.3,12/27/1923,['unknown']
+57qP04a0XuxVWEr6R3zGLs,Chapter 5.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.21,9,-17.73,1,0.96,0.84,0,0.18,0.71,62.36,5,2.35,12/27/1923,['unknown']
+585egxlMwuhCuYmjTxNYfR,Chapter 7.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.22,1,-19.87,1,0.94,0.85,0,0.15,0.77,106.26,3,2.35,12/27/1923,['unknown']
+58LT9CAhtNHqn9TkMzkAW7,Chapter 4.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.21,1,-20.49,1,0.93,0.73,0,0.18,0.64,113.6,3,2.42,12/27/1923,['unknown']
+59Cp5ks88w0Mm4ebcFQ4NV,Chapter 4.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.22,1,-22.38,1,0.95,0.77,0,0.17,0.5,111.3,5,2.25,12/27/1923,['unknown']
+59wHAfTZzQLjlRuki5fQbA,Cariño Eterno Irene - Remasterizado,0,0,Ignacio Corsini,0.34,0.31,2,-19.69,1,0.05,0.99,0.98,0.74,0.71,115.48,4,3.13,3/29/1923,"['tango', 'vintage tango']"
+5ARrSlvdYkDxSUbCVHuAsP,Chapter 2.10 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.26,1,-19,1,0.96,0.68,0,0.14,0.57,82.64,4,2.61,12/27/1923,['unknown']
+5EQKyJqPvZqunKpZkjCi6d,Chapter 9.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.77,0.31,1,-18.26,1,0.93,0.84,0,0.14,0.73,102.02,4,2.34,12/27/1923,['unknown']
+5FSSXff1OWSrJjAwqavSoh,Chapter 8.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.25,1,-20.37,1,0.96,0.9,0,0.2,0.65,73.55,4,2.18,12/27/1923,['unknown']
+5FXvCPWRsAVUHWpUHbWfFf,Chapter 7.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.2,9,-20.82,1,0.95,0.79,0,0.25,0.73,84.81,4,2.18,12/27/1923,['unknown']
+5G5CFwLItSxfy3lsiaL6D7,La Java - Remasterizado,0,0,Francisco Canaro,0.51,0.29,4,-14.6,1,0.04,0.99,0.94,0.25,0.89,150.63,3,2.33,7/9/1923,"['tango', 'vintage tango']"
+5GUQeC4Yp5G89gxfRPJB4G,Long Live Love Life,0,0,Hykoski Studios,0.78,0.12,1,-23.03,1,0.05,0,0.8,0.1,0.34,100,4,2.28,3/25/1923,['unknown']
+5GiC69m3f4K9XGoeRPoFK3,Chapter 10.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.16,1,-21.69,1,0.94,0.64,0,0.17,0.7,104.2,3,2.12,12/27/1923,['unknown']
+5HSWjTyZNButfHqGMsaZye,Chapter 9.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.26,5,-18.9,0,0.96,0.82,0,0.16,0.82,55.53,3,2.27,12/27/1923,['unknown']
+5JQudS8AGT2Nos1QVEUBoI,Chapter 7.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.24,1,-19.36,1,0.95,0.9,0,0.18,0.71,84.52,4,2.15,12/27/1923,['unknown']
+5Jof1sZmbxyECx38kRJYI2,Chapter 5.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.22,1,-19.86,1,0.96,0.8,0,0.12,0.63,80.07,4,2.42,12/27/1923,['unknown']
+5LSEcWBT8CwGsujnG57X2S,Chapter 3.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.26,1,-19.83,1,0.96,0.7,0,0.24,0.57,146.28,3,2.25,12/27/1923,['unknown']
+5MWVUgBnOSkpp801NSb5Sd,Chapter 3.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.23,1,-20.02,1,0.95,0.84,0,0.15,0.72,78.43,1,2.1,12/27/1923,['unknown']
+5Mj9bYtQgUX6YB1x17eGQB,Chapter 8.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.27,9,-19.55,1,0.96,0.83,0,0.14,0.71,84.9,4,2.15,12/27/1923,['unknown']
+5NVr3qEKa1YJiFs4W04JbF,Ose Anna,0,0,Maurice Chevalier,0.55,0.33,7,-15.12,1,0.05,0.97,0,0.21,0.82,89.67,4,3.24,1/1/1923,"['cabaret', 'vintage hollywood']"
+5NuyKPWpXTY8qMTYBOKuwT,Chapter 10.11 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.2,1,-20.63,1,0.93,0.74,0,0.15,0.65,116.75,4,2.26,12/27/1923,['unknown']
+5ODJUdGEDhh5B0XbXfhDlv,Chapter 7.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.22,1,-20.39,1,0.96,0.83,0,0.27,0.78,71.4,5,2.12,12/27/1923,['unknown']
+5ObPOgSciMFLwNzbAmIC8b,Chapter 5.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.22,5,-21.58,0,0.93,0.75,0,0.13,0.7,88.79,3,2.12,12/27/1923,['unknown']
+5PEyCVLsizeRZgF2yErXD7,Chapter 6.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.26,2,-19.93,1,0.94,0.83,0,0.14,0.79,103.42,3,2.25,12/27/1923,['unknown']
+5POkcJ3NYHw9CAoegeLocV,Chapter 7.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.19,5,-20.64,0,0.95,0.75,0,0.23,0.7,76.89,4,2.15,12/27/1923,['unknown']
+5TF8gOanELCdw3j39yD65U,Chapter 7.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.22,1,-19.58,0,0.96,0.89,0,0.2,0.71,57.71,4,2.12,12/27/1923,['unknown']
+5To3LZIEi3F2Uto6huARlu,Juan De Los Santos Arena - Remasterizado,0,0,Ignacio Corsini,0.34,0.24,6,-19.97,0,0.05,0.99,0.93,0.17,0.36,62.79,4,2.33,3/29/1923,"['tango', 'vintage tango']"
+5V1jILhJEpC5afQkk5i9en,Chapter 1.19 & Chapter 2.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.23,3,-19.74,0,0.94,0.72,0,0.14,0.6,93.06,4,2.33,12/27/1923,['unknown']
+5WOyBvmzUh0LxG3SaOVM6I,Chapter 1.5 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.14,1,-21.7,1,0.94,0.54,0,0.29,0.59,143.38,4,2.13,12/27/1923,['unknown']
+5Y8AU7ECSSnNo0p04IgBDM,Chapter 4.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.66,0.2,1,-20.95,1,0.96,0.84,0,0.14,0.65,148.8,3,2.19,12/27/1923,['unknown']
+5YT8QBAbpJmZ7KzSli17zu,Chapter 1.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.2,9,-21.18,1,0.96,0.59,0,0.33,0.6,80.02,4,2.1,12/27/1923,['unknown']
+5aevhwRAespZx1Zq3h3sLa,Chapter 6.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.23,6,-17.62,0,0.94,0.84,0,0.14,0.82,127.09,1,2.58,12/27/1923,['unknown']
+5bJVGnzdhvrAbYAEDmHtdG,Chapter 6.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.28,1,-19.39,1,0.93,0.8,0,0.2,0.73,107.43,3,2.36,12/27/1923,['unknown']
+5dlOpG3YOhOVy3XruwMxYu,Chapter 7.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.2,1,-21.34,1,0.95,0.78,0,0.37,0.67,80.1,4,2.39,12/27/1923,['unknown']
+5eDIYdypGIA5QwhOpldU18,Chapter 5.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.2,9,-19.1,1,0.95,0.76,0,0.2,0.73,96.58,3,2.5,12/27/1923,['unknown']
+5ewZ0TZgNQIoPYticMThAT,Chapter 5.11 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.26,1,-18.78,1,0.93,0.82,0,0.16,0.74,118.24,4,2.24,12/27/1923,['unknown']
+5f5zQytojoUSXcJKSJ4hJO,Put 'Em Down Blues,4,0,Louis Armstrong & His Hot Seven,0.67,0.28,7,-14.15,1,0.09,0.98,0.4,0.11,0.84,101.73,4,3.21,1/1/1923,['unknown']
+5gj0UeHG0fIwRbhWrqYWmm,Chapter 3.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.24,1,-18.55,1,0.9,0.78,0,0.12,0.85,118.22,3,2.1,12/27/1923,['unknown']
+5ibit3V15UeNAxP37fZ5Mz,Chapter 6.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.27,1,-20.34,0,0.95,0.69,0,0.18,0.62,95.31,3,2.22,12/27/1923,['unknown']
+5jQd0Gi1DN8dkjro6Pb7FY,Chapter 4.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.22,1,-20.81,1,0.96,0.77,0,0.22,0.68,78.89,3,2.12,12/27/1923,['unknown']
+5kY4Yotw4QhL4OCGoJ41NA,Los Ojazos De Mi Suegra - Remasterizado,0,0,Francisco Canaro,0.43,0.24,4,-13.49,1,0.07,1,0.88,0.15,0.28,117.05,3,2.08,7/9/1923,"['tango', 'vintage tango']"
+5lTc6Zqkst3MnX4A3sjmSe,Chapter 1.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.33,0,-19.04,1,0.92,0.8,0,0.14,0.79,119.52,4,2.12,12/27/1923,['unknown']
+5mrSUdU8K0MbA1HKfzbPCq,Chapter 9.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.22,1,-18.69,1,0.94,0.81,0,0.12,0.63,125.93,3,2.17,12/27/1923,['unknown']
+5n5KkfpL1H3XrjAjnbaYCd,Chapter 11.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.75,0.26,1,-18.38,1,0.96,0.84,0,0.32,0.72,70.4,4,2.1,12/27/1923,['unknown']
+5nrgo1baweZCJCSa0gx30D,La Ratonera - Remasterizado,0,0,Francisco Canaro,0.6,0.33,7,-14.88,1,0.07,0.99,0.96,0.15,0.56,125.57,4,2.88,7/9/1923,"['tango', 'vintage tango']"
+5pxqId84mSMEZwleYPDa8f,Chapter 6.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.24,1,-19.34,1,0.94,0.82,0,0.25,0.78,99.76,5,2.13,12/27/1923,['unknown']
+5q6ELaRf0fqEoJdFqSRAIg,Chapter 1.5 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.26,5,-19.09,0,0.94,0.73,0,0.23,0.68,88.86,3,2.2,12/27/1923,['unknown']
+5rjZ5NtvS0rSaRPSrz2T7A,Chapter 3.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.2,1,-19.8,1,0.96,0.69,0,0.28,0.69,77.19,4,2.13,12/27/1923,['unknown']
+5tsl8pxsL6HtRRSciBaG4o,Guitar Rag - Remastered,0,0,Sylvester Weaver,0.46,0.4,2,-12.48,1,0.03,0.84,0.67,0.19,0.54,109.63,4,3,1/12/1923,['traditional blues']
+5uemj2pIr3sgWxdu3YBzrR,Chapter 5.21 & Chapter 6.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.26,1,-20.81,1,0.96,0.72,0,0.2,0.69,87.21,4,2.55,12/27/1923,['unknown']
+5vTl1hncnrRsILG2DqMjSf,Chapter 4.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.16,2,-19.4,1,0.96,0.74,0,0.21,0.69,168.1,3,2.17,12/27/1923,['unknown']
+5wBkFVpjJiuRi8ZomCngAU,Beis Ep,0,0,Macarti,0.79,0.9,6,-9.38,1,0.07,0,0.84,0.04,0.77,125.03,4,6.91,2/6/1923,['unknown']
+5yWbsF2psTKCn54ted4uPY,Chapter 10.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.2,1,-20.29,1,0.94,0.79,0,0.24,0.74,39.92,4,2.4,12/27/1923,['unknown']
+5yv8q7fh8zUVrTFgGpdrod,Chapter 3.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.27,1,-16.45,1,0.96,0.87,0,0.18,0.5,75.76,4,2.41,12/27/1923,['unknown']
+62RVE2Glb8bra6zNGwhoMS,Chapter 6.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.23,1,-20.25,1,0.95,0.81,0,0.09,0.69,82.45,3,2.24,12/27/1923,['unknown']
+65tEcWToD6FYZam3nWji0Z,Chapter 8.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.15,1,-20.64,1,0.96,0.87,0,0.3,0.72,154.3,3,2.28,12/27/1923,['unknown']
+69UqO3iuvdLgnRnWvxzhVt,Chapter 8.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.18,1,-21.11,1,0.93,0.84,0,0.14,0.79,136.22,3,2.1,12/27/1923,['unknown']
+69XLg8oSMgAc6cizWgGKzn,Chapter 11.7 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.22,1,-18.09,1,0.96,0.89,0,0.16,0.73,63,4,2.53,12/27/1923,['unknown']
+69onDVt7PCctRLJoBHpE8K,Chapter 3.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.2,1,-18.72,0,0.91,0.86,0,0.15,0.71,79.06,4,2.25,12/27/1923,['unknown']
+6B23Olc7unlf1u4g7fKcC9,Rien Qu'Une Nuit,0,0,Emma Liebel,0.22,0.3,3,-14.6,1,0.05,0.99,0,0.16,0.47,77.51,3,2.9,1/1/1923,['vintage chanson']
+6Bao6PuGtRKlSQke4eYvKD,Chapter 9.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.2,1,-20.11,1,0.94,0.74,0,0.2,0.71,132.67,3,2.22,12/27/1923,['unknown']
+6CzjdQFCMvAUSjJJiXjKB6,Chapter 5.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.18,1,-20.85,1,0.96,0.69,0,0.19,0.66,72.39,4,2.1,12/27/1923,['unknown']
+6DIS3aMViX5Fa3TpSn5VZa,Sombras - Remasterizado,0,0,Ignacio Corsini,0.46,0.13,2,-24.29,1,0.08,1,0.97,0.44,0.73,85.15,3,2.3,3/29/1923,"['tango', 'vintage tango']"
+6DT6nvj99xYdNwh4zc2qVM,Glow Worm,0,0,Harry Curtis,0.74,0.51,7,-8.37,1,0.05,0.76,0,0.36,0.84,146.04,4,2.17,1/1/1923,['unknown']
+6FY2h8LhZnDLz2qLiDu0kw,Aime Moi Emma,0,0,Dranem,0.57,0.28,5,-15.74,1,0.06,0.96,0,0.32,0.8,76.63,4,2.44,1/1/1923,['vintage chanson']
+6Gevw7gzy3smhlriQzlCVG,Couplets De La Haut,0,0,Maurice Chevalier,0.48,0.22,1,-17.99,0,0.16,1,0,0.47,0.74,88.54,4,1.92,1/1/1923,"['cabaret', 'vintage hollywood']"
+6HoPH5h3TciXJ81NMl8iLa,Chapter 4.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.73,0.22,1,-19.1,1,0.95,0.8,0,0.29,0.76,89.93,4,2.17,12/27/1923,['unknown']
+6I5AhUEoLQuB6odxCHkOkF,Chapter 6.13 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.27,6,-18.83,0,0.96,0.75,0,0.22,0.68,172.09,3,2.17,12/27/1923,['unknown']
+6K4oMrPmbMB9chN0ciIId1,Chapter 10.20 & Chapter 11.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.23,1,-18.8,1,0.95,0.82,0,0.3,0.75,88.52,4,2.86,12/27/1923,['unknown']
+6Kw6lAZTiaEXeGAt9tWRPW,Chapter 1.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.22,9,-20.17,1,0.94,0.74,0,0.28,0.77,106.89,5,2.17,12/27/1923,['unknown']
+6LAMHr6Zzx6q8h0BtL2toL,Camel - Remasterizado,0,0,Francisco Canaro,0.32,0.46,1,-15.82,1,0.05,0.97,0.93,0.11,0.54,186.77,4,3.1,7/9/1923,"['tango', 'vintage tango']"
+6MCBm0UEgZvHFhFphpHkE6,Chapter 4.6 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.24,1,-19.8,1,0.96,0.74,0,0.27,0.61,77.22,4,2.11,12/27/1923,['unknown']
+6MYjAgM6IoAg0wy1DdQ4ps,Chapter 4.6 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.22,1,-19.18,1,0.95,0.68,0,0.38,0.72,61.76,4,2.3,12/27/1923,['unknown']
+6NeOadIfI7E2hQUjOoXaWg,Chapter 4.18 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.23,1,-18.9,1,0.95,0.67,0,0.32,0.65,132.25,4,2.31,12/27/1923,['unknown']
+6NihRltpEeIeDoHamPnExz,Chapter 1.3 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.25,1,-19.87,1,0.95,0.74,0,0.2,0.78,75.42,3,2.22,12/27/1923,['unknown']
+6OG1iI787pEJQyg3yYb4Nh,Chapter 7.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.64,0.23,1,-18.63,1,0.96,0.88,0,0.31,0.74,83.05,3,2.99,12/27/1923,['unknown']
+6RBEtb7KtGs9RfCPzd2xAs,Chapter 3.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.25,1,-19.05,1,0.93,0.7,0,0.14,0.68,116.45,1,2.11,12/27/1923,['unknown']
+6UPr5yoTldqFcXRYknpKfX,Chapter 3.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.26,4,-20.06,1,0.96,0.67,0,0.19,0.51,70.54,3,2.11,12/27/1923,['unknown']
+6VWSJhuxjaIQdsE37xXfDj,Great Is Thy Faithfulness,0,0,4509 Starpass Prodcutions,0.63,0.09,0,-18.88,1,0.04,0.78,0,0.1,0.15,130.49,3,4.28,1/1/1923,['unknown']
+6VxqaPXBuA7vXG0qMziTad,Chapter 9.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.25,1,-19.76,1,0.96,0.74,0,0.13,0.72,75.91,5,2.26,12/27/1923,['unknown']
+6WIA6NcF3TsJq8IPkI9xV9,Chapter 3.14 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.26,1,-19.26,1,0.94,0.81,0,0.32,0.81,115.35,3,2.09,12/27/1923,['unknown']
+6Yp5scn9D2lexZvP24tyDU,Chapter 6.20 & Chapter 7.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.7,0.24,1,-20.47,1,0.95,0.76,0,0.13,0.75,74.01,3,2.26,12/27/1923,['unknown']
+6ZXSspKemSC7pFPUMY1ISM,Chapter 4.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.26,5,-18.87,0,0.96,0.8,0,0.23,0.77,165.84,3,2.17,12/27/1923,['unknown']
+6Zb1Kuy8qNyO80zLtNEed4,Chapter 8.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.25,2,-19.57,1,0.95,0.78,0,0.24,0.64,121.29,3,2.12,12/27/1923,['unknown']
+6kjRhcIwyUqN85uAUyh9BD,Chapter 8.2 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.62,0.26,1,-19.5,1,0.96,0.71,0,0.27,0.64,59.88,4,2.1,12/27/1923,['unknown']
+6nL3RDerJ8lSOX1anIzpdz,Quand On Aime On A Toujours Vingt Ans,0,0,Perchicot,0.37,0.38,5,-15.8,1,0.19,0.99,0,0.24,0.52,169.84,4,3.31,1/1/1923,['vintage chanson']
+6o5y0hipvVykWEnDctyZg4,Chapter 6.7 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.19,1,-18.54,1,0.96,0.84,0,0.15,0.67,88.48,3,2.19,12/27/1923,['unknown']
+6oL2spgcRWdPkRykuVDthA,Chapter 3.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.61,0.23,1,-18.47,1,0.95,0.76,0,0.32,0.71,68.56,3,3.11,12/27/1923,['unknown']
+6pdd743TYupurfTLfHtgV4,Chapter 3.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.19,1,-21.82,1,0.95,0.63,0,0.28,0.67,79.52,3,2.2,12/27/1923,['unknown']
+6t0Kr4uYHuMjYVLd18IJF9,Chapter 5.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.22,1,-19.62,1,0.95,0.83,0,0.24,0.79,86.47,4,2.41,12/27/1923,['unknown']
+6ulOrh280bUlXdpiF63qvO,Chapter 6.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.25,4,-19.23,1,0.95,0.8,0,0.21,0.7,82.76,4,2.48,12/27/1923,['unknown']
+6v2zd8LW14RS4s6pFUIhej,Chapter 10.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.76,0.26,1,-18.41,1,0.96,0.83,0,0.09,0.76,70.54,3,2.11,12/27/1923,['unknown']
+6w0r8a2zNpBAY99eWMi7uX,Chapter 1.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.23,1,-19.7,1,0.92,0.75,0,0.17,0.75,114.99,3,2.11,12/27/1923,['unknown']
+6wCuW0fJGmSaMr6EyImFNK,Chapter 6.19 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.73,0.24,1,-19.74,1,0.95,0.72,0,0.24,0.76,90.25,4,2.2,12/27/1923,['unknown']
+6wgJnau215hVv6zrtPkBuz,Bye Bye Blackbird,0,0,Harry Curtis,0.67,0.41,8,-9.51,1,0.03,0.75,0,0.07,0.76,132.02,4,2.25,1/1/1923,['unknown']
+6xH1zNct58pGQk2ozFTJCU,Chapter 4.14 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.68,0.24,1,-19.86,1,0.96,0.7,0,0.36,0.68,88.77,5,2.12,12/27/1923,['unknown']
+6yqYqwtzaMNOHDiNScVuwc,Paper Doll,0,0,Harry Curtis,0.49,0.39,0,-11.05,1,0.03,0.87,0,0.06,0.55,140.08,4,3,1/1/1923,['unknown']
+70sz0D6vP7vj14OJMDUSSS,Chapter 11.12 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.24,1,-18.05,1,0.96,0.86,0,0.18,0.6,85.02,4,2.15,12/27/1923,['unknown']
+71tnorDlCFZ4g2c1VEaQkR,C'Est Jeune Et Ca N'Sait Pas,0,0,Fortugé,0.69,0.17,5,-14.73,1,0.08,0.99,0,0.86,0.76,114.2,4,3.13,1/1/1923,['vintage chanson']
+72XPm8NSV82dwEKSVrNlNV,Chapter 2.16 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.27,1,-17.96,1,0.96,0.82,0,0.17,0.67,81.48,5,2.09,12/27/1923,['unknown']
+737niheJY2w0YbatmdoSJP,Chapter 7.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.64,0.19,1,-20.18,1,0.95,0.7,0,0.14,0.65,87.72,3,2.12,12/27/1923,['unknown']
+75GtTaF2m15uFGxXMlWGTl,Chapter 10.13 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.25,5,-19.07,0,0.95,0.83,0,0.39,0.64,104.24,3,2.18,12/27/1923,['unknown']
+76g3Yts8BAa54HPknfrLuA,Chapter 9.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.7,0.26,8,-18.15,1,0.94,0.76,0,0.22,0.67,132.49,3,2.09,12/27/1923,['unknown']
+76vb2XXLolWwutRVzI40Ax,Chapter 4.17 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.18,1,-19.72,1,0.95,0.71,0,0.14,0.74,103.58,3,2.09,12/27/1923,['unknown']
+79ny9iDGhTSXkIY6q42vJh,Chapter 1.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.24,1,-20.45,0,0.95,0.72,0,0.13,0.78,85.53,5,2.17,12/27/1923,['unknown']
+7AskrBGwLzODaHysm3jwmv,Chapter 1.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.69,0.27,9,-18.98,1,0.94,0.83,0,0.19,0.81,101.03,3,2.33,12/27/1923,['unknown']
+7AuhDqFJ62f9gVJgW1xIo3,Chapter 11.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.22,6,-20.34,0,0.94,0.9,0,0.37,0.75,149.28,3,2.09,12/27/1923,['unknown']
+7CCglawmKFCmKpZgAcbCNb,Chapter 4.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.74,0.22,1,-18.94,1,0.96,0.74,0,0.2,0.8,84.26,1,2.28,12/27/1923,['unknown']
+7EHMzZoXm8bimpzQ0iLMLg,Chapter 6.19 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.24,7,-19.54,0,0.95,0.84,0,0.14,0.77,131.13,4,2.14,12/27/1923,['unknown']
+7EvnfhaPaXURHPoLaFZyRE,Ave María - Remasterizado,0,0,Francisco Canaro,0.68,0.26,10,-14.36,1,0.07,1,0.98,0.15,0.81,120.39,4,2.95,7/9/1923,"['tango', 'vintage tango']"
+7Hto89Th3bfsBMaBV70PWW,La Cabeza Del Italiano - Remasterizado,0,0,Ignacio Corsini,0.34,0.1,11,-27.47,0,0.09,1,0.77,0.16,0.66,147.18,5,2.14,3/29/1923,"['tango', 'vintage tango']"
+7IP5SZ3br2KrmaU4zVvUGk,Veni Pebeta - Remasterizado,0,0,Ignacio Corsini,0.4,0.25,6,-21.15,1,0.06,0.99,0.89,0.16,0.67,63.82,4,2.41,3/29/1923,"['tango', 'vintage tango']"
+7KKkBvcOPY8HAZ5y4Lfayz,Chapter 3.17 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.28,5,-17.78,0,0.94,0.91,0,0.18,0.68,94.21,3,2.17,12/27/1923,['unknown']
+7KPy4GUpFkl03bB6NpVd28,Guitar Blues - Remastered,0,0,Sylvester Weaver,0.35,0.4,4,-19.63,1,0.15,0.98,0,0.45,0.25,79.51,3,3.07,1/12/1923,['traditional blues']
+7LY41VFkSBbpl1AIlJfkIn,Chapter 3.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.69,0.24,5,-18.69,0,0.95,0.91,0,0.11,0.66,79.2,3,2.14,12/27/1923,['unknown']
+7bSx4S4WbqfeCAE4VuRZgE,Chapter 5.18 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.68,0.26,9,-20.81,0,0.96,0.6,0,0.34,0.5,66.01,4,2.12,12/27/1923,['unknown']
+7cXBqrsP9vw9n31zBR3HFg,Sacate La Caretita - Remasterizado,0,0,Francisco Canaro,0.59,0.23,6,-15.42,0,0.06,0.99,0.93,0.15,0.59,117.92,4,3.05,7/9/1923,"['tango', 'vintage tango']"
+7dkz2VUbSc7Q884erTp7pG,You Can'T Fool A Broken Heart,0,0,Harry Curtis,0.72,0.32,2,-13.77,0,0.03,0.82,0,0.1,0.49,109.01,4,2.23,1/1/1923,['unknown']
+7eKV3eq2hqgAkYaWF3voms,Big Butter And Egg Man,4,0,Louis Armstrong & His Hot Five,0.7,0.27,7,-11.62,1,0.09,1,0.37,0.11,0.9,102.38,4,2.95,1/1/1923,['new orleans jazz']
+7hAm2bJxF4G9kfivoRbmLv,Chapter 10.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.19,1,-19.77,1,0.96,0.81,0,0.09,0.72,74.23,3,2.35,12/27/1923,['unknown']
+7iCq47aJ87UIrM3GkDk1Vn,Chapter 5.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.22,2,-19.73,1,0.95,0.77,0,0.23,0.85,79.76,4,2.12,12/27/1923,['unknown']
+7jCaDBfNx92KACxOBX7Xzd,Chapter 10.8 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.67,0.2,1,-20.91,1,0.93,0.83,0,0.19,0.81,97.24,5,2.31,12/27/1923,['unknown']
+7jEdeQCqzLjeef9TTrVhuC,Chapter 7.9 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.72,0.22,9,-19.71,1,0.94,0.82,0,0.17,0.63,111.87,3,2.26,12/27/1923,['unknown']
+7jhpcDHC4JpGOjePJuNCVZ,Chapter 8.15 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.63,0.2,5,-20.72,0,0.95,0.58,0,0.17,0.56,81.25,4,2.29,12/27/1923,['unknown']
+7l72R03INDI8jqLPLW2JPT,Chapter 2.20 & Chapter 3.1 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.25,0,-19.36,1,0.93,0.82,0,0.12,0.58,129.73,4,2.17,12/27/1923,['unknown']
+7lRBxGjcB2DEaRklTAZrWt,Chapter 6.9 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.27,5,-19.79,0,0.92,0.84,0,0.26,0.88,114.59,3,2.35,12/27/1923,['unknown']
+7li6UhaaGIR6qcrZKdj1V6,"The Four Seasons: 'Winter' In F Minor, Rv 297: Allegro Non Molto - Choral Version",0,0,"Qatar Concert Choir, Giovanni Pasini",0.42,0.11,5,-18.41,0,0.05,0.99,0.96,0.07,0.07,127.64,4,3.85,1/1/1923,['unknown']
+7mS4u6c5s45NzQnUNX6Pxd,Chapter 10.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.76,0.24,5,-18.73,0,0.92,0.81,0,0.14,0.77,97.3,3,2.4,12/27/1923,['unknown']
+7mZGwdC77WECES7KoNUsVU,Chapter 3.16 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.26,5,-19.22,0,0.95,0.88,0,0.13,0.81,72.66,3,2.36,12/27/1923,['unknown']
+7nN6DLs2bxXaPGRtAmJby1,Chapter 7.15 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.65,0.2,8,-18.68,1,0.96,0.88,0,0.22,0.64,57.52,4,2.75,12/27/1923,['unknown']
+7p6ops8Qyvi8zTzXI5VHRd,Chapter 2.12 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.71,0.27,1,-18.17,1,0.95,0.87,0,0.13,0.56,126.55,3,2.36,12/27/1923,['unknown']
+7sPtLYivqJulqOPROhfJBc,Chapter 9.10 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.71,0.28,8,-19.51,1,0.94,0.8,0,0.2,0.82,127.21,5,2.36,12/27/1923,['unknown']
+7u1x38RO3xbu3VfVjhf5zS,Chapter 1.3 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.67,0.34,1,-16.85,1,0.96,0.87,0,0.29,0.77,70.27,4,2.69,12/27/1923,['unknown']
+7uLMgGFcaP2GFyyXzcgSXj,Ma Chanson,0,0,"Eugénie Buffet, René De Buxeuil",0.52,0.22,0,-15.76,1,0.11,0.96,0,0.31,0.66,85.38,3,3.11,1/1/1923,['unknown']
+7uPkM11OznU10CTz9FoBXB,Chapter 8.2 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.72,0.16,1,-20.28,1,0.95,0.87,0,0.15,0.76,80.46,3,2.22,12/27/1923,['unknown']
+7xHvQztpZzhaR9JRaeXDhM,Si Tu Vois Ma Tante,0,0,Dréan,0.65,0.34,1,-11.06,1,0.07,1,0,0.2,0.83,122.16,4,2.83,1/1/1923,['unknown']
+7xWehSCes7wq3c1OJDFvO0,Chapter 1.1 - Król Maciuś Pierwszy,0,0,Janusz Korczak,0.63,0.25,8,-19.49,1,0.96,0.59,0,0.38,0.59,165.51,3,2.29,12/27/1923,['unknown']
+7yTcMVFLAzx78FslKS1yp6,Chapter 5.8 - Król Maciuś Na Wyspie Bezludnej,0,0,Janusz Korczak,0.74,0.21,1,-20.49,1,0.96,0.74,0,0.33,0.68,74.85,4,2.43,12/27/1923,['unknown']
+00ZoQFjisje8cmTJKpO3uQ,Tristeza Criolla - Remasterizado,0,0,Ignacio Corsini,0.29,0.15,5,-22.09,1,0.06,1,0.02,0.19,0.56,177.14,4,2.6,3/29/1924,"['tango', 'vintage tango']"
+00dYkxYZB1sChcRL6aUK85,A Lo Lejos - Remasterizado,0,0,Ignacio Corsini,0.44,0.16,6,-20.98,0,0.07,0.99,0.86,0.11,0.75,168.6,4,2.21,3/29/1924,"['tango', 'vintage tango']"
+00jK3BvNcO3lf2TdxHwo9d,Fantasio - Remasterizado,0,0,Francisco Canaro,0.59,0.25,2,-16.08,1,0.06,1,0.95,0.26,0.35,116.6,4,2.84,7/11/1924,"['tango', 'vintage tango']"
+02WbIQyPoMXCXhWtf0pC04,Chapter 98 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.3,3,-16.28,1,0.94,0.74,0,0.12,0.36,82.87,3,3.05,1/1/1924,['unknown']
+02rbDb4u9OA3pJgS7F4CLx,Chapter 146 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.33,0,-16.71,0,0.92,0.6,0,0.15,0.5,165.51,5,3.04,1/1/1924,['unknown']
+034zwGmp0DhV77IyOZE0Y8,Sundown Blues - Remastered,0,0,Daddy Stovepipe,0.46,0.34,1,-10.97,1,0.06,1,0.02,0.09,0.57,122.48,4,3.17,1/12/1924,"['harmonica blues', 'jug band']"
+03hqTF8lJywYH9RFCEyJMk,Chapter 173 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.75,0.3,2,-16.26,1,0.94,0.8,0,0.13,0.39,84.48,4,3.06,1/1/1924,['unknown']
+06GtF3borSXnkXfCyeUUmX,El Vazquito - Remasterizado,0,0,Francisco Canaro,0.69,0.24,9,-14.02,1,0.1,1,0.98,0.31,0.56,118.77,4,2.95,7/12/1924,"['tango', 'vintage tango']"
+06JcOHxs3UZbdTIGaP4ieA,A Sun-Kist Cottage In California,0,0,George Olsen,0.4,0.28,0,-13.78,1,0.05,1,0.94,0.07,0.8,211.84,4,2.24,1/1/1924,['vintage jazz']
+075JwQ5neeBd0zA5I9rswO,Chapter 32 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.29,0,-16.4,0,0.92,0.72,0,0.1,0.34,116.18,4,3.03,1/1/1924,['unknown']
+07fHw4lnhxK6FYE283Vnia,Chapter 109 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.28,0,-16.69,0,0.92,0.68,0,0.14,0.42,65.51,4,3.03,1/1/1924,['unknown']
+08SpaYq4TuWsuqHoxJg3xM,Ki Ki - Remasterizado,0,0,Francisco Canaro,0.52,0.53,3,-14.63,1,0.38,1,0.94,0.13,0.63,116.66,4,2.96,7/11/1924,"['tango', 'vintage tango']"
+09MlY8XZXec36c8z27raVd,Sentimental Journey,2,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.58,0.13,10,-16.46,1,0.03,0.9,0.04,0.1,0.32,71.59,4,5.92,1/1/1924,['unknown']
+09R9x6S4eb0mPNplZqmO2L,Chapter 122 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,6,-16.31,0,0.92,0.73,0,0.21,0.42,108.66,3,3.05,1/1/1924,['unknown']
+0BWjkLpY5E5DWWbwtsZtEG,La Cabeza Del Italiano - Remasterizado,0,0,Francisco Canaro,0.6,0.18,8,-17.32,0,0.07,1,0.94,0.26,0.4,72.74,4,3.33,7/11/1924,"['tango', 'vintage tango']"
+0BwWRFJdcWmQmhV07mzjS5,Chapter 87 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.73,0.3,7,-16.37,0,0.92,0.66,0,0.13,0.52,114.47,1,3.12,1/1/1924,['unknown']
+0DXeuoAUgY4kkFuC3AvhmE,Pelco Y Trama,0,0,Jailess,0.76,0.65,0,-7.11,1,0.42,0.61,0,0.1,0.28,90.95,4,2.52,8/31/1924,['unknown']
+0GJn6cusRANNfmv25i1hPZ,Una Noche En París - Remasterizado,0,0,Francisco Canaro,0.68,0.3,10,-13.11,0,0.06,1,0.98,0.14,0.62,121.62,4,2.84,7/12/1924,"['tango', 'vintage tango']"
+0GVfm14q2ESYGTf3ukH0Pi,Sobre El Pucho - Remasterizado,0,0,Francisco Canaro,0.6,0.15,2,-18.3,1,0.06,1,0.93,0.17,0.69,124.76,4,2.78,7/11/1924,"['tango', 'vintage tango']"
+0GXSIHwSyddrKNddSMNABj,Olga - Remasterizado,0,0,Ignacio Corsini,0.33,0.28,8,-19.9,1,0.07,0.99,0.96,0.18,0.55,179.54,3,2.25,3/29/1924,"['tango', 'vintage tango']"
+0JisTodwlw4iokUY4zEfMb,Low Gravy,2,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.71,0.31,8,-11.54,1,0.06,0.82,0,0.17,0.54,76.98,4,2.22,1/1/1924,['unknown']
+0LjGXFvJVeXOTB927SqUFU,Chapter 100 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.27,3,-16.66,1,0.95,0.62,0,0.17,0.37,186.23,5,3.04,1/1/1924,['unknown']
+0MwlP57d8XIok4abYry0Px,Chapter 13 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.33,7,-16.81,0,0.88,0.66,0,0.18,0.43,133.34,5,3.04,1/1/1924,['unknown']
+0OJgo5mwk8SirgbF8Ht4lA,Juan De Los Santos Arena - Remasterizado,0,0,Ignacio Corsini,0.41,0.2,4,-23.18,1,0.06,0.98,0.9,0.11,0.15,120.81,4,2.4,3/29/1924,"['tango', 'vintage tango']"
+0P50B0DOwk4Y7k3ERvlq5b,Día De Lluvia - Remasterizado,0,0,Francisco Canaro,0.46,0.24,0,-16.52,1,0.13,1,0.91,0.22,0.69,138.88,4,2.58,7/11/1924,"['tango', 'vintage tango']"
+0PNSPpLZTRhDxcgFTearJF,Chapter 152 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,3,-16.49,1,0.93,0.7,0,0.11,0.4,128.13,5,3.05,1/1/1924,['unknown']
+0Q9nEdagEcScLx17Z7iIsS,Chapter 31 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.32,3,-16.52,1,0.94,0.7,0,0.11,0.36,78.95,4,3.14,1/1/1924,['unknown']
+0V29uZ25OVqdQeB7uOeUv3,La Sulamita - Remasterizado,0,0,Francisco Canaro,0.42,0.65,10,-12.11,0,0.07,1,0.84,0.72,0.71,176.26,4,3.14,7/11/1924,"['tango', 'vintage tango']"
+0VDUGss73J6wCzpvq6czO5,Chapter 74 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.76,0.3,6,-16.04,0,0.95,0.72,0,0.15,0.53,79.17,1,3.05,1/1/1924,['unknown']
+0WO1ABrklp3OkRH1uYhWqr,Chapter 19 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.65,0.28,3,-16.54,1,0.94,0.72,0,0.14,0.46,89.17,5,3.08,1/1/1924,['unknown']
+0XxNSOBdA2uQSwXMthVPfO,Francesita - Remasterizado,0,0,Francisco Canaro,0.37,0.43,0,-13.35,0,0.37,1,0.97,0.19,0.61,83.76,4,2.52,7/11/1924,"['tango', 'vintage tango']"
+0cqYzfCNsc3ESTkEsE45Ns,Les Grains De Beauté,0,0,Adolphe Bérard,0.46,0.28,7,-14.63,0,0.06,0.99,0,0.1,0.83,92.14,3,3.25,1/1/1924,['unknown']
+0dFIPCkgtDTapTIN3PgQON,Black And Tan Fantasy,0,0,Duke Ellington & His Washingtonians,0.43,0.18,6,-16.2,1,0.06,0.98,0.02,0.23,0.39,90.15,4,3.39,1/1/1924,['unknown']
+0fSiph081hxiAPQ95Ra786,I Want To Be Happy,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.69,0.56,8,-11.11,1,0.06,0.67,0,0.04,0.81,121.01,4,2.94,1/1/1924,['unknown']
+0ffe3xtnnDpGxRE3lHIwhD,Jump For Joy,0,0,Hot Lips Page,0.63,0.45,7,-12.34,0,0.07,0.97,0.02,0.12,0.84,125.3,4,3.33,1/1/1924,"['big band', 'jazz blues', 'jazz trumpet', 'stride', 'swing']"
+0g1SxfmgprLJXsBQ40pIYM,Rhapsody In Blue (For Piano 4 Hands),0,0,Dombrova Piano Duo,0.37,0.09,2,-24.96,1,0.06,0.98,0.85,0.08,0.1,71.87,4,17.18,1/1/1924,['unknown']
+0gC09jX2UFyqLRLERGv92S,Chapter 23 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.28,7,-16.64,0,0.94,0.74,0,0.1,0.38,105.77,4,3.09,1/1/1924,['unknown']
+0hTc9930vMObsVWdC8lOo6,Chapter 210 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,0,-16.34,0,0.94,0.66,0,0.1,0.38,132.47,3,3.04,1/1/1924,['unknown']
+0habaFvLjblyuJHUXOP1bu,Sin Consuelo - Remasterizado,0,0,Francisco Canaro,0.51,0.49,6,-16.99,0,0.22,1,0.93,0.19,0.76,74.51,3,2.94,7/12/1924,"['tango', 'vintage tango']"
+0igi49jwstBKYBLHKXlMB1,Barrel House Blues,0,0,Ed Andrews,0.48,0.29,9,-8.67,1,0.03,0.99,0.3,0.11,0.24,122.46,4,2.81,1/12/1924,['pre-war blues']
+0jevjABCJ7yA139ejmBjZY,J'Aime Pas Ca,0,0,Georges Milton,0.72,0.32,0,-16.54,1,0.07,0.98,0,0.17,0.84,90.14,4,2.58,1/1/1924,['vintage chanson']
+0kE9s9R2qBhjAMBeZZkTvG,Chapter 55 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.66,0.3,3,-16.14,1,0.94,0.73,0,0.09,0.44,94.49,3,3.04,1/1/1924,['unknown']
+0ldBKPrhPqoqJcfwpQ4X0x,Wild Women Don'T Have The Blues,0,0,Sara Gee & Ramblin Matt,0.59,0.14,7,-15.06,1,0.06,0.77,0,0.12,0.3,81.22,4,4.72,1/1/1924,['unknown']
+0mvVIlqmAJnk4S1zWz8Pye,(What Did I Do To Be So) Black And Blue,1,0,Louis Armstrong,0.66,0.18,11,-12.54,1,0.06,0.99,0.03,0.27,0.48,99.31,4,3.12,1/1/1924,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']"
+0n7x2GCT6dJFlF5itpNEcv,Chapter 134 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.33,0,-16.35,0,0.95,0.76,0,0.11,0.41,174.08,5,3.05,1/1/1924,['unknown']
+0oBftCwkss2MDilOow56oy,Oh París - Remasterizado,0,0,Francisco Canaro,0.59,0.32,2,-14.44,1,0.07,1,0.97,0.23,0.89,172.76,4,2.71,7/12/1924,"['tango', 'vintage tango']"
+0oQcloeogHlxp6cXu2ZYcJ,Chapter 22 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.31,3,-16.55,1,0.95,0.73,0,0.2,0.34,74.51,3,3.03,1/1/1924,['unknown']
+0odJX7Vaz6vyRdF7foaS19,El Flechazo - Remasterizado,0,0,Francisco Canaro,0.63,0.44,5,-13.91,1,0.25,1,0.96,0.27,0.59,127.55,4,2.74,7/11/1924,"['tango', 'vintage tango']"
+0quxXH6y1QyeYbjjVOMUFl,Chapter 208 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.29,0,-16.34,0,0.94,0.7,0,0.12,0.36,101.48,4,3.02,1/1/1924,['unknown']
+0rqi7VoGG3xg2Y6HWSCN5s,Chapter 84 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,7,-16.04,0,0.94,0.74,0,0.17,0.58,80.28,4,3.15,1/1/1924,['unknown']
+0sfPuqQFRqddMCwyntbyjC,Avec Bidasse,0,0,Johann Sebastian Bach,0.66,0.24,9,-13.37,1,0.26,0.93,0,0.05,0.91,91.52,4,2.85,1/1/1924,"['baroque', 'classical', 'early music', 'german baroque']"
+0u2QMHIKMviLxV4afomuiP,Gemi Kalkar Sular Aka,0,0,Bayan Sultan,0.38,0.22,2,-14.03,1,0.07,0.99,0.9,0.12,0.52,80.04,4,2.78,12/18/1924,['unknown']
+0zYxScpizOj2XkB9jU9LxQ,Sentimiento Gaucho - Remasterizado,0,0,Francisco Canaro,0.53,0.22,8,-14.81,1,0.08,1,0.91,0.31,0.43,71.05,3,2.89,7/12/1924,"['tango', 'vintage tango']"
+12voSZbHYcgf5F1UIdBoYE,Gato,0,0,Iván Rolón,0.19,0.13,7,-27.58,1,0.05,0.95,0.88,0.12,0.35,173.09,3,2.47,1/1/1924,['unknown']
+15SUltrayJlHNaoEVI1NgM,Rum And Coca Cola,1,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.66,0.46,10,-11.88,1,0.05,0.62,0,0.21,0.96,143.43,4,3.01,1/1/1924,['unknown']
+18OWcGarr66PybHGAF9nhr,Bye Bye Blues,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.65,0.59,5,-10.88,1,0.06,0.6,0.64,0.13,0.55,119.7,4,5.23,1/1/1924,['unknown']
+1AnWsrmF3or0kUIASWQxfP,Pato Alegre - Remasterizado,0,0,Francisco Canaro,0.37,0.51,7,-14.26,1,0.18,1,0.94,0.37,0.75,120.91,4,2.74,7/12/1924,"['tango', 'vintage tango']"
+1BuCyo7vbcjMbIluJyxlEQ,It Had To Be You,0,0,Marie Earth Heart,0.41,0.37,5,-12.53,1,0.04,0.95,0,0.34,0.15,118.98,4,2.07,1/1/1924,['unknown']
+1DMuD0CaT8fJxx5pIbRJzP,Pero Hay Una Melena - Remasterizado,0,0,Francisco Canaro,0.63,0.4,2,-13.16,1,0.04,1,0.9,0.69,0.95,77.77,4,2.87,7/12/1924,"['tango', 'vintage tango']"
+1EO65UEEPfy7CR0NK2sDxy,Ils N'Ont Pas Ca,0,0,Mistinguett,0.68,0.47,9,-12.39,0,0.16,0.99,0,0.22,0.73,129.78,4,2.7,1/1/1924,['vintage chanson']
+1IwWFWpxxjbnYjI7enSbJD,Nancy,0,0,George Olsen,0.67,0.33,5,-10.17,1,0.03,1,0.23,0.08,0.69,109.65,4,3.18,1/1/1924,['vintage jazz']
+1J6J5XMVfZIGh3VlIyNNNR,Chapter 157 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.37,0,0.95,0.59,0,0.16,0.31,168.04,4,3.13,1/1/1924,['unknown']
+1JKGMzesB5AMCp9Yuqbcjj,I Got Rhythm,0,0,Lionel Hampton Orchestra,0.59,0.9,10,-4.3,1,0.1,0.82,0.68,0.59,0.74,141.48,4,8.35,1/1/1924,['unknown']
+1M4n1lkTiH1o6K2RKVuopE,Galletita - Remasterizado,0,0,Ignacio Corsini,0.56,0.14,2,-22.27,1,0.12,1,0.91,0.24,0.49,111.32,4,2.71,3/29/1924,"['tango', 'vintage tango']"
+1Q1Gq6pPis0PF0DM8KYjKO,Chapter 67 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.29,3,-16.5,1,0.95,0.8,0,0.15,0.56,81.56,1,3.05,1/1/1924,['unknown']
+1QHSohVNSbe4wd9mxSfyY0,Chapter 198 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.35,3,-16.2,1,0.93,0.69,0,0.11,0.34,104.27,3,3.02,1/1/1924,['unknown']
+1QeEdPa3xSu8Vejf8YBMXx,Puentecito - Remasterizado,0,0,Francisco Canaro,0.58,0.31,4,-12.41,1,0.08,1,0.95,0.29,0.62,116.97,4,2.54,7/12/1924,"['tango', 'vintage tango']"
+1T6INvIS1byqBQoeY2iL91,Chapter 6 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,3,-15.95,1,0.94,0.74,0,0.11,0.48,129.49,5,3.05,1/1/1924,['unknown']
+1VEYei8QDYTY8LRnHbWNop,Chapter 101 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.31,3,-16.19,1,0.95,0.76,0,0.2,0.42,85.1,4,3.11,1/1/1924,['unknown']
+1Wa0hdSbicX9gehPufTzr3,Elle A Perdu Son Pantalon,0,0,Fred Gouin,0.74,0.27,4,-13.32,1,0.09,0.98,0,0.26,0.94,126.09,4,2.7,1/1/1924,['vintage chanson']
+1ZDkP0UVTnyZdXw42ORUPf,Chapter 56 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.65,0.35,3,-16.31,1,0.94,0.72,0,0.37,0.36,89.08,4,3.07,1/1/1924,['unknown']
+1agQgiViJVJrONfuBVGck6,Passons La Monnaie,0,0,Georgius,0.55,0.37,3,-11.64,1,0.33,0.99,0,0.16,0.51,85.91,1,3.29,1/1/1924,['vintage chanson']
+1bL2rj0LabQ3uh0g1EqcgS,Jug Band Blues - Remastered,0,0,Sara Martin & Her Jug Band,0.51,0.29,8,-14.35,1,0.08,1,0.95,0.3,0.63,140.89,4,2.9,1/12/1924,['unknown']
+1bpb5MLji9mbUPqRltTtIk,L'Âme Des Roses,0,0,René De Buxeuil,0.32,0.32,0,-16.8,1,0.08,0.99,0,0.3,0.5,72.48,3,3.25,1/1/1924,['unknown']
+1dk1ilqdHCLXwAcqPsnMwM,La Madrecita - Remasterizado,0,0,Francisco Canaro,0.37,0.46,8,-12.67,0,0.04,1,0.91,0.42,0.69,134.42,4,2.47,7/11/1924,"['tango', 'vintage tango']"
+1dxQ9woGE6ErHP4eoct4b8,J'Ai Eu Tort,0,0,Dranem,0.63,0.26,2,-15.24,1,0.06,1,0,0.13,0.8,130.59,4,2.79,1/1/1924,['vintage chanson']
+1gLrUZ96jGHMDwQIdqeM6g,Chapter 62 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.33,7,-16.23,0,0.94,0.69,0,0.09,0.42,173.2,3,3.03,1/1/1924,['unknown']
+1gxCV37YTTaWCPACNYdImn,Juventud - Remasterizado,0,0,Francisco Canaro,0.49,0.23,9,-18.14,0,0.18,1,0.93,0.17,0.54,65.9,4,2.95,7/11/1924,"['tango', 'vintage tango']"
+1hJ4uO5Qwpt6gSqW776CCt,Chapter 2 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.33,0,-16.28,0,0.95,0.7,0,0.1,0.37,167.12,3,3.09,1/1/1924,['unknown']
+1hTEyfuMYO88JjvSJEarcr,The Slave Of Love,0,0,George Olsen,0.33,0.38,5,-11.74,1,0.04,1,0.89,0.11,0.56,202.86,4,2.8,1/1/1924,['vintage jazz']
+1iYULfwDSwsh4eQUkdSx3D,"Up And Down, Up And Down (I Will Lead Them Up And Down) [Puck]",0,0,Duke Ellington,0.6,0.33,0,-9.35,1,0.03,0.78,0,0.13,0.62,77.44,4,3.01,1/1/1924,"['adult standards', 'african-american classical', 'big band', 'cool jazz', 'harlem renaissance', 'jazz', 'jazz piano', 'lounge', 'stride', 'swing', 'vocal jazz']"
+1ihxCiI7dkFX4s0Y1fycxx,Chapter 200 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.28,0,-16.61,0,0.92,0.74,0,0.2,0.48,120.16,4,3.08,1/1/1924,['unknown']
+1n9sPXb7suffm3peyjtWnf,Chapter 141 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.32,0,-16.68,0,0.91,0.6,0,0.1,0.32,120.15,5,3.11,1/1/1924,['unknown']
+1nS72qyMPIOcQGyxxglsNJ,Solita - Remasterizado,0,0,Francisco Canaro,0.72,0.28,0,-14.01,0,0.07,1,0.96,0.22,0.8,119.17,4,2.79,7/12/1924,"['tango', 'vintage tango']"
+1oPGdfmHHEKUOQWKdqtqBN,Mameluke - Remasterizado,0,0,Francisco Canaro,0.65,0.25,2,-14.25,1,0.07,1,0.96,0.11,0.7,116.7,4,2.86,7/12/1924,"['tango', 'vintage tango']"
+1p6moJMYdQBIohT6LzFFtO,Cotillón - Remasterizado,0,0,Francisco Canaro,0.22,0.43,5,-15.68,0,0.06,1,0.98,0.19,0.7,171.9,3,2.87,7/11/1924,"['tango', 'vintage tango']"
+1pdrfG6mHyl3YtCA06QazB,Chapter 28 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.34,3,-16.65,1,0.92,0.65,0,0.37,0.44,81.93,3,3.07,1/1/1924,['unknown']
+1sUND2GO2WxiFYlc69eKyH,Chapter 202 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.31,3,-16.31,1,0.92,0.74,0,0.11,0.35,125.62,4,3.03,1/1/1924,['unknown']
+1spxOSeCG8DUa5pwK6EPvZ,How High The Moon,0,0,Lionel Hampton Orchestra,0.34,0.62,7,-13.18,1,0.05,0,0.01,0.35,0.45,80.85,4,5.43,1/1/1924,['unknown']
+1tVeausocI8kRJXlAm3kGP,Ca Vient Ou Ca N'Vient Pas,0,0,Maurice Chevalier,0.7,0.26,3,-14.62,0,0.08,1,0,0.4,0.72,86.2,4,2.48,1/1/1924,"['cabaret', 'vintage hollywood']"
+1tfzJhyucl1EZHAjiRbN3c,Chapter 189 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,3,-16.23,1,0.95,0.7,0,0.31,0.38,79.41,4,3.07,1/1/1924,['unknown']
+1uyUvOCTgWNn1cnQBclT5B,El Borracho - Remasterizado,0,0,Francisco Canaro,0.3,0.37,3,-13.85,1,0.06,1,0.95,0.32,0.65,71.88,4,3.14,7/12/1924,"['tango', 'vintage tango']"
+1vDMS4dZIxaquD0RkUkuu6,Chapter 182 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.35,0,-16.32,0,0.95,0.75,0,0.2,0.37,145.21,3,3.12,1/1/1924,['unknown']
+1vyWKqg4E54w3woxOqIduz,Work House Blues,0,0,Bessie Smith,0.41,0.21,1,-10.61,1,0.04,0.99,0,0.78,0.46,165.16,4,3.23,1/1/1924,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+1wMeF8Q2okbWzHF7TQlsPh,Chapter 105 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.31,0,-16.75,0,0.95,0.64,0,0.18,0.36,163.31,3,3.04,1/1/1924,['unknown']
+1zPZ6UI2IFvyw399Wqwuhk,Save Your Sorrow For Tomorrow,0,0,George Olsen,0.44,0.34,3,-12.72,1,0.05,0.99,0.92,0.15,0.92,209.86,4,3.01,1/1/1924,['vintage jazz']
+1zsq8owQ8KZ1yv7r0EZn3J,Les Ananas,0,0,Maurice Chevalier,0.62,0.3,3,-14.82,1,0.16,0.99,0,0.09,0.71,136.27,4,2.66,1/1/1924,"['cabaret', 'vintage hollywood']"
+22Zf2FtRJhCKdnCoshU53T,Padre Nuestro - Remasterizado,0,0,Francisco Canaro,0.49,0.08,8,-17.37,1,0.1,1,0.82,0.12,0.32,132.86,3,3.19,7/11/1924,"['tango', 'vintage tango']"
+23UbTSGD2FDCWVSAN3DReI,Chapter 5 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.31,0,-16.41,0,0.95,0.69,0,0.1,0.42,163.24,3,3.05,1/1/1924,['unknown']
+23Wl0mfhHCa0wgGKP0lvfv,Melodía De Amor - Remasterizado,0,0,Francisco Canaro,0.39,0.37,3,-11.58,1,0.07,1,0.95,0.24,0.24,133.54,4,2.91,7/12/1924,"['tango', 'vintage tango']"
+23xeY0EI4ZklNr7sm9hUvU,Arrepentida - Remasterizado,0,0,Francisco Canaro,0.39,0.39,8,-11.94,0,0.18,1,0.97,0.43,0.48,213.45,4,3.11,7/12/1924,"['tango', 'vintage tango']"
+28LaB9VlNsiAapYYEd7556,Chapter 41 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.28,0,-16.57,0,0.93,0.65,0,0.24,0.47,102.44,5,3.05,1/1/1924,['unknown']
+29qeRLMn8dC8namrmZzvpv,Recuerdo De París - Remasterizado,0,0,Francisco Canaro,0.43,0.26,1,-10.68,1,0.08,1,0.93,0.24,0.68,71.06,3,3.15,7/12/1924,"['tango', 'vintage tango']"
+2DKUToJPF0iTdclndQDgOX,Chapter 119 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.32,2,-16.64,1,0.94,0.67,0,0.39,0.33,97.44,4,3.04,1/1/1924,['unknown']
+2EHCmcIdGcn282tF7hkt0P,La Garconiere - Remasterizado,0,0,Francisco Canaro,0.47,0.36,2,-13.88,0,0.05,1,0.9,0.29,0.6,119.33,4,2.75,7/11/1924,"['tango', 'vintage tango']"
+2FcDRcHSSqtYjFnD5FUJOP,Arabian Smiles - Remasterizado,0,0,Francisco Canaro,0.4,0.33,4,-16.77,1,0.07,1,0.98,0.22,0.51,136.52,1,3.14,7/11/1924,"['tango', 'vintage tango']"
+2FtecGcutjXVGvmSeet57x,Chapter 8 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,6,-16.57,0,0.92,0.73,0,0.36,0.37,127.73,3,3.05,1/1/1924,['unknown']
+2GHl6CERCs5u5Lx3lLUXTA,Chapter 3 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.29,0,-16.66,0,0.96,0.63,0,0.2,0.36,169.27,3,3.07,1/1/1924,['unknown']
+2HnE9jRCYX8LHAvTItVSqm,Chapter 168 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.32,10,-16.53,1,0.93,0.74,0,0.17,0.37,108.52,4,3.04,1/1/1924,['unknown']
+2JyKwljqsuRIrqHOQscLUd,Pobre Madrecita - Remasterizado,0,0,Francisco Canaro,0.53,0.3,10,-18.45,1,0.14,1,0.91,0.13,0.7,128.02,4,2.83,7/11/1924,"['tango', 'vintage tango']"
+2KQsH0OusGdovvY5XGvYoO,La Virgen De Estambul - Remasterizado,0,0,Francisco Canaro,0.36,0.3,10,-19,1,0.05,1,0.77,0.14,0.65,130.44,3,2.78,7/11/1924,"['tango', 'vintage tango']"
+2LIwTk58Eb6g6Q6Rw4ekXD,Nobody Knows What A Red-Head Mama Can Do,0,0,George Olsen,0.58,0.36,0,-14.39,1,0.09,1,0.77,0.34,0.76,183.73,4,2.99,1/1/1924,['vintage jazz']
+2M6VDjIyknJqeZpyt0owZw,My Papa Doesn'T Two-Time No Time,0,0,George Olsen,0.79,0.33,5,-14.56,1,0.05,0.99,0.03,0.11,0.69,108.72,4,2.73,1/1/1924,['vintage jazz']
+2MMk54eTSfk5dEANFmTYBm,Chapter 92 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.3,0,-16.24,0,0.95,0.77,0,0.13,0.52,170.95,3,3.06,1/1/1924,['unknown']
+2N8Mpn8yfFdYaKGkqRGlsc,Chapter 205 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,0,-16.53,0,0.93,0.74,0,0.16,0.34,127.36,5,3.05,1/1/1924,['unknown']
+2ND1IMai81UeRbTrxsgcB5,Chapter 108 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.35,3,-16.51,1,0.95,0.7,0,0.23,0.33,82.54,3,3.05,1/1/1924,['unknown']
+2OLa8nCz9Nn64wQbzg8tar,Blue Devil Blues - Remastered,0,0,Sara Martin & Her Jug Band,0.46,0.41,1,-13.73,1,0.05,1,0.91,0.16,0.92,172.91,4,2.55,1/12/1924,['unknown']
+2OwfoqrKiNEP1jfKbOzXRQ,Chapter 132 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.31,7,-16.36,0,0.94,0.69,0,0.12,0.37,163.34,5,3.05,1/1/1924,['unknown']
+2RjoCbEhDrl1QJZNV8WcAn,Chapter 58 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.35,3,-16.27,1,0.93,0.74,0,0.21,0.54,131.55,4,3.05,1/1/1924,['unknown']
+2SCAklEyF0ArIoCq9HotPy,You'Ll Never Get To Heaven With Those Eyes,0,0,George Olsen,0.69,0.32,0,-12.4,1,0.06,0.99,0.52,0.04,0.8,97.81,4,3.1,1/1/1924,['vintage jazz']
+2WDGzPL4w6MYUoC7MLBcdC,Huella,0,0,Iván Rolón,0.38,0.04,10,-26.12,1,0.06,0.98,0.87,0.11,0.16,105.84,3,3.27,1/1/1924,['unknown']
+2WTtJDfCUjAyCZHRSfCLDn,La Mina Del Ford - Remasterizado,1,0,Ignacio Corsini,0,0.03,5,-24.89,1,0,1,0.77,0.08,0,0,0,2.23,3/29/1924,"['tango', 'vintage tango']"
+2XIFockStn76X2Vt878GPq,Nagasaki,1,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.65,0.6,8,-10.19,1,0.05,0.66,0,0.24,0.82,116.47,4,3.28,1/1/1924,['unknown']
+2aSxUV9mDSTbpQQrkm7xE0,Chapter 166 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.32,3,-16.33,1,0.94,0.72,0,0.12,0.38,100.98,4,3.05,1/1/1924,['unknown']
+2cOE5LUG1FViS4yX3C8YUD,Mi Rosal Ha Florecido - Remasterizado,0,0,Ignacio Corsini,0.44,0.06,3,-22.32,1,0.12,0.99,0.93,0.31,0.58,74.42,4,3.1,3/29/1924,"['tango', 'vintage tango']"
+2fKomnNDpVH4vvKPVnCq5f,Wine Song,0,0,Lionel Hampton Orchestra,0.61,0.58,11,-11.16,0,0.03,0.57,0.05,0.14,0.67,134.62,4,2.65,1/1/1924,['unknown']
+2fcO90VpElFhu62aq0KWpO,Chapter 123 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.56,0,0.95,0.72,0,0.12,0.42,169.36,3,3.07,1/1/1924,['unknown']
+2fzm8k973cmkJh1HBsgOu2,Porque - Remasterizado,0,0,Francisco Canaro,0.74,0.28,8,-11.51,1,0.05,1,0.84,0.19,0.6,112.95,4,2.93,7/12/1924,"['tango', 'vintage tango']"
+2gLGKPi8uCfRGV2Kkv2YJJ,Down Hearted Blues,0,0,Jimmy Rushing And His Orchestra,0.59,0.37,8,-11.67,1,0.04,0.47,0,0.3,0.63,80.59,4,3.46,1/1/1924,['unknown']
+2hBNaMVFeZ68GPOCXKw8G3,Yo Tuve Un Amorcito - Remasterizado,0,0,Francisco Canaro,0.45,0.6,6,-9.2,1,0.11,1,0.91,0.85,0.92,183.7,4,2.86,7/12/1924,"['tango', 'vintage tango']"
+2i8i3iw1RnQ43WdhvdNEDj,Chapter 161 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,3,-16.33,1,0.93,0.68,0,0.11,0.41,110.3,3,3.04,1/1/1924,['unknown']
+2mYyH216FlPzP4rFQAuIxo,Marea Baja - Remasterizado,0,0,Francisco Canaro,0.69,0.24,7,-13.92,1,0.07,1,0.92,0.27,0.67,126.6,4,2.88,7/11/1924,"['tango', 'vintage tango']"
+2md6LUBLlJHj6736DruRNf,Chapter 213 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.32,0,-16.4,0,0.94,0.64,0,0.12,0.36,171.8,3,3.18,1/1/1924,['unknown']
+2naJMgU6V31lurzS2CaFPo,Chapter 52 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,7,-16.67,0,0.92,0.75,0,0.2,0.51,121.66,4,3.07,1/1/1924,['unknown']
+2qs3EQifFTq9TWcEzdqHwD,Chapter 126 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.33,0,-16.58,0,0.93,0.71,0,0.14,0.3,132.38,3,3.05,1/1/1924,['unknown']
+2roHcpDwfhtxZFrZHxn3hh,Chapter 124 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.3,3,-16.47,1,0.92,0.65,0,0.19,0.51,133.07,5,3.05,1/1/1924,['unknown']
+2v1xGuEPv8AtXzNSxDeCyV,No Me Digas Que La Quiero - Remasterizado,0,0,Francisco Canaro,0.64,0.31,3,-14.23,0,0.05,1,0.97,0.2,0.74,124.04,4,2.84,7/12/1924,"['tango', 'vintage tango']"
+2vO7roxQMWKbOuIAoIlAON,Chapter 53 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.34,0,0.94,0.69,0,0.15,0.34,165.46,5,3.09,1/1/1924,['unknown']
+2vauyBa7M0MxieYLAyXBWQ,Chapter 104 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.28,10,-16.3,1,0.94,0.72,0,0.3,0.36,148.91,3,3.09,1/1/1924,['unknown']
+2voWjV5crPLQThiBQhy1kq,Chapter 12 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,10,-16.58,1,0.93,0.74,0,0.15,0.34,123.88,3,3.06,1/1/1924,['unknown']
+2xDnVQfki042lphxbxDylR,Sobin Blue - Remasterizado,0,0,Francisco Canaro,0.42,0.31,5,-16.93,1,0.06,1,0.95,0.18,0.33,127.24,4,3.4,7/11/1924,"['tango', 'vintage tango']"
+2xK2jdLgjizVgc7pt3xjm1,El Serrucho - Remasterizado,0,0,Francisco Canaro,0.58,0.49,5,-15.38,0,0.1,0.99,0.96,0.14,0.87,131.31,4,2.89,7/11/1924,"['tango', 'vintage tango']"
+2xY6aTzgJS9nI9kcG3F2bh,El Beso De La Muerte - Remasterizado,0,0,Ignacio Corsini,0.49,0.11,5,-23.24,1,0.07,1,0.68,0.18,0.63,127.71,4,2.65,3/29/1924,"['tango', 'vintage tango']"
+2zF1YfMxi5lvcDTjBYxoUg,Chapter 179 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.65,0.28,3,-16.36,1,0.95,0.8,0,0.31,0.56,89.89,3,3.07,1/1/1924,['unknown']
+2zN2fBED0Gczs9gL0iUlUo,Chapter 69 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.34,3,-16.51,1,0.94,0.71,0,0.28,0.5,136.11,3,3.07,1/1/1924,['unknown']
+2zo3hjplWh6Fms4y7it3UB,Chapter 188 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.31,3,-16.4,1,0.94,0.7,0,0.12,0.43,169.77,1,3.08,1/1/1924,['unknown']
+30JHWOyo2V4pvQu7Kttmk8,Sueño Indio - Remasterizado,0,0,Francisco Canaro,0.21,0.52,10,-15.66,1,0.07,1,0.99,0.5,0.57,173.26,4,2.81,7/12/1924,"['tango', 'vintage tango']"
+313DBGUR4idD5o4gFM9TIl,Chapter 171 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.66,0.31,3,-16.34,1,0.95,0.75,0,0.12,0.34,149.53,3,3.04,1/1/1924,['unknown']
+31mfc5lwsASjh3fXAn5VCJ,Ahí Va El Dulce - Remasterizado,0,0,Francisco Canaro,0.44,0.49,2,-14.29,1,0.1,1,0.97,0.37,0.78,127.17,4,2.88,7/11/1924,"['tango', 'vintage tango']"
+3263LjuRke9esbjMNDw98Q,Chapter 117 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.33,3,-16.34,1,0.94,0.6,0,0.11,0.44,129.18,4,3.1,1/1/1924,['unknown']
+3448DAwd0vw3XJy8ZJPrqE,Chapter 147 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,3,-16.52,1,0.94,0.67,0,0.13,0.38,129.11,3,3.02,1/1/1924,['unknown']
+36Cxe9CIlO1pcc7kPpm9nX,Goody-Goody,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.66,0.4,7,-10.05,0,0.04,0.71,0,0.13,0.88,157.97,4,3.33,1/1/1924,['unknown']
+39hHy2RE5bbkjweHBOwyi7,Mr. John,0,0,Lionel Hampton Orchestra,0.48,0.6,7,-15.06,1,0.04,0,0.01,0.41,0.45,140.47,4,7.49,1/1/1924,['unknown']
+3A4KeGhXlHPpSWYIFyxYZk,Melodía De Amor - Remasterizado,0,0,Francisco Canaro,0.32,0.28,10,-14.46,1,0.06,1,0.98,0.42,0.9,202.08,4,2.47,7/11/1924,"['tango', 'vintage tango']"
+3B3OlGSUjrrjBAzR8Ob5dN,Chapter 167 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.66,0.28,7,-16.26,0,0.94,0.66,0,0.21,0.35,94.6,4,3.04,1/1/1924,['unknown']
+3CbLwi1sL1h4C1uOVLERLX,La Mora - Remasterizado,0,0,Francisco Canaro,0.37,0.4,5,-15.61,1,0.07,1,0.98,0.53,0.55,127.29,4,2.85,7/12/1924,"['tango', 'vintage tango']"
+3D5mjvipxQjqu77yQxdBrY,Chapter 137 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,7,-16.55,0,0.95,0.7,0,0.13,0.36,166.1,3,3.03,1/1/1924,['unknown']
+3DhJxfTPZmc1W190Xv9AtQ,Chapter 150 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.29,7,-16.39,0,0.94,0.67,0,0.12,0.35,134.21,5,3.17,1/1/1924,['unknown']
+3I2PT0BntsOZFuH1CCpQqc,Chapter 70 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,9,-16.48,1,0.93,0.64,0,0.26,0.45,132.58,3,3.07,1/1/1924,['unknown']
+3OaUg28VLW9wXS0ArWwrtO,Chapter 38 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,3,-16.52,1,0.94,0.78,0,0.13,0.4,112.73,3,3.1,1/1/1924,['unknown']
+3Ol8iOKpMvQSUuNFb8TDpJ,Chapter 207 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.66,0.28,9,-16.35,1,0.95,0.64,0,0.12,0.51,79.23,3,3.06,1/1/1924,['unknown']
+3PVLFMxbSZMgzepT2O3zvE,Elle S'Etait Fait Couper Les Cheveux,1,0,Dréan,0.67,0.27,5,-14.49,1,0.1,0.99,0,0.18,0.95,71.37,4,2.57,1/1/1924,['unknown']
+3QN3gzyZi030T65CSuD1ps,Chapter 47 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.73,0.29,3,-16.32,1,0.93,0.79,0,0.2,0.54,120.68,3,3.06,1/1/1924,['unknown']
+3QSTvrvQofRpVYhgepSEN9,Chapter 107 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.75,0.3,9,-16.42,1,0.94,0.65,0,0.1,0.39,80.49,3,3.02,1/1/1924,['unknown']
+3SHSu0uezPLNi4Ja95UPMu,Chapter 174 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.28,3,-16.33,1,0.92,0.81,0,0.15,0.43,127.63,3,3.03,1/1/1924,['unknown']
+3T8yr5lt6QxomDUG9CIkrt,Nebe Aye Shyama Nebe Aye,0,0,Bijoylal Mukherjee,0.3,0.31,4,-15,1,0.05,1,0.92,0.42,0.72,68.67,4,2.96,12/31/1924,['unknown']
+3TkH1IGF0u8eOGuROZFYeF,Chapter 17 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,3,-16.29,1,0.92,0.69,0,0.17,0.42,121.97,3,3.03,1/1/1924,['unknown']
+3UpYpPXInxPIK2KG0vtdpO,Chapter 121 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.31,3,-16.06,1,0.95,0.74,0,0.19,0.44,167.2,5,3.14,1/1/1924,['unknown']
+3W8SR4j4XfaSrRoJou1EYA,Asi Me Dejas - Remasterizado,0,0,Francisco Canaro,0.39,0.52,0,-10.86,1,0.04,1,0.88,0.31,0.73,117.08,4,2.82,7/12/1924,"['tango', 'vintage tango']"
+3Xk64EemuaZrozMqA96ESs,Chapter 142 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,7,-16.47,0,0.95,0.7,0,0.08,0.37,80.56,1,3.1,1/1/1924,['unknown']
+3XoBkv4r3BKKdWqa2bUJoO,Chapter 95 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,0,-16.36,0,0.93,0.66,0,0.14,0.38,130.7,5,3.06,1/1/1924,['unknown']
+3a1oQMnNoqob4NOSmTAsvr,Biminy,0,0,George Olsen,0.43,0.32,10,-15.62,1,0.05,1,0.88,0.13,0.74,203.56,4,3.05,1/1/1924,['vintage jazz']
+3dlYc2bWBp3AIPBaYzvqL8,The Holy Babe,0,0,Mahalia Jackson,0.53,0.38,0,-11.67,1,0.05,0.86,0,0.24,0.83,164.47,4,2.69,1/1/1924,"['gospel', 'spirituals']"
+3ewq4kuN9qKIynyhf14OHB,Chapter 59 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,3,-16.55,1,0.93,0.68,0,0.16,0.5,110.63,4,3.09,1/1/1924,['unknown']
+3hb6i5cvAPqAtxjR0tISwN,Chapter 176 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.33,3,-16.3,1,0.93,0.72,0,0.24,0.42,101.72,4,3.05,1/1/1924,['unknown']
+3hnWzirtxXGoNp40x0WbAo,Yo Busco A Mi Pebeta - Remasterizado,0,0,Francisco Canaro,0.82,0.25,3,-12.48,0,0.08,1,0.9,0.13,0.59,75.42,4,2.56,7/12/1924,"['tango', 'vintage tango']"
+3k0JUV42pr3lm1MiXtN0sp,Dites Moi M'Sieur Chevalier,0,0,Maurice Chevalier,0.79,0.38,9,-11.46,0,0.43,0.99,0,0.07,0.83,123.94,4,2.66,1/1/1924,"['cabaret', 'vintage hollywood']"
+3k7kqHlT7z3HAe8BVrk0Zd,China - Remasterizado,0,0,Francisco Canaro,0.67,0.32,10,-16.05,1,0.26,1,0.93,0.15,0.77,130.67,4,2.55,7/11/1924,"['tango', 'vintage tango']"
+3kn5lVbymXdZdPBYsavhvp,Chapter 203 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.3,3,-16.06,1,0.94,0.76,0,0.17,0.54,165.95,3,3.12,1/1/1924,['unknown']
+3lToy7oVouc833ZPrXPGO0,Potato Head Blues,0,0,Louis Armstrong & His Hot Seven,0.59,0.3,5,-10.05,1,0.22,0.98,0.51,0.18,0.92,182.01,4,2.92,1/1/1924,['unknown']
+3nlVTolWp7yDpJLCsJJWge,Chapter 75 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,3,-16.31,1,0.92,0.77,0,0.12,0.51,114.26,3,3.06,1/1/1924,['unknown']
+3o1IklgDSixPxUK9NLBCBw,Chapter 73 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.33,0,-16.41,0,0.96,0.54,0,0.24,0.32,174.93,3,3.09,1/1/1924,['unknown']
+3p8KESnrkbJJiZEuVuSyUf,Chapter 209 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.33,3,-16.5,1,0.93,0.73,0,0.2,0.38,115.85,5,3.02,1/1/1924,['unknown']
+3pUNdLWij2q6gzYNOGZji7,Chapter 42 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.75,0.27,7,-16.02,0,0.94,0.78,0,0.28,0.43,82.12,3,3.05,1/1/1924,['unknown']
+3pfh479X2kg7sNFLZmscWE,Torcacita - Remasterizado,0,0,Ignacio Corsini,0.52,0.19,8,-20.92,1,0.11,0.99,0.94,0.22,0.82,123.95,4,2.36,3/29/1924,"['tango', 'vintage tango']"
+3rc1VCHgNmNJyX7XjKOX7n,Chapter 120 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.32,3,-16.14,1,0.94,0.75,0,0.12,0.35,97.82,1,3.18,1/1/1924,['unknown']
+3sRZN0JyaVNLH33y7n1ioN,Flying Home,0,0,Lionel Hampton Orchestra,0.39,0.72,7,-13.2,1,0.12,0.01,0.62,0.23,0.44,129.75,4,10.73,1/1/1924,['unknown']
+3sbfuimKK5fbZP2fE9sm9k,Chapter 1.1 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.67,0.22,1,-19.23,1,0.96,0.57,0,0.11,0.21,96.17,4,2.15,12/27/1924,['unknown']
+3vNSAfq1Kpl8iKkb47oMJQ,Muchachita Loca - Remasterizado,0,0,Francisco Canaro,0.46,0.32,4,-15.92,0,0.13,1,0.95,0.33,0.44,127.49,4,2.87,7/11/1924,"['tango', 'vintage tango']"
+3weXrCuH0BVpfGaonKxZ3c,Bob White,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.65,0.33,0,-11.12,1,0.07,0.76,0,0.04,0.68,79.84,4,3.44,1/1/1924,['unknown']
+3yADk2xlgtlnBkkPrReGUz,Chapter 61 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.32,9,-16.41,1,0.95,0.76,0,0.13,0.4,83.9,4,3.27,1/1/1924,['unknown']
+4032XvgTVNxaPuarGGxWLa,Chapter 103 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.3,4,-16.37,0,0.95,0.74,0,0.12,0.42,81.85,5,3.18,1/1/1924,['unknown']
+407F5Zq6eKb6z3usACOU59,Chapter 162 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.26,3,-16.42,1,0.94,0.66,0,0.16,0.49,75.64,5,3.06,1/1/1924,['unknown']
+40TKTElwkMqQeHAifWtXvw,Chapter 156 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.75,0.31,10,-16.09,1,0.94,0.78,0,0.14,0.39,103.76,3,3.09,1/1/1924,['unknown']
+42lpGrTTAZEqooPCnyWUM9,Chapter 90 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.33,7,-16.5,0,0.94,0.68,0,0.27,0.39,166.64,4,3.05,1/1/1924,['unknown']
+43gfXUPQcBGWwc2AHXIHlc,Chapter 180 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.73,0.31,0,-16.51,0,0.93,0.71,0,0.32,0.38,115.14,1,3.15,1/1/1924,['unknown']
+45mIJt9TnlI6lbpNKkRViB,Chapter 99 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.31,7,-16.16,0,0.95,0.68,0,0.19,0.29,189.21,5,3.02,1/1/1924,['unknown']
+46I2GKZAgZPBEPud1gzMlS,Toodles - My Baby'S Baby Blue Eyes,0,0,George Olsen,0.8,0.4,10,-11.75,1,0.05,1,0.9,0.08,0.88,106.3,4,2.11,1/1/1924,['vintage jazz']
+46VoG8v7mJStzIkyJw4hJD,Pour Un Homme,0,0,Mlle Davia,0.41,0.27,8,-17.14,1,0.07,1,0.02,0.29,0.36,67.63,4,2.94,1/1/1924,['unknown']
+46X1ehjrbPmwFnnUwWGBFD,Chapter 155 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,3,-16.28,1,0.95,0.81,0,0.12,0.58,75.73,3,3.05,1/1/1924,['unknown']
+46fEL98G9SIvOfZ5YdeaI6,Chapter 96 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.3,3,-16.11,1,0.94,0.73,0,0.1,0.42,88.98,4,3.13,1/1/1924,['unknown']
+4A3MqaBx2PQjLELHDotUTX,Chapter 45 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.3,0,-16.3,0,0.95,0.76,0,0.2,0.31,169.69,5,3.06,1/1/1924,['unknown']
+4ARuVJTLmxEoUktPmvHZeB,Chapter 24 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.28,3,-16.35,1,0.95,0.61,0,0.14,0.44,163.99,5,3.08,1/1/1924,['unknown']
+4BI5x2PIP4RtYUtfRD36gZ,C'Est Pas Grand Chose,0,0,Maurice Chevalier,0.53,0.16,5,-15.4,1,0.07,1,0,0.14,0.73,133.19,5,2.93,1/1/1924,"['cabaret', 'vintage hollywood']"
+4CRqnUrUiDEi1d3jSLKgTH,Fea - Remasterizado,0,0,Ignacio Corsini,0.58,0.12,5,-25.1,1,0.13,1,0.93,0.14,0.78,130.24,3,2.45,3/29/1924,"['tango', 'vintage tango']"
+4Eo9mdYFPtjBeUrHlHcnlx,Little White Lies,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.59,0.12,5,-13.93,1,0.04,0.95,0,0.12,0.36,115.76,4,4.59,1/1/1924,['unknown']
+4FLQowXTs4mz5JUeCvAI8r,Chapter 14 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.29,0,-16.81,0,0.94,0.55,0,0.11,0.38,163.98,4,3.04,1/1/1924,['unknown']
+4GCADzGgIy4ywHIWCKkWNM,Yo Tuve Un Cariño - Remasterizado,0,0,Francisco Canaro,0.46,0.12,8,-17.13,1,0.1,1,0.95,0.15,0.44,132.71,3,3.16,7/11/1924,"['tango', 'vintage tango']"
+4IiLZkoTkTtp1gbO0pJodt,Chapter 148 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,0,-16.78,0,0.93,0.65,0,0.11,0.36,127.13,4,3.02,1/1/1924,['unknown']
+4JcqL56M22aCDB37MSSnH1,El Olivo - Remasterizado,0,0,Ignacio Corsini,0.47,0.08,8,-25.67,1,0.07,1,0.83,0.11,0.31,116.99,4,2.93,3/29/1924,"['tango', 'vintage tango']"
+4KfsADRkvXGa1juLnQ5EAd,Chapter 97 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.32,3,-16.2,1,0.92,0.7,0,0.14,0.47,119.57,3,3.09,1/1/1924,['unknown']
+4L0ek0zTuWb9dYvSy5uUIL,Sax-O-Phun - A Study In Laugh And Slap Tongue,0,0,George Olsen,0.67,0.49,10,-13.83,1,0.04,1,0.9,0.16,0.97,109.99,4,2.74,1/1/1924,['vintage jazz']
+4LaLTSLgLjOZbLlfxqEC4O,Chapter 133 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.05,0,0.95,0.78,0,0.12,0.42,86.28,1,3.08,1/1/1924,['unknown']
+4M6dbgKVbTWOWjojlMohSx,Chapter 197 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,7,-16.36,0,0.94,0.68,0,0.13,0.36,133.58,4,3.04,1/1/1924,['unknown']
+4M7afQD0X2BZo65NQRbT4C,Chapter 16 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.31,0,-16.09,0,0.94,0.67,0,0.08,0.31,83.97,3,3.15,1/1/1924,['unknown']
+4MRKddKlMY8qaJ7NmK1W1b,Chapter 193 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.33,10,-16.36,1,0.93,0.61,0,0.11,0.42,130.55,1,3.07,1/1/1924,['unknown']
+4MdUaewaXfdpHasS55qPrg,Chapter 178 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,3,-16.37,1,0.93,0.79,0,0.14,0.58,109.79,4,3.04,1/1/1924,['unknown']
+4Me4952TKEvlgYUneQfAIi,Chapter 181 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.36,3,-16.6,1,0.94,0.69,0,0.18,0.38,78.29,3,3.04,1/1/1924,['unknown']
+4N3kXRigvFadWNy6Tq7ayJ,En La Vida Hay Un Corazón - Remasterizado,0,0,Francisco Canaro,0.38,0.32,4,-15.54,1,0.04,1,0.87,0.17,0.91,163.39,4,2.82,7/12/1924,"['tango', 'vintage tango']"
+4NqNgol74QVBvhrM3GQpNE,Chapter 50 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.65,0.27,10,-16.28,1,0.93,0.67,0,0.18,0.35,85.51,3,3.09,1/1/1924,['unknown']
+4O5LTgyHx7ImAZWjk0VhAS,Chapter 159 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.34,3,-16.36,1,0.94,0.74,0,0.15,0.4,145.26,3,3.06,1/1/1924,['unknown']
+4PCe4yiRiqJYa0QepU69Bg,Chapter 46 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.28,6,-16.27,0,0.94,0.73,0,0.12,0.48,85,3,3.05,1/1/1924,['unknown']
+4TuFMDzGgPrDEmXwZbGChX,Melancolica Casita - Remasterizado,0,0,Ignacio Corsini,0.6,0.11,4,-24.69,1,0.16,1,0.9,0.12,0.69,65.46,4,2.6,3/29/1924,"['tango', 'vintage tango']"
+4U6AcKBTdp67QToRpDHHb9,China De Mi Amor - Remasterizado,0,0,Francisco Canaro,0.75,0.23,2,-15.84,1,0.08,1,0.96,0.14,0.74,115.36,3,2.34,7/11/1924,"['tango', 'vintage tango']"
+4VWHa98tUuBa0hOiTd3PJX,Chapter 91 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,10,-16.4,1,0.93,0.71,0,0.12,0.32,128.6,3,3.05,1/1/1924,['unknown']
+4WCyVKG1IfkbA382qCnCiR,Chapter 25 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,6,-16.41,0,0.92,0.61,0,0.14,0.39,114.28,4,3.06,1/1/1924,['unknown']
+4WdaiZK4fMflUP8ruEYH8l,Il Picolo Navio - Remasterizado,0,0,Francisco Canaro,0.73,0.23,1,-15.86,0,0.26,1,0.97,0.15,0.38,124.52,4,3.02,7/11/1924,"['tango', 'vintage tango']"
+4YH89e5hyfAel9AAN97rvN,Sally Lou,0,0,George Olsen,0.62,0.28,10,-16.01,1,0.04,0.99,0.45,0.09,0.53,103.76,4,3.39,1/1/1924,['vintage jazz']
+4YfWI7qpMf6Gf2nuJ6bfvV,Chapter 175 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.3,7,-16.39,0,0.9,0.7,0,0.2,0.38,117.03,4,3.12,1/1/1924,['unknown']
+4ZdYc7SqNZdjlDVz19VTTc,Chapter 79 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.23,7,-16.21,1,0.92,0.7,0,0.13,0.53,112.95,3,3.1,1/1/1924,['unknown']
+4aFvWylWdV4h8UwA2md798,Chapter 68 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.74,0.32,3,-16.09,1,0.93,0.76,0,0.27,0.59,128.96,1,3.05,1/1/1924,['unknown']
+4d11yyBj4zpmn2qm9KkkGH,Chapter 27 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.29,0,-16.25,0,0.94,0.8,0,0.12,0.52,101.54,4,3.06,1/1/1924,['unknown']
+4dUqfGfR1B5ZtNjaQmx7Mh,Chapter 149 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.34,0,-16.19,0,0.95,0.72,0,0.1,0.3,187.3,5,3.09,1/1/1924,['unknown']
+4dcTHUdEVQ356xLBBDGU0R,Chapter 1 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.35,0,-16.32,0,0.92,0.7,0,0.08,0.29,125.96,1,3.11,1/1/1924,['unknown']
+4dt5WHOYaQ8lEWqe9fxYMD,Chapter 15 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.32,3,-16.33,1,0.89,0.63,0,0.12,0.35,91.6,3,3.02,1/1/1924,['unknown']
+4eNQvjOAqygtLY4i28x17x,Stompin' At The Savoy - Mix Two,0,0,Lionel Hampton Orchestra,0.55,0.57,1,-10.01,1,0.03,0.95,0.36,0.2,0.5,135.52,4,6.04,1/1/1924,['unknown']
+4eTrXVeB8bQza6nYQuxiae,Un Metejón - Remasterizado,0,0,Francisco Canaro,0.46,0.29,7,-12.44,1,0.19,1,0.92,0.16,0.41,95.47,4,2.27,7/12/1924,"['tango', 'vintage tango']"
+4eUhQQ9pm7ORojM5da5I49,Chapter 80 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.34,0,-16.38,0,0.95,0.7,0,0.11,0.36,172.53,5,3.05,1/1/1924,['unknown']
+4efFouyaDRKuBHlpZDQdgr,Chapter 201 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,6,-16.36,0,0.94,0.73,0,0.13,0.45,89.57,3,3.06,1/1/1924,['unknown']
+4fsYspmSsMdX5lixH2B8Rs,Follow The Swallow,0,0,George Olsen,0.71,0.31,3,-13.29,1,0.04,0.99,0.92,0.2,0.78,106.58,4,2.86,1/1/1924,['vintage jazz']
+4g4UXXZXrlGxdrXisWRTYo,La Chanson Du Trombone,0,0,Fortugé,0.53,0.15,10,-16.07,0,0.07,1,0,0.38,0.48,81.29,4,3.13,1/1/1924,['vintage chanson']
+4ifAGBehvPEFca3iz1qjtA,Chapter 186 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.34,3,-16.29,1,0.92,0.63,0,0.13,0.41,116.03,5,3.06,1/1/1924,['unknown']
+4iqFrPWMWUxQyxGmb6l3d0,Chapter 158 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,0,-16.37,0,0.92,0.7,0,0.16,0.28,117.39,4,3.14,1/1/1924,['unknown']
+4je5124MECcn9sTfSiHFQc,Chapter 10 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.31,10,-16.58,1,0.93,0.6,0,0.13,0.51,167.03,5,3.03,1/1/1924,['unknown']
+4kxOVh9NSZOmjxxW35jm2E,Chapter 115 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.75,0.27,3,-16.15,1,0.94,0.75,0,0.16,0.4,109.09,3,3.18,1/1/1924,['unknown']
+4lLW0r5gZU5nRgucdgMvOS,Chapter 211 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,0,-16.37,0,0.94,0.76,0,0.14,0.41,126.89,4,3.08,1/1/1924,['unknown']
+4lhpA6kQFKpt0AMrIR2Thv,Chapter 153 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.31,0,-16.53,0,0.96,0.72,0,0.09,0.39,170.42,3,3.09,1/1/1924,['unknown']
+4ltnhOLm5o612B902ti2TV,Les Larmes De Pierrot,0,0,Robert Marino,0.33,0.27,2,-15.23,1,0.04,0.98,0,0.19,0.54,93.17,4,3.2,1/1/1924,['unknown']
+4lwzPjx1blV6uaPLsduFTc,Asaura - Remasterizado,0,0,Francisco Canaro,0.55,0.44,9,-16.68,1,0.08,1,0.94,0.18,0.83,121.01,4,3.09,7/11/1924,"['tango', 'vintage tango']"
+4mLDZgVosOy0ZharLlerK0,El Pato Alegre - Remasterizado,0,0,Ignacio Corsini,0.33,0.17,10,-27.04,0,0.06,0.99,0.4,0.15,0.49,64.45,4,2.84,3/29/1924,"['tango', 'vintage tango']"
+4mpd96iDZIhJaeUvuTOTCD,Chapter 102 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,3,-16.29,1,0.93,0.79,0,0.15,0.48,130.19,3,3.12,1/1/1924,['unknown']
+4nypQvhAE4uu8qtZENUyMc,Chapter 88 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.28,7,-16.4,0,0.93,0.7,0,0.14,0.51,129.94,3,3.03,1/1/1924,['unknown']
+4ovMZ1WtnzRu3DVXBSU9Mz,Chapter 138 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.29,3,-16.22,1,0.92,0.74,0,0.14,0.36,128.45,1,3.06,1/1/1924,['unknown']
+4q8n9V70MrUB44nHFGd5o0,Chapter 206 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.29,2,-16.43,1,0.95,0.76,0,0.13,0.41,71.69,1,3.04,1/1/1924,['unknown']
+4qptEXkP33l3ZhOAwMXeB0,Chapter 151 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,7,-16.17,0,0.93,0.81,0,0.19,0.55,106.9,3,3.07,1/1/1924,['unknown']
+4sEib071ke1l1UkFj0SXlg,Chapter 20 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,10,-16.69,1,0.94,0.63,0,0.19,0.37,167.4,5,3.09,1/1/1924,['unknown']
+4sl78rkBbY1kj2bY8KIjsZ,Chapter 4 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.66,0.28,3,-16.54,1,0.94,0.63,0,0.12,0.43,91.99,3,3.05,1/1/1924,['unknown']
+4spiFKVnqRUNBi06fdAqBY,Chapter 89 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,0,-16.46,0,0.93,0.73,0,0.1,0.36,127.24,3,3.08,1/1/1924,['unknown']
+4srXADiC1aeEWPg8IcDfff,El Rocío - Remasterizado,0,0,Francisco Canaro,0.5,0.49,11,-16.74,1,0.12,1,0.93,0.15,0.8,122.22,4,2.98,7/11/1924,"['tango', 'vintage tango']"
+4tEjfjJO5JdrDvbuCcIasm,Chapter 118 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.33,3,-16.53,1,0.95,0.78,0,0.26,0.48,83.36,4,3.04,1/1/1924,['unknown']
+4uyJLMUhi97GdzJ6iUY0AG,Chapter 85 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,0,-16.32,0,0.94,0.72,0,0.14,0.51,78.91,4,3.04,1/1/1924,['unknown']
+4vLc0mWLQ8S8T6XR5Us97h,Those Panama Mamas - Are Ruining Me,0,0,George Olsen,0.75,0.32,4,-13.68,0,0.05,1,0.86,0.09,0.88,105.5,4,3.35,1/1/1924,['vintage jazz']
+4xzJ05vMHNLfkjQp9w0xib,Chapter 192 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.35,0,-16.41,0,0.94,0.67,0,0.15,0.3,142.79,5,3.05,1/1/1924,['unknown']
+4ydmCMawQQXpQorx0olYq8,Chapter 9 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.5,0,0.93,0.63,0,0.35,0.43,164.22,3,3.07,1/1/1924,['unknown']
+4zuSkKlnNPCq7Bflx7JMQG,Le Trompette En Bois,0,0,Georges Milton,0.75,0.29,2,-16.04,1,0.1,0.99,0,0.22,0.76,65.83,4,3.06,1/1/1924,['vintage chanson']
+503XlfLtlqdQhIu9WJK4zo,Sax-O-Phun,0,0,George Olsen,0.68,0.46,10,-15.78,1,0.04,1,0.8,0.16,0.96,104.68,4,2.86,1/1/1924,['vintage jazz']
+51jylcWvL25n9J6tcPFdMu,Chapter 214 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.28,3,-16.3,1,0.95,0.73,0,0.16,0.43,164.93,5,3.97,1/1/1924,['unknown']
+53S2MU9AZtdPhAmAtxYdAf,Reflejos - Remasterizado,0,0,Francisco Canaro,0.33,0.31,6,-15.86,1,0.07,1,0.97,0.15,0.57,168.44,3,3.22,7/11/1924,"['tango', 'vintage tango']"
+56SkGjR9NnLjibiUEz9Gf4,Chapter 83 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.27,0,-16.36,0,0.95,0.74,0,0.12,0.36,190.99,3,3.04,1/1/1924,['unknown']
+58yxwImcolz0UxiBnXiU7o,Amigazo - Remasterizado,0,0,Francisco Canaro,0.59,0.54,4,-9.45,1,0.07,1,0.9,0.32,0.68,115.43,4,2.96,7/12/1924,"['tango', 'vintage tango']"
+5AaoGLPAE3gNEdr7DAWyDe,The Slave Of Love,0,0,George Olsen,0.73,0.32,0,-12.07,1,0.04,1,0.76,0.14,0.76,104.67,4,2.84,1/1/1924,['vintage jazz']
+5Aoo2k89qhCPOriW0FPTE3,Chapter 140 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.32,0,-16.49,0,0.93,0.57,0,0.13,0.37,132.93,5,3.01,1/1/1924,['unknown']
+5DY0YME4e6HZ9QGMYGHfmM,Chapter 40 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.74,0.32,3,-16.66,1,0.92,0.74,0,0.31,0.42,115.74,5,3.04,1/1/1924,['unknown']
+5GHzONOO44agKZ0D1sUIoL,La Maldita - Remasterizado,0,0,Francisco Canaro,0.57,0.52,7,-10.12,1,0.1,1,0.95,0.13,0.44,127.61,4,2.61,7/12/1924,"['tango', 'vintage tango']"
+5Gnxn4mW2WGUYhiUAbM1hD,Chapter 143 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.35,3,-16.27,1,0.94,0.71,0,0.18,0.38,86.67,4,3.08,1/1/1924,['unknown']
+5H5BWIwlrKkWzx86VfGcuU,At The Codfish Ball,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.54,0.36,0,-10.06,1,0.05,0.86,0,0.08,0.79,158.53,4,2.59,1/1/1924,['unknown']
+5HrVPZAMDLW3qs0TNt6Wdv,Martín Fierro - Remasterizado,0,0,Ignacio Corsini,0.55,0.3,8,-21.33,1,0.05,0.99,0.9,0.11,0.83,83,3,2.72,3/29/1924,"['tango', 'vintage tango']"
+5IO4UbhRB6NKME2WHUgHN1,Maullidos - Remasterizado,0,0,Ignacio Corsini,0.46,0.59,0,-18.78,1,0.49,0.99,0.97,0.68,0.76,67.36,4,1.62,3/29/1924,"['tango', 'vintage tango']"
+5ItArcz1C4oLqsP0ynX0X0,Entre Rejas - Remasterizado,0,0,Francisco Canaro,0.26,0.52,3,-12.61,0,0.07,1,0.97,0.3,0.8,74.96,3,2.82,7/12/1924,"['tango', 'vintage tango']"
+5IuSiHLUKKDzf1nTpdYjN0,Alfredo - Remasterizado,0,0,Francisco Canaro,0.62,0.32,11,-14.64,0,0.04,1,0.96,0.31,0.69,118.54,4,2.87,7/12/1924,"['tango', 'vintage tango']"
+5JHebWyrUzXXLGNCn1vVR4,Omon Kore Ma Tor Haasi,0,0,Bijoylal Mukherjee,0.35,0.34,0,-14.34,1,0.04,1,0,0.59,0.6,92.24,4,2.89,12/31/1924,['unknown']
+5K6eShQXgL65FitgXDl7sp,Madame Pompadour - Remasterizado,0,0,Francisco Canaro,0.54,0.28,6,-16.06,1,0.08,1,0.95,0.36,0.62,149.03,4,2.14,7/11/1924,"['tango', 'vintage tango']"
+5L4O8EOyMaeCeWz9X500Dm,Mi Noche Alegre - Remasterizado,0,0,Francisco Canaro,0.51,0.3,2,-15.49,1,0.25,1,0.9,0.16,0.55,116.57,4,2.86,7/12/1924,"['tango', 'vintage tango']"
+5LVUPI3vPbKEGgFHgJEDut,Chapter 64 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.3,3,-16.3,1,0.92,0.66,0,0.2,0.36,117.4,4,3.08,1/1/1924,['unknown']
+5Niqbksge2gMU0VvcqJEiS,Chapter 204 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.3,2,-16.24,1,0.94,0.71,0,0.15,0.5,169.84,5,3.12,1/1/1924,['unknown']
+5P6rLF53DKfDZElPgZrBF7,Birth Of The Blues,0,0,Lionel Hampton Orchestra,0.56,0.6,10,-11.48,1,0.03,0.94,0.88,0.09,0.55,116.59,4,5.38,1/1/1924,['unknown']
+5PnoWOpiLKfTxnbTzP4pH9,Sombras - Remasterizado,0,0,Ignacio Corsini,0.51,0.26,2,-14.13,1,0.07,1,0.96,0.46,0.68,125.76,4,2.33,3/29/1924,"['tango', 'vintage tango']"
+5R4vvUXYIn9tFoi68GsYwW,Sugar Plum,0,0,Teddy Wilson & His All-Stars,0.77,0.39,0,-12.19,1,0.06,0.61,0.03,0.14,0.8,93.97,4,2.98,1/1/1924,['unknown']
+5RWtrUpBGIVLErhXO9417v,Chapter 129 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.33,3,-16.33,1,0.93,0.74,0,0.27,0.49,134.15,3,3.04,1/1/1924,['unknown']
+5Ttpn4P7ql0sngI017fLq9,Chapter 1.6 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.62,0.22,0,-19.8,0,0.97,0.7,0,0.37,0.26,72.52,3,3.66,12/27/1924,['unknown']
+5UjWGG0oemoaTjDgiWTT1h,Chapter 77 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,0,-16.34,0,0.93,0.74,0,0.12,0.37,110.8,5,3.04,1/1/1924,['unknown']
+5Wssqsh3UrRQKX49MYyG1c,Chapter 190 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.33,10,-16.36,1,0.94,0.72,0,0.21,0.42,79.87,3,3.13,1/1/1924,['unknown']
+5YuoLewkCDlBUbY2fhWEj5,Chapter 26 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.3,0,0.95,0.81,0,0.14,0.33,166.94,4,3.07,1/1/1924,['unknown']
+5Z8nmwGiVtTq99tMAwkGow,Chapter 86 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.27,0,-16.33,0,0.95,0.74,0,0.11,0.5,173.14,4,3.16,1/1/1924,['unknown']
+5ab7VUgTYMtn0WYxfiVw7K,I'Ve Got A Feeling I'M Falling,2,0,Lionel Hampton Orchestra,0.48,0.39,3,-12.31,1,0.03,0.99,0.92,0.83,0.46,91.56,4,3.18,1/1/1924,['unknown']
+5b3iR4O4XmhdO5ersGGMVf,Time Ain'T Gonna Make Me Stay,0,0,Ed Andrews,0.45,0.34,7,-8.76,1,0.03,0.99,0,0.2,0.57,158.19,4,2.75,1/12/1924,['pre-war blues']
+5bBLHhJzqqNqEX184N4pQp,He'S The Hottest Man In Town,0,0,George Olsen,0.69,0.43,10,-13.52,1,0.04,0.99,0.84,0.25,0.76,105.23,4,3.03,1/1/1924,['vintage jazz']
+5cyBTDPgpSoXMfgojedWPh,Chapter 212 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.25,3,-16.43,1,0.93,0.66,0,0.12,0.39,108.72,3,3.1,1/1/1924,['unknown']
+5d3ENHlcOkdt4CPxktrZN4,Chapter 1.4 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.78,0.21,8,-20.19,0,0.94,0.65,0,0.1,0.26,118.67,3,3.3,12/27/1924,['unknown']
+5dyaqbTGuH7Wpfi9Zzz1XD,Chapter 128 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,9,-16.52,1,0.95,0.74,0,0.14,0.36,79.96,4,3.27,1/1/1924,['unknown']
+5eHqeM6dI4W30vqE1f7Ocy,El Matrero - Remasterizado,0,0,Francisco Canaro,0.74,0.32,9,-14.52,1,0.05,1,0.91,0.51,0.92,112.05,4,2.92,7/12/1924,"['tango', 'vintage tango']"
+5geFQ5VHVdDwR5ciwqhjMB,Chapter 54 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.31,3,-16.24,1,0.94,0.75,0,0.16,0.55,85.25,4,3.11,1/1/1924,['unknown']
+5gebIAQPfKYmZy7DONRPry,Chapter 49 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,0,-16.39,0,0.91,0.67,0,0.31,0.42,125.65,4,3.04,1/1/1924,['unknown']
+5hGmr6KQWzcCGdTYxf4P4S,Stompin' At The Savoy - Mix One,0,0,Lionel Hampton Orchestra,0.74,0.8,1,-5.12,1,0.04,0.92,0.58,0.26,0.84,112.84,4,3.21,1/1/1924,['unknown']
+5hKoJAuCgukMBXd0W9ZdVt,Ca N'Est Pas La Même Chose,0,0,Maurice Chevalier,0.48,0.15,0,-16.18,1,0.05,1,0,0.39,0.7,86.45,4,2.32,1/1/1924,"['cabaret', 'vintage hollywood']"
+5hoLIJF3clip0VplseKOyG,You'Re My Ideal,0,0,Lionel Hampton Orchestra,0.76,0.35,9,-12.79,0,0.07,0.73,0,0.09,0.78,113.98,4,3.26,1/1/1924,['unknown']
+5icxP1uv1JMz87JGEpIcHy,Chapter 125 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,3,-16.37,1,0.92,0.72,0,0.11,0.31,115.12,5,3.09,1/1/1924,['unknown']
+5ixjL1GSioVd8lGNkLwYDM,Say Arabella - What'S A Fella To Do,0,0,George Olsen,0.78,0.38,7,-12.08,1,0.04,0.98,0.43,0.09,0.96,107.46,4,2.94,1/1/1924,['vintage jazz']
+5jVl7lFp2QAW3U627qzmpe,Chapter 44 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.23,3,-16.52,1,0.92,0.69,0,0.09,0.51,128.98,5,3.13,1/1/1924,['unknown']
+5kSeMwoKtS12E5CM2nKva0,Llanto De Amor - Remasterizado,0,0,Francisco Canaro,0.42,0.44,10,-12.38,0,0.04,1,0.91,0.79,0.73,72.05,4,2.86,7/12/1924,"['tango', 'vintage tango']"
+5kgUhsCxWKTIl9HitccHTw,Button Up Your Overcoat,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.52,0.38,5,-11.15,1,0.05,0.81,0.02,0.2,0.86,184.81,4,3.47,1/1/1924,['unknown']
+5moL6Ktb31FOxHgpY6PaLz,Chapter 11 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.29,0,-16.7,0,0.95,0.74,0,0.17,0.34,85.16,3,3.05,1/1/1924,['unknown']
+5nEG47pZrOxPo2HQLxnOFn,Beale Street Blues,0,0,George Olsen,0.6,0.41,3,-11.63,1,0.07,0.99,0.26,0.09,0.92,200.9,4,3.1,1/1/1924,['vintage jazz']
+5oK7hYOkBEkXz9d9lumSGd,Cascabelito - Remasterizado,0,0,Francisco Canaro,0.65,0.21,0,-16.29,0,0.07,1,0.86,0.22,0.55,123.96,4,2.82,7/11/1924,"['tango', 'vintage tango']"
+5pxZkT5e2TDtFBwFRtSB5D,Mr. J,0,0,Lionel Hampton Orchestra,0.48,0.45,7,-15.05,1,0.04,0.02,0.04,0.42,0.4,83.29,4,6.26,1/1/1924,['unknown']
+5qiMukJ4wsWaZi0pmOP4fk,Chapter 34 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.3,0,-16.24,0,0.93,0.75,0,0.2,0.4,127.76,3,3.12,1/1/1924,['unknown']
+5s2VVNwEltPwmwFzl2d9sR,Chapter 139 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.34,0,-16.63,0,0.89,0.58,0,0.32,0.41,134.18,5,3.02,1/1/1924,['unknown']
+5tQsQaMquCXBREb1FNymi7,Oh Mujer Mujer - Remasterizado,0,0,Francisco Canaro,0,0.32,8,-15.97,0,0,1,0.96,0.38,0,0,0,2.84,7/12/1924,"['tango', 'vintage tango']"
+5tqBa2U9oKGIogbeXMsRUp,"Tell Me, Tell Me, Baby",0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.73,0.39,0,-11.02,1,0.03,0.76,0.13,0.27,0.72,126.44,4,4.01,1/1/1924,['unknown']
+5ueP4rBp0ztVVIh3f8zcI4,Chapter 111 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.32,0,-16.56,0,0.94,0.74,0,0.21,0.33,159.69,5,3.13,1/1/1924,['unknown']
+5v4GREJgz2A4IIsDAh6Xv1,"Oh, Lady Be Good! (78Rpm Version)",0,0,"Jones-Smith, Incorporated",0.77,0.24,7,-13.8,1,0.07,0.9,0.07,0.1,0.73,93.57,4,3.11,1/1/1924,['unknown']
+5vXmASrWHVxT7unmHugzq2,Chapter 194 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,3,-16.47,1,0.94,0.67,0,0.1,0.43,130,5,3.03,1/1/1924,['unknown']
+5xEaN9KWzxI7yodq5IChQB,Yo Tartamudeo - Remasterizado,0,0,Francisco Canaro,0.48,0.36,7,-14.95,1,0.22,1,0.94,0.23,0.62,174.23,4,2.76,7/11/1924,"['tango', 'vintage tango']"
+5z4JJvKN0I5GjXE1IgSEj0,Chapter 93 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.27,6,-16.1,0,0.94,0.79,0,0.18,0.56,84.09,4,3.02,1/1/1924,['unknown']
+5zqB3ZuyR0lbDJJmGX4o7o,Chapter 169 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.33,0,-16.84,0,0.92,0.55,0,0.1,0.45,190.78,1,3.01,1/1/1924,['unknown']
+61tPk9oU7n4Z0nqcIf7vQg,Why Couldn'T It Be Poor Little Me,0,0,George Olsen,0.4,0.24,0,-16.48,1,0.05,1,0.81,0.08,0.74,210.42,4,2.94,1/1/1924,['vintage jazz']
+623lwOiet2TWD3kvmRHZxz,Chapter 29 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.29,0,-16.65,0,0.95,0.72,0,0.36,0.45,170.16,4,3.06,1/1/1924,['unknown']
+62iSxXOvjCAAZO0uaQE00r,Par Politesse,0,0,Georgius,0.53,0.33,8,-15.13,1,0.3,0.99,0,0.12,0.75,79.84,4,3.52,1/1/1924,['vintage chanson']
+633pI004Sj1MzvGt0xazcy,Everybody Loves My Baby - But My Baby Don'T Love Nobody But Me,0,0,George Olsen,0.62,0.28,0,-14.33,0,0.06,1,0.87,0.17,0.65,176.78,4,3.08,1/1/1924,['vintage jazz']
+63e0HazPIObF23Xid4fhJ1,Chapter 165 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,3,-16.48,1,0.92,0.71,0,0.36,0.36,125.23,4,3.08,1/1/1924,['unknown']
+64h41YaZ3c4PzF2bwxXMx7,Chapter 154 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,3,-15.98,1,0.95,0.71,0,0.08,0.42,132.14,4,3.03,1/1/1924,['unknown']
+68zXxd7jJBOnoNzUDSXN17,Chapter 199 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.27,10,-16.66,1,0.93,0.72,0,0.11,0.51,90.63,4,3.05,1/1/1924,['unknown']
+693026zJdM7qLpwGAcAloy,Para Usted Mi Nenita - Remasterizado,0,0,Francisco Canaro,0.39,0.38,9,-16.5,1,0.04,1,0.9,0.77,0.69,83.21,4,2.54,7/12/1924,"['tango', 'vintage tango']"
+6BqGRSPdHkvRJ5XcRGfflf,Put Away A Little Ray Of Golden Sunshine,0,0,George Olsen,0.43,0.22,5,-16.41,1,0.04,1,0.91,0.12,0.67,208.92,4,3.09,1/1/1924,['vintage jazz']
+6CTMrZvUsc3k3xm8oKXXQH,Evocación - Remasterizado,0,0,Francisco Canaro,0.38,0.46,10,-19.28,1,0.34,1,0.91,0.16,0.57,124.5,4,2.82,7/11/1924,"['tango', 'vintage tango']"
+6CZqlwn0fbIc3qAMX0wi25,Chapter 170 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.28,0,-16.8,0,0.95,0.63,0,0.3,0.4,170.55,1,3.04,1/1/1924,['unknown']
+6CoHHJZmD4BLsk5C09U69n,Chapter 51 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.31,10,-16.47,1,0.92,0.64,0,0.12,0.38,95.32,3,3.06,1/1/1924,['unknown']
+6Dq7ddJu9pBjpg8foOFhAr,Chapter 191 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.36,10,-16.31,1,0.92,0.61,0,0.15,0.33,140.94,4,3.03,1/1/1924,['unknown']
+6H1ExQ58rLN1aPphwwY0DF,Chapter 65 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.73,0.33,10,-16.46,1,0.95,0.66,0,0.25,0.36,77.63,3,3.04,1/1/1924,['unknown']
+6HX0QJiKsDUAb9QzH4EVs0,Oh Mujer Mujer - Remasterizado,0,0,Ignacio Corsini,0.31,0.08,10,-27.58,0,0.05,1,0.96,0.14,0.58,201.03,4,2.87,3/29/1924,"['tango', 'vintage tango']"
+6MgYLWj2GiR1BeeFylF2ss,Chapter 33 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.28,3,-16.12,1,0.93,0.72,0,0.15,0.39,132.73,5,3.05,1/1/1924,['unknown']
+6MjPdnzGLkWKaTcrJ0tjY9,Chapter 63 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.32,3,-16.19,1,0.92,0.71,0,0.1,0.46,113.37,5,3.15,1/1/1924,['unknown']
+6OlnIrsPk9qv1hFLBtrXRb,Moten Swing,0,0,Count Basie,0.52,0.27,8,-14.62,1,0.11,0.97,0.82,0.12,0.56,183.76,3,2.35,1/1/1924,"['adult standards', 'big band', 'cool jazz', 'harlem renaissance', 'jazz', 'jazz piano', 'lounge', 'stride', 'swing', 'vocal jazz']"
+6PbySTGoT2r5YIa8W4bLUW,Chapter 196 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.31,10,-16.32,1,0.92,0.67,0,0.1,0.43,125.62,3,3.03,1/1/1924,['unknown']
+6Po2YeMVr5Ee23OZoY9RgZ,Todo Corazón - Remasterizado,0,0,Francisco Canaro,0.43,0.26,4,-14.62,1,0.06,1,0.92,0.38,0.59,118.36,4,2.6,7/12/1924,"['tango', 'vintage tango']"
+6SJEjLR19BlLNBxIJVX5zX,Talan Talan - Remasterizado,0,0,Francisco Canaro,0.74,0.21,11,-17.14,0,0.08,1,0.94,0.33,0.48,117.43,4,2.89,7/11/1924,"['tango', 'vintage tango']"
+6U7X6rtxqIxdh2F9ScqIOI,La Diana - Remasterizado,0,0,Francisco Canaro,0.41,0.45,8,-14.07,1,0.25,1,0.97,0.36,0.7,72.51,4,2.93,7/12/1924,"['tango', 'vintage tango']"
+6VweawuAyN9Ad9ikn9f5W3,Shangai Bay - Remasterizado,0,0,Ignacio Corsini,0,0.08,6,-24.27,1,0,1,0.89,0.12,0,0,0,2.15,3/29/1924,"['tango', 'vintage tango']"
+6WHzMBvPZOOEbgnRl9vycj,Chapter 82 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.29,10,-16.23,0,0.94,0.75,0,0.13,0.46,104.57,3,3.11,1/1/1924,['unknown']
+6Z34IawMX8JAxhv5XUmUul,Chapter 35 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.26,3,-16.55,1,0.94,0.69,0,0.16,0.35,131.81,5,3.12,1/1/1924,['unknown']
+6ZKVd3Cr0IEB484BJcRFDz,Chapter 60 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.28,3,-16.01,1,0.92,0.81,0,0.14,0.65,113.74,5,3.06,1/1/1924,['unknown']
+6ZbWjYOpOwzsO5K4agwtU0,Chapter 71 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.32,0,-16.36,0,0.96,0.67,0,0.21,0.39,189.42,4,3.03,1/1/1924,['unknown']
+6a58gXSgqbIsXUhVZ6ZJqe,La Belote,0,0,Mistinguett,0.65,0.3,9,-13.81,1,0.14,0.99,0,0.37,0.84,75.95,4,2.8,1/1/1924,['vintage chanson']
+6aQeKAkwLkcdBkEUBS7eXU,Chapter 172 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.3,0,-16.3,0,0.94,0.69,0,0.11,0.32,136.82,3,3.08,1/1/1924,['unknown']
+6aadEnciPMjhtgSu1nuVt5,Chapter 106 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,3,-16.73,1,0.94,0.62,0,0.13,0.39,136.53,3,3.09,1/1/1924,['unknown']
+6bEL4Zfy5Ivsc1b0qoxEnc,East St. Louis Toodle-Oo,0,0,Duke Ellington & His Washingtonians,0.65,0.41,0,-9.5,0,0.11,0.99,0.88,0.14,0.7,156.32,4,3.06,1/1/1924,['unknown']
+6bRBIrJaTgSZUNFfaiczPt,Chapter 187 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.61,0.35,6,-16.33,0,0.93,0.63,0,0.11,0.35,79.97,1,3.05,1/1/1924,['unknown']
+6chy6jsXy1CVdTeNTqhQkC,Caricias - Remasterizado,0,0,Francisco Canaro,0.48,0.26,0,-15.5,1,0.07,1,0.94,0.27,0.63,117.57,4,2.92,7/12/1924,"['tango', 'vintage tango']"
+6cnXo1yNldoXghTkWSshkW,En Concreto,0,1,Hot Doggo,0.74,0.79,7,-7.27,1,0.18,0.38,0,0.12,0.66,90.04,4,3.09,3/3/1924,['unknown']
+6dY5Cg8HhrRb7H6hFLYCnd,The House Is Haunted,0,0,"The Chenille Sisters, ""James Dapognys Chicago Jazz Band""",0.45,0.11,2,-13.24,0,0.05,0.76,0,0.07,0.16,77.3,4,5.29,1/1/1924,['unknown']
+6e3mSrv61CsnHJ361Cp2ZR,Chapter 127 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.29,3,-16.35,1,0.92,0.74,0,0.16,0.43,122.93,1,3.1,1/1/1924,['unknown']
+6fQMnEw6U3aWlyXWnwAnEp,Chapter 37 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.28,9,-16.44,1,0.94,0.7,0,0.12,0.43,78.46,3,3.07,1/1/1924,['unknown']
+6gICkU5OlsOjaBUfGG1Z7T,Chapter 1.5 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.71,0.23,0,-19.7,1,0.94,0.77,0,0.11,0.3,109.63,3,2.46,12/27/1924,['unknown']
+6gmjjvNlYCY6ohrOqNPa6O,Chapter 78 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.34,0,-16.71,0,0.88,0.69,0,0.12,0.37,126.87,3,3.03,1/1/1924,['unknown']
+6gpZjJhFGV8tHpHkjDLsT0,Chapter 145 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.31,0,-16.43,0,0.95,0.68,0,0.26,0.34,146.15,3,3.04,1/1/1924,['unknown']
+6hmm4KDA4jag5eE5zxpDb7,Ernestine Tu T'Obstines,0,0,Dranem,0.83,0.42,5,-14.61,1,0.07,0.99,0,0.12,0.95,122.8,4,2.26,1/1/1924,['vintage chanson']
+6hyvUBy23A2b1yFANwSIHy,La Farruca,0,0,Vicente Escudero,0.62,0.36,11,-13.36,0,0.1,0.61,0,0.05,0.72,159.46,4,2.49,1/1/1924,['unknown']
+6jAKLevlebV5JxLcNMVVfY,Buena Monta - Remasterizado,0,0,Francisco Canaro,0.49,0.35,10,-15.53,1,0.17,1,0.96,0.2,0.59,124.99,4,2.8,7/11/1924,"['tango', 'vintage tango']"
+6l0jvelozaYxNqYY0MQQlA,Chapter 94 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.29,3,-16.32,1,0.92,0.69,0,0.21,0.38,122.58,3,3.11,1/1/1924,['unknown']
+6l4x7j1Nd4fJy3pSe476xA,Chapter 195 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,0,-16.26,0,0.91,0.71,0,0.11,0.45,128.26,3,3.08,1/1/1924,['unknown']
+6m0F3FYJ2vg721S1teWbVe,Chapter 163 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.28,3,-16.26,1,0.95,0.75,0,0.13,0.42,169.28,3,3.05,1/1/1924,['unknown']
+6m1iAs1A3GepruWO4tuCu6,Row! Row! Rosie,0,0,George Olsen,0.81,0.27,10,-12.96,1,0.05,0.98,0.2,0.09,0.88,111.35,4,2.84,1/1/1924,['vintage jazz']
+6nTsOigDoDSxVWJiGMNWWH,Chapter 18 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.3,3,-16.33,1,0.94,0.67,0,0.16,0.38,97.28,3,3.03,1/1/1924,['unknown']
+6pGpa8iXbET5hgp6xqwaJO,Chapter 81 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.32,3,-16.46,1,0.89,0.64,0,0.13,0.34,114.72,4,3.03,1/1/1924,['unknown']
+6qOFVVfvDCdTv7YeXqcSKB,Chapter 21 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.74,0.32,10,-16.55,1,0.92,0.62,0,0.13,0.34,119.81,5,3.05,1/1/1924,['unknown']
+6r8c2fI19S61xEjYVvcOkx,Chapter 1.3 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.74,0.21,6,-18.66,1,0.96,0.79,0,0.11,0.24,77.55,3,2.21,12/27/1924,['unknown']
+6sVxCBvLSd9PZA7prJn53O,Oh Mademoiselle,0,0,Mistinguett,0.67,0.45,10,-14.39,1,0.28,0.99,0,0.32,0.85,121.61,4,2.64,1/1/1924,['vintage chanson']
+6sc0pygMoZREc5fW0FpIBm,Majestad - Remasterizado,0,0,Francisco Canaro,0.52,0.48,6,-14.68,1,0.03,1,0.94,0.46,0.82,80.6,4,3.03,7/12/1924,"['tango', 'vintage tango']"
+6sd2Up1lWL1hj5upW3uVhE,Slide Hamp Slide,0,0,Lionel Hampton Orchestra,0.47,0.9,11,-7.86,1,0.07,0.98,0.38,0.9,0.76,136.57,4,3.03,1/1/1924,['unknown']
+6tXToHEf1n2jO894VrY3de,A New Kind Of Man,0,0,George Olsen,0.43,0.34,10,-16.26,1,0.08,0.99,0.8,0.08,0.85,204.17,4,2.92,1/1/1924,['vintage jazz']
+6uzdHbddoIfStmVXjmvfEF,After You'Ve Gone,0,0,Lionel Hampton Orchestra,0.43,0.58,10,-11.09,1,0.06,0.95,0.7,0.23,0.58,147.84,4,3.61,1/1/1924,['unknown']
+6zdtMcHb08xZ0AzvLU5s0x,Les Ménétriers,2,0,Louis Lynel,0.52,0.3,2,-13.91,0,0.08,1,0,0.14,0.65,79.82,4,2.5,1/1/1924,['vintage chanson']
+71SJZvlWPTjRK359q0GURK,Mala - Remasterizado,0,0,Francisco Canaro,0.73,0.32,9,-12.38,0,0.06,1,0.9,0.32,0.73,120.93,4,3.05,7/12/1924,"['tango', 'vintage tango']"
+72vHDDvVVYiXvKUNVugHMB,Chapter 112 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.31,7,-16.6,0,0.94,0.69,0,0.14,0.35,136.08,3,3.12,1/1/1924,['unknown']
+72yeRMVK1oaTaWPRk6kKzm,Chapter 39 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.31,0,-16.79,0,0.95,0.66,0,0.16,0.4,168.13,3,3.03,1/1/1924,['unknown']
+74Ksfz9rsbP16lykqJ95sv,Chapter 135 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.34,7,-16.4,0,0.95,0.74,0,0.13,0.38,74.77,4,3.03,1/1/1924,['unknown']
+74QiggIytTMwMLliGFZvCR,Clotildita - Remasterizado,0,0,Francisco Canaro,0.65,0.24,5,-17.52,1,0.07,1,0.96,0.26,0.55,125.76,4,2.62,7/11/1924,"['tango', 'vintage tango']"
+75gHxSQjP4b9zUcKpWqbot,Chapter 1.2 - O Janku Wędrowniczku,0,0,Maria Konopnicka,0.71,0.19,8,-18.66,1,0.96,0.65,0,0.14,0.23,60.08,4,2.54,12/27/1924,['unknown']
+766YCrIoG5iTW3HVRkKw4I,Buena Suerte - Remasterizado,0,0,Francisco Canaro,0.61,0.62,3,-12.58,1,0.35,1,0.83,0.33,0.74,123.35,4,2.71,7/12/1924,"['tango', 'vintage tango']"
+77ajhy7aD2iuV2sPojfLTZ,"Rhapsody In Blue (Live At Pagliaccine Auditorium, Italy, 2010)",0,0,Raffaello Bellavista,0.34,0.21,9,-15.63,1,0.04,0.98,0.91,0.15,0.09,132.99,3,14.98,1/1/1924,['unknown']
+786mCoNVfaYITa5fNOSGvq,"Oh, Lady Be Good",0,0,Lionel Hampton Orchestra,0.46,0.71,0,-9.92,0,0.09,0.88,0.93,0.34,0.64,142.37,4,4.93,1/1/1924,['unknown']
+78VwgBQjfI7G4mdmF3RYvp,Idilio,0,0,Iván Rolón,0.44,0.02,7,-28,0,0.06,0.98,0.89,0.08,0.16,98.76,4,3.92,1/1/1924,['unknown']
+79Pcze9hN6lmfQ62fDfPSr,Chapter 76 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.28,0,-16.27,0,0.91,0.68,0,0.15,0.42,123.04,4,3.21,1/1/1924,['unknown']
+7ERoUEwmorKWhPVhaEAmnc,Chapter 36 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.31,0,-16.21,0,0.94,0.71,0,0.15,0.46,165.85,3,3.11,1/1/1924,['unknown']
+7Ea4dr8opQr4NIUGvgUriz,Chapter 110 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.3,0,-16.61,0,0.95,0.68,0,0.21,0.35,166.1,1,3.04,1/1/1924,['unknown']
+7GLSr23EmhRt0eYZFab4Z3,Chapter 48 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.29,10,-16.27,1,0.94,0.72,0,0.2,0.47,82.34,4,3.02,1/1/1924,['unknown']
+7HOe0BppJH63x8PuL9E23m,Chapter 131 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.32,0,-15.98,0,0.93,0.76,0,0.12,0.43,145.98,5,3.08,1/1/1924,['unknown']
+7JqEsyJDSlGjg95DDk1Q71,All Of Me,1,0,Billie Holiday,0.5,0.07,2,-14.25,0,0.04,0.98,0,0.18,0.4,105.5,5,3.02,1/1/1924,"['adult standards', 'harlem renaissance', 'jazz', 'jazz blues', 'lounge', 'soul', 'torch song', 'vocal jazz']"
+7JvDxZbyUSRxpKyLaejgrj,Chapter 113 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,0,-16.65,0,0.91,0.61,0,0.21,0.35,113.1,3,3.03,1/1/1924,['unknown']
+7bDuuczwgapet6ROVsN062,My Best Girl,0,0,George Olsen,0.76,0.34,5,-12.93,0,0.04,0.99,0.93,0.1,0.76,108.25,4,2.9,1/1/1924,['vintage jazz']
+7bNiR3ub3izOimlqNYM6EE,Chapter 57 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.7,0.3,0,-16.52,0,0.95,0.75,0,0.14,0.33,86.64,3,3.3,1/1/1924,['unknown']
+7bYdh9vIhyvnoK7eFWmR6V,La Sultana - Remasterizado,0,0,Francisco Canaro,0.39,0.3,10,-14.4,1,0.09,1,0.97,0.16,0.68,182.09,4,2.64,7/11/1924,"['tango', 'vintage tango']"
+7cE2k9SwOTEKmTt6fwuGcn,Chapter 30 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.32,0,-16.98,0,0.94,0.65,0,0.11,0.35,147.61,4,3.09,1/1/1924,['unknown']
+7d2mg4oEdvv3cF0eY9xlo1,Cabecita Plateada - Remasterizado,0,0,Ignacio Corsini,0.51,0.12,0,-21.2,0,0.09,1,0.92,0.24,0.68,120.63,4,3.06,3/29/1924,"['tango', 'vintage tango']"
+7dmQ8xK59vGENwrHEYRbUU,Chapter 160 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.29,3,-16.22,1,0.94,0.78,0,0.12,0.52,80.93,4,3.04,1/1/1924,['unknown']
+7ej62WadX9m2WE4j3M6z2C,Tut-Ankh-Amon - Remasterizado,0,0,Francisco Canaro,0.56,0.43,8,-16.49,1,0.07,1,0.94,0.17,0.75,83.61,4,2.39,7/11/1924,"['tango', 'vintage tango']"
+7fDMK8wNY7WkAV66DFuidN,Chapter 43 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.63,0.32,0,-16.53,0,0.95,0.72,0,0.43,0.45,166.53,4,3.05,1/1/1924,['unknown']
+7fe6pydXnMpUkJq8kcRXpZ,Chapter 72 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.31,3,-16.28,1,0.94,0.65,0,0.13,0.41,79.67,1,3.02,1/1/1924,['unknown']
+7h2CmRfijYT4szujvhp1wR,Chapter 116 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.29,0,-16.43,0,0.94,0.73,0,0.33,0.49,136.33,5,3.03,1/1/1924,['unknown']
+7h6wGSGoCEPxzWO1WWhOc3,A New Kind Of Man - With A New Kind Of Love,0,0,George Olsen,0.42,0.39,10,-12.86,1,0.06,0.99,0.77,0.07,0.88,205.64,4,2.9,1/1/1924,['vintage jazz']
+7heJNccjVnHxMfOxBgZe0d,Chapter 177 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,0,-16.38,0,0.92,0.73,0,0.1,0.41,125.4,5,3.05,1/1/1924,['unknown']
+7huRRw3dXOnjwLEsuVwoTP,Harvard Blues,0,0,Jimmy Rushing And His Orchestra,0.47,0.32,1,-12.4,1,0.03,0.54,0,0.06,0.64,99.26,4,3.14,1/1/1924,['unknown']
+7hvDp7Mv2tRTz5rpgtBzDH,Chapter 66 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.33,3,-16.56,1,0.95,0.66,0,0.32,0.39,172,5,3.06,1/1/1924,['unknown']
+7iSd5cEI6imdzIqPAYoxfb,Chapter 164 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.71,0.32,3,-16.34,1,0.92,0.77,0,0.12,0.54,129.51,3,3.08,1/1/1924,['unknown']
+7kFARA9UoWoc4UlPUSRZcG,Chapter 136 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.62,0.31,3,-16.18,1,0.94,0.78,0,0.11,0.49,79.77,3,3.04,1/1/1924,['unknown']
+7kIDTIcLMrh9djvypGXayM,La Plus Bath Des Javas,0,0,Georgius,0.65,0.45,0,-12.76,1,0.17,0.99,0,0.28,0.83,80.1,4,3.25,1/1/1924,['vintage chanson']
+7lc2R8qGJ6u9Z2SLONAXuf,Chapter 7 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.69,0.29,3,-16.18,1,0.94,0.78,0,0.14,0.54,101.74,3,3.1,1/1/1924,['unknown']
+7m3dJtIc9pmmWbJkle68ig,Grato Recuerdo - Remasterizado,0,0,Francisco Canaro,0.41,0.37,5,-14.54,1,0.1,1,0.97,0.39,0.48,118.29,4,2.69,7/11/1924,"['tango', 'vintage tango']"
+7mCX5q1uv37gUA3iueMXCP,Flying Home,0,0,Benny Goodman Sextet,0.71,0.38,8,-12.56,1,0.04,0.93,0.55,0.1,0.8,163.11,4,3.24,1/1/1924,"['bebop', 'big band', 'stride', 'swing']"
+7oe1N0iE6JdyqAc5OCRPji,Tuxedo Blues - Remastered,0,0,Daddy Stovepipe,0.67,0.35,4,-6.54,0,0.04,0.97,0.04,0.12,0.75,97.06,4,3.12,1/12/1924,"['harmonica blues', 'jug band']"
+7pSljYza5vKRmrxojVumk0,Swanee River,0,0,Lionel Hampton Orchestra,0.42,0.78,1,-11.26,0,0.44,0.99,0.94,0.62,0.74,165.52,4,4.25,1/1/1924,['unknown']
+7pzdYuv6F12QvND495JrQC,Sombras - Remasterizado,0,0,Francisco Canaro,0.31,0.35,10,-19.24,1,0.09,0.99,0.91,0.12,0.56,71.18,4,2.79,7/11/1924,"['tango', 'vintage tango']"
+7qTVM3w2hPU8TCxkbXpaYF,Chapter 185 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.64,0.35,10,-16.58,1,0.95,0.66,0,0.24,0.35,85.57,4,3.05,1/1/1924,['unknown']
+7sqT6czoCZ3UzcD5lEawqC,Chapter 183 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.67,0.3,4,-16.31,1,0.94,0.81,0,0.18,0.5,75.23,3,3.05,1/1/1924,['unknown']
+7tVUbsfyLXq4ydTSbxo9Gb,Chapter 114 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.31,3,-16.39,1,0.95,0.71,0,0.17,0.36,83.04,3,3.1,1/1/1924,['unknown']
+7toWoP5tt6YWgZOr333fpj,Mister Bohr - Remasterizado,0,0,Francisco Canaro,0.56,0.26,7,-17.22,1,0.15,1,0.94,0.3,0.55,180.42,3,2.98,7/11/1924,"['tango', 'vintage tango']"
+7vB5xJr8UhZKy4yCDcsabv,Chapter 130 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.73,0.32,9,-16.25,1,0.95,0.77,0,0.24,0.48,80.32,4,3.06,1/1/1924,['unknown']
+7vILwE3lK6uJJq5bd6wPBy,Chapter 144 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.68,0.34,3,-16.32,1,0.94,0.62,0,0.21,0.34,100.81,4,3.08,1/1/1924,['unknown']
+7vn67zLZGH5Hxm1rHTLGvQ,Hollin - Remasterizado,0,0,Francisco Canaro,0.5,0.34,10,-15.54,1,0.11,1,0.95,0.3,0.47,120.48,4,2.77,7/12/1924,"['tango', 'vintage tango']"
+7z0vTIraYXvDneXdd7phP6,Akşam Olur - Anadolu Koşması,0,0,Bayan Sultan,0.46,0.13,9,-15.23,0,0.07,0.99,0.73,0.16,0.49,127.16,4,2.78,12/18/1924,['unknown']
+7zLGAYTVAF2Yplwk7LPn2O,Chapter 184 - The Unlit Lamp,0,0,"Radclyffe Hall, Alice White, Synthesized Voice",0.72,0.35,3,-16.15,1,0.92,0.76,0,0.13,0.48,123.03,3,3.06,1/1/1924,['unknown']
+2Pu2Hv2NnitI7yxc3rHQzf,Death And Transfiguration,0,0,"Richard Strauss, Karl Böhm, Staatskapelle Dresden",0.11,0.18,7,-16.35,1,0.03,0.97,0.9,0.11,0.04,91.17,3,22.25,12/31/1924,['unknown']
+3XDharvL8vEyxdQwOQKmww,"On The Sunny Side Of The Street (From ""Is Everybody Happy?"")",39,0,Tommy Dorsey,0.68,0.18,3,-13.02,1,0.03,0.97,0,0.18,0.58,112.94,4,3.24,1/1/1925,"['adult standards', 'big band', 'easy listening', 'jazz trombone', 'lounge', 'stride', 'swing', 'vocal jazz']"
+47c6hVC9hL8KoAclJCVOXC,Marie,33,0,"Tommy Dorsey, Jack Leonard, Bunny Berigan",0.53,0.17,5,-14.5,1,0.08,0.99,0.17,0.13,0.8,165.16,4,3.3,1/1/1925,['unknown']
+3p0VwUCFW31rwgugbnAGhW,I'M Gettin' Sentimental Over You,32,0,Tommy Dorsey,0.51,0.11,9,-16.84,1,0.03,0.99,0.93,0.11,0.15,103.75,4,3.62,1/1/1925,"['adult standards', 'big band', 'easy listening', 'jazz trombone', 'lounge', 'stride', 'swing', 'vocal jazz']"
+4ou73CMygT62S9gubMZxIe,Song Of India,32,0,Tommy Dorsey,0.41,0.23,5,-12.83,1,0.06,0.94,0.89,0.43,0.63,174.07,4,3.12,1/1/1925,"['adult standards', 'big band', 'easy listening', 'jazz trombone', 'lounge', 'stride', 'swing', 'vocal jazz']"
+2AATCpoin3pSsUwjLKNCYe,Manhattan Serenade,30,0,Tommy Dorsey,0.46,0.08,8,-15.7,1,0.04,0.98,0,0.14,0.41,77.93,4,4.6,1/1/1925,"['adult standards', 'big band', 'easy listening', 'jazz trombone', 'lounge', 'stride', 'swing', 'vocal jazz']"
